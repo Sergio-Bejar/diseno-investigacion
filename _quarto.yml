@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Diseño de Investigación I"
+  bread-crumbs: false
+  site-url: https://sergio-bejar.github.io/diseno-investigacion/
+  navbar:
+    background: "#1a1a2e"
+    foreground: "#ffffff"
+    pinned: true
+    left:
+      - text: Inicio
+        href: index.qmd
+      - text: Programa
+        href: programa.qmd
+    right:
+      - icon: github
+        href: https://github.com/Sergio-Bejar/diseno-investigacion
+        aria-label: GitHub
+  page-footer:
+    center: |
+      Sergio Béjar López · CIDE · División de Estudios Políticos · Otoño 2026
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    toc-title: "En esta página"
+    lang: es
+    mainfont: "DM Sans"

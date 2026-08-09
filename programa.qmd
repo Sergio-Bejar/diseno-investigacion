@@ -1,0 +1,7 @@
+---
+title: "Programa del curso"
+toc: true
+toc-depth: 3
+---
+
+{{< include programa/programa.md >}}

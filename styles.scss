@@ -1,0 +1,164 @@
+/*-- scss:defaults --*/
+
+$primary: #1a1a2e;
+$secondary: #c45b28;
+$link-color: #1a1a2e;
+$link-hover-color: #c45b28;
+$font-family-sans-serif: 'DM Sans', 'Helvetica Neue', sans-serif;
+$headings-font-family: 'Playfair Display', Georgia, serif;
+$code-font-family: 'JetBrains Mono', monospace;
+$body-color: #1a1a1a;
+$body-bg: #f9f8f5;
+$navbar-bg: #1a1a2e;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;800&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400&display=swap');
+
+/* Hero banner */
+.course-hero {
+  background: linear-gradient(135deg, #0e0e1a 0%, #1a1a2e 50%, #2a2a4e 100%);
+  padding: 7rem 0 3rem;
+  text-align: center;
+  margin-top: -1px;
+  margin-bottom: 2rem;
+  border-bottom: 5px solid;
+  border-image: linear-gradient(90deg, #c45b28, #e8a838, #c45b28) 1;
+}
+
+.course-hero h1 {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  font-size: 2.2rem;
+  letter-spacing: 0.18em;
+  color: rgba(255,255,255,0.9);
+  text-transform: uppercase;
+  margin-bottom: 0.3rem;
+}
+
+.course-hero .accent-line {
+  width: 64px;
+  height: 4px;
+  background: #c45b28;
+  margin: 0.6rem auto;
+  border-radius: 1px;
+}
+
+.course-hero .numeral {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1.6rem;
+  letter-spacing: 0.2em;
+  color: #c45b28;
+}
+
+.course-hero .meta {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.55);
+  margin-top: 1rem;
+}
+
+.course-hero .meta strong {
+  color: rgba(255,255,255,0.8);
+}
+
+/* Module callouts */
+.callout-note {
+  border-left-color: #e8a838 !important;
+}
+
+.callout-note .callout-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+}
+
+.callout-tip {
+  border-left-color: #1a1a2e !important;
+}
+
+/* Session list */
+.session-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.session-list li {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid #eceae5;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.session-list li:last-child {
+  border-bottom: none;
+}
+
+.session-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  color: #ffffff;
+  background: #1a1a2e;
+  padding: 0.15rem 0.45rem;
+  border-radius: 2px;
+  margin-right: 0.6rem;
+}
+
+.session-title {
+  font-weight: 500;
+}
+
+.session-readings {
+  font-size: 0.82rem;
+  color: #6d6d6d;
+  margin-top: 0.25rem;
+  padding-left: 2.8rem;
+}
+
+.session-hint {
+  font-size: 0.8rem;
+  color: #8a7a5a;
+  font-style: italic;
+  margin-top: 0.2rem;
+  padding-left: 2.8rem;
+}
+
+.parcial {
+  color: #c45b28;
+  font-weight: 600;
+}
+
+/* Action buttons */
+.action-bar {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.action-bar .btn {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 600;
+  font-size: 0.88rem;
+  padding: 0.65rem 1.4rem;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+/* Footer */
+.nav-footer {
+  background: #0e0e1a;
+  color: rgba(255,255,255,0.5);
+  font-size: 0.82rem;
+}
+
+/* Navbar tweaks */
+.navbar {
+  border-bottom: 3px solid #e8a838;
+}
+
+/* Table styling */
+.table {
+  font-size: 0.9rem;
+}
