@@ -1,7 +1,7 @@
 # DISEÑO DE INVESTIGACIÓN I
 
 **Centro de Investigación y Docencia Económicas**
-Maestría y Doctorado en Ciencia Política — Otoño 2026
+Doctorado en Ciencia Política — Otoño 2026
 
 Profesor — Dr. Sergio Béjar López
 Correo institucional — sergio.bejar@cide.edu

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Maestría y Doctorado en Ciencia Política</strong><br>
+  <strong>Doctorado en Ciencia Política</strong><br>
   Prof. Sergio Béjar López · 18 de agosto al 1 de diciembre
 </p>
 

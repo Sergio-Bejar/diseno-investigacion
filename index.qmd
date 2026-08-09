@@ -10,7 +10,7 @@ page-layout: full
   <div class="accent-line"></div>
   <div class="numeral">I</div>
   <div class="meta">
-    <strong>CIDE</strong> · Maestría y Doctorado en Ciencia Política · <strong>Otoño 2026</strong><br>
+    <strong>CIDE</strong> · Doctorado en Ciencia Política · <strong>Otoño 2026</strong><br>
     Martes 17:00–20:00 · 18 de agosto al 1 de diciembre · 16 sesiones
   </div>
 </div>
