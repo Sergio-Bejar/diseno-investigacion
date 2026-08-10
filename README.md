@@ -4,13 +4,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CIDE-Otoño_2026-1a1a2e?style=flat-square" alt="CIDE Otoño 2026">
-  <img src="https://img.shields.io/badge/16_sesiones-martes-e8a838?style=flat-square" alt="16 sesiones">
+  <img src="https://img.shields.io/badge/14_sesiones-martes-e8a838?style=flat-square" alt="14 sesiones">
   <img src="https://img.shields.io/badge/licencia-CC_BY--NC--SA_4.0-c45b28?style=flat-square" alt="CC BY-NC-SA 4.0">
 </p>
 
 <p align="center">
   <strong>Doctorado en Ciencia Política</strong><br>
-  Prof. Sergio Béjar López · 18 de agosto al 1 de diciembre
+  Prof. Sergio Béjar López · 25 de agosto al 1 de diciembre
 </p>
 
 ---
@@ -30,54 +30,54 @@ Es el primer semestre de una secuencia de dos. El segundo (Primavera 2027) entra
 ## Temario
 
 <details>
-<summary><strong>Bloque I</strong> — Fundamentos: de la pregunta al argumento &nbsp;(sesiones 1–7)</summary>
+<summary><strong>Bloque I</strong> — Fundamentos: de la pregunta al argumento &nbsp;(sesiones 1–6)</summary>
 <br>
 
-| # | Sesión | Lectura central |
+| # | Sesión | Lecturas principales |
 |---|---|---|
-| 1 | Problemas de demarcación, evidencia y cambio científico | Blair et al. (2023) |
-| 2 | Preguntas de investigación y puzzles empíricos | Geddes (2003) |
-| 3 | La revisión de literatura como argumento | Knopf (2006) |
-| 4 | Causalidad y mecanismos causales | Brady (2008) |
-| 5 | Contrafactuales | Fearon (1991) |
-| 6 | Hipótesis y expectativas observables | Geddes (2003) |
-| 7 | Conceptos, medición y operacionalización | Adcock & Collier (2001) |
+| 1 | Presentación del curso | Blair et al. (2023) |
+| 2 | Epistemología y preguntas de investigación | Weber (1917) · Popper (1959) · Geddes (2003) |
+| 3 | La revisión de literatura como argumento | Knopf (2006) · Trachtenberg (2006) · Gerring (2012) |
+| 4 | Causalidad, mecanismos y contrafactuales | Brady (2008) · Fearon (1991) · Morgan & Winship (2015) |
+| 5 | Hipótesis y expectativas observables | Geddes (2003) · KKV (1994) · Van Evera (1997) |
+| 6 | Conceptos, medición y operacionalización | Adcock & Collier (2001) · Sartori (1970) · Gerring (2012) |
 
 </details>
 
 <details>
-<summary><strong>Taller y examen parcial</strong> &nbsp;(sesiones 8–10)</summary>
+<summary><strong>Taller y examen parcial</strong> &nbsp;(sesiones 7–9)</summary>
 <br>
 
 | # | Sesión | Nota |
 |---|---|---|
-| 8 | Taller intermedio: memos parciales | Entrega: 8–10 pp |
-| 9 | El menú de diseños de investigación | Blair et al. (2023) |
-| 10 | **Examen parcial aplicado** | Sesiones 1–9 |
+| 7 | Taller intermedio: memos parciales | Entrega: 8–10 pp |
+| 8 | El menú de diseños de investigación | Blair et al. (2023) · Mahoney & Goertz (2006) |
+| 9 | **Examen parcial aplicado** | Sesiones 1–8 |
+
+*No hay clase el 27 de octubre (conferencia WAPOR).*
 
 </details>
 
 <details>
-<summary><strong>Bloque II</strong> — Estrategias de diseño y tipos de datos &nbsp;(sesiones 11–15)</summary>
+<summary><strong>Bloque II</strong> — Estrategias de diseño y tipos de datos &nbsp;(sesiones 10–12)</summary>
 <br>
 
-| # | Sesión | Lectura central |
+| # | Sesión | Lecturas principales |
 |---|---|---|
-| 11 | Selección de casos | Geddes (2003) |
-| 12 | Estudios de caso y comparación | Gerring (2004) |
-| 13 | La lógica de la comparación estadística | Achen (2005) |
-| 14 | Datos I: encuestas, entrevistas, archivos, campo | Kapiszewski et al. (2015) |
-| 15 | Datos II: experimentos y cuasi-experimentos | Dunning (2012) |
+| 10 | Selección de casos, estudios de caso y process tracing | Geddes (2003) · Gerring (2004) · Bennett & Elman (2006) |
+| 11 | La lógica de la comparación estadística | Achen (2005) · Snyder (2001) · KKV (1994) |
+| 12 | Datos, trabajo de campo y experimentos | Kapiszewski et al. (2015) · Dunning (2012) · Gerber & Green (2012) |
 
 </details>
 
 <details>
-<summary><strong>Taller final</strong> &nbsp;(sesión 16)</summary>
+<summary><strong>Talleres finales</strong> &nbsp;(sesiones 13–14)</summary>
 <br>
 
 | # | Sesión | Nota |
 |---|---|---|
-| 16 | Presentación de research design memos | Entrega: 15–20 pp |
+| 13 | Taller de diagnóstico de memos | Retroalimentación grupal |
+| 14 | Presentación de memos de diseño de investigación | Entrega: 15–20 pp |
 
 </details>
 
@@ -85,19 +85,19 @@ Es el primer semestre de una secuencia de dos. El segundo (Primavera 2027) entra
 
 | Componente | Peso |
 |---|---|
-| Participación activa | 10% |
+| Participación activa | 15% |
 | Memo parcial | 5% |
 | Análisis crítico de tesis doctoral | 15% |
 | Examen parcial aplicado | 15% |
 | Presentaciones en talleres | 10% |
-| Comentarios escritos a compañeros | 10% |
-| Research design memo final | 35% |
+| Memo de diseño de investigación final | 40% |
 
 ## Navegación del repositorio
 
 | Carpeta | Qué contiene |
 |---|---|
 | [`programa/`](programa/) | Programa completo del curso |
+| [`syllabus/`](syllabus/) | Syllabus PDF (ctk-syllabus, Typst) |
 | [`sesiones/`](sesiones/) | Material por sesión |
 | [`evaluacion/`](evaluacion/) | Lineamientos y rúbricas |
 | [`recursos/`](recursos/) | Guías complementarias |
