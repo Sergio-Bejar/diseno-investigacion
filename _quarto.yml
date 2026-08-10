@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!programa/programa-pdf.qmd"
+    - "!syllabus/"
 
 website:
   title: "Diseño de Investigación I"

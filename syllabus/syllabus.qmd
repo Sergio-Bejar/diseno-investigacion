@@ -20,7 +20,7 @@ date-format: "[Otoño 2026]"
 office: "Lugar: Sala de seminarios de la DEP"
 office-hours: "Horario de atención: por cita previa"
 bibliography: bibliography.bib
-frontmatter-logo: "../assets/logo.svg"
+frontmatter-logo: "logo.svg"
 frontmatter-logo-height: 0.75in
 ---
 
@@ -30,7 +30,7 @@ Este seminario ofrece una introducción doctoral al diseño de investigación en
 
 El curso es el primero de una secuencia de dos semestres. El primer semestre se concentra en la arquitectura de un proyecto de investigación. El segundo (Primavera 2027) entra a la inferencia causal formal y a la construcción de la propuesta de tesis. El objetivo de la secuencia completa es que al terminar tengas una propuesta de tesis sólida, defendible, y con una estrategia empírica creíble.
 
-A través de lecturas, entregas progresivas y discusiones en clase, desarrollarás tus habilidades de diseño y las aplicarás a un proyecto de investigación propio, para el cual producirás un research design memo.
+A través de lecturas, entregas progresivas y discusiones en clase, desarrollarás tus habilidades de diseño y las aplicarás a un proyecto de investigación propio, para el cual producirás un memo de diseño de investigación.
 
 **Horario.** Martes, 17:00--20:00. Del 25 de agosto al 1 de diciembre (14 sesiones). No hay clase el 27 de octubre (conferencia WAPOR).
 
@@ -73,7 +73,7 @@ Para cada lectura, considera las siguientes preguntas:
 | Análisis crítico de tesis doctoral (sesión 11) | 15% |
 | Examen parcial aplicado (sesión 9) | 15% |
 | Presentaciones en talleres (sesiones 7 y 14) | 10% |
-| Research design memo final (sesión 14) | 40% |
+| Memo de diseño de investigación final (sesión 14) | 40% |
 
 : {#tbl-evaluacion}
 
@@ -109,7 +109,7 @@ Para cada lectura, considera las siguientes preguntas:
 
 **Presentaciones en talleres (10%).** Sesiones 7 y 14, 15--20 minutos cada una. Se evalúa la claridad de la exposición, la capacidad de responder preguntas, y la evidencia de progreso entre la primera y la segunda presentación.
 
-**Research design memo final (40%).** Se espera que trabajes de manera progresiva a lo largo del semestre en un diseño de investigación original, idealmente vinculado a tu proyecto de tesis. Para la sesión 14: 15--20 páginas con pregunta, literatura, argumento, hipótesis, estrategia empírica, selección de casos, datos y limitaciones. El memo debe concentrarse enteramente en cuestiones de teoría y diseño empírico, no en la implementación del análisis. Puede sin embargo presentar resultados de análisis exploratorios si son directamente relevantes para el diseño. Entrega 48 horas antes. Citación Chicago (autor-año).
+**Memo de diseño de investigación final (40%).** Se espera que trabajes de manera progresiva a lo largo del semestre en un diseño de investigación original, idealmente vinculado a tu proyecto de tesis. Para la sesión 14: 15--20 páginas con pregunta, literatura, argumento, hipótesis, estrategia empírica, selección de casos, datos y limitaciones. El memo debe concentrarse enteramente en cuestiones de teoría y diseño empírico, no en la implementación del análisis. Puede sin embargo presentar resultados de análisis exploratorios si son directamente relevantes para el diseño. Entrega 48 horas antes. Citación Chicago (autor-año).
 
 # Políticas del curso
 
@@ -129,24 +129,22 @@ Las fechas son tentativas y están sujetas al calendario académico del CIDE.
 
 ## Bloque I -- Fundamentos: de la pregunta al argumento
 
-### Sesión 1 -- 25 de agosto. Presentación del curso. Problemas de demarcación, evidencia y cambio científico (~100 pp)
+### Sesión 1 -- 25 de agosto. Presentación del curso (~20 pp)
 
-Presentación del seminario y la lógica de la secuencia de dos semestres. ¿Qué distingue el conocimiento científico de otras formas de conocimiento? La falsabilidad de Popper, la ciencia normal de Kuhn, y la investigación como producto de decisiones de diseño.
+Presentación del seminario, discusión del temario y la lógica de la secuencia de dos semestres. Cada estudiante se presenta brevemente: trayectoria, tema de interés, y qué espera del curso. Asignación de la tesis doctoral.
 
 - [@blair2023], Ch. 1 (~20 pp)
+
+### Sesión 2 -- 1 de septiembre. Epistemología y preguntas de investigación (~96 pp)
+
+¿Qué distingue el conocimiento científico de otras formas de conocimiento? La falsabilidad de Popper, la ciencia normal de Kuhn, y la investigación como producto de decisiones de diseño. ¿Qué hace que una pregunta sea investigable? Preguntas normativas vs. positivas, descriptivas vs. causales.
+
 - [@weber2008] (27 pp)
 - [@popper1959], Ch. 1, pp. 3--26 (23 pp)
-- [@kuhn1962], Ch. 1--3 (~30 pp)
-
-### Sesión 2 -- 1 de septiembre. Preguntas de investigación y puzzles empíricos (~97 pp)
-
-¿Qué hace que una pregunta sea investigable? Preguntas normativas vs. positivas, descriptivas vs. causales. Transformar una curiosidad temática en una pregunta que genere una contribución identificable.
-
 - [@geddes2003], Ch. 1 (~35 pp)
-- [@kkv1994], Ch. 1 (31 pp)
-- [@gerring2012], Ch. 1 (~20 pp)
 - [@platt1964] (7 pp)
 - [@eidlin2011] (4 pp)
+- Recomendadas: [@kuhn1962], Ch. 1--3; [@kkv1994], Ch. 1; [@gerring2012], Ch. 1
 
 ### Sesión 3 -- 8 de septiembre. La revisión de literatura como argumento (~94 pp)
 
@@ -212,37 +210,27 @@ Cubre sesiones 1--8. Diagnóstico de un diseño hipotético. Una hoja de concept
 
 ## Bloque II -- Estrategias de diseño y tipos de datos
 
-### Sesión 10 -- 3 de noviembre. Selección de casos: lógica, estrategias y trampas (~99 pp)
+### Sesión 10 -- 3 de noviembre. Selección de casos, estudios de caso y process tracing (~97 pp)
 
-Selección en la variable dependiente, estrategias de selección (most similar, most different, casos típicos, desviados, cruciales), y cómo la selección interactúa con el tipo de inferencia que buscamos.
+Selección en la variable dependiente, estrategias de selección (most similar, most different, casos típicos, desviados, cruciales). El estudio de caso como estrategia de inferencia causal. Process tracing.
 
 - [@geddes2003], Ch. 3 (40 pp)
-- [@seawright2008] (15 pp)
-- [@gerring2012], Ch. 7 (~30 pp)
-- [@holland2016] (14 pp)
-- Recomendada: [@collier1996]
-
-### Sesión 11 -- 10 de noviembre. Estudios de caso y comparación como estrategia de diseño (~96 pp)
-
-El estudio de caso como estrategia de inferencia causal. Process tracing. Limitaciones de la comparación con pocos casos. Entrega: análisis crítico de tesis doctoral (10--12 pp).
-
 - [@gerring2004] (14 pp)
+- [@seawright2008] (15 pp)
 - [@bennett2006] (22 pp)
-- [@lieberson1991] (14 pp)
-- [@seawright2016], Ch. 1 (~20 pp)
 - [@collier2011] (6 pp)
-- [@gerring2012], Ch. 8 (20 pp)
+- Recomendadas: [@holland2016]; [@lieberson1991]; [@seawright2016], Ch. 1; [@gerring2012], Ch. 7--8; [@collier1996]
 
-### Sesión 12 -- 17 de noviembre. La lógica de la comparación estadística (~96 pp)
+### Sesión 11 -- 10 de noviembre. La lógica de la comparación estadística (~96 pp)
 
-La lógica del N grande, las "regresiones de bote de basura", comparación subnacional vs. entre países.
+La lógica del N grande, las "regresiones de bote de basura", comparación subnacional vs. entre países. Entrega: análisis crítico de tesis doctoral (10--12 pp).
 
 - [@achen2005] (14 pp)
 - [@snyder2001] (18 pp)
 - [@gerring2012], Ch. 11 (~30 pp)
 - [@kkv1994], Ch. 4 (34 pp)
 
-### Sesión 13 -- 24 de noviembre. Datos, trabajo de campo y la lógica de los experimentos (~95 pp)
+### Sesión 12 -- 17 de noviembre. Datos, trabajo de campo y la lógica de los experimentos (~95 pp)
 
 Fuentes de datos y cómo interactúan con el diseño. Ética: consentimiento informado, anonimato, posicionalidad. Aleatorización y el problema fundamental de la inferencia causal. Experimentos naturales y cuándo son creíbles.
 
@@ -253,8 +241,12 @@ Fuentes de datos y cómo interactúan con el diseño. Ética: consentimiento inf
 
 ---
 
-## Taller final
+## Talleres finales
 
-### Sesión 14 -- 1 de diciembre. Taller final: presentación de research design memos
+### Sesión 13 -- 24 de noviembre. Taller de diagnóstico de memos
 
-No hay lecturas nuevas. Cada estudiante presenta su research design memo completo en 15--20 minutos. Entrega: research design memo final (15--20 pp), 48 horas antes.
+No hay lecturas nuevas. Cada estudiante presenta el avance de su memo de diseño de investigación y recibe retroalimentación del grupo. El propósito es identificar problemas y oportunidades de mejora antes de la entrega final.
+
+### Sesión 14 -- 1 de diciembre. Taller final: presentación de memos de diseño de investigación
+
+No hay lecturas nuevas. Cada estudiante presenta su memo de diseño de investigación completo en 15--20 minutos. Entrega: memo de diseño de investigación final (15--20 pp), 48 horas antes.

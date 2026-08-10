@@ -34,7 +34,7 @@ Al terminar este curso serás capaz de
 5. Distinguir entre las principales estrategias de diseño (experimental, cuasi-experimental, observacional, cualitativa, mixta) y evaluar sus fortalezas y limitaciones.
 6. Identificar las dimensiones éticas de las decisiones de diseño — desde la formulación de la pregunta hasta la publicación de resultados.
 7. Analizar críticamente una tesis doctoral como ejercicio integrador de diseño de investigación.
-8. Producir un research design memo que articule pregunta, literatura, argumento, hipótesis, estrategia empírica y datos.
+8. Producir un memo de diseño de investigación que articule pregunta, literatura, argumento, hipótesis, estrategia empírica y datos.
 
 ## Textos principales
 
@@ -64,7 +64,7 @@ Al inicio del curso cada estudiante elegirá una tesis doctoral de la lista incl
 | Análisis crítico de tesis doctoral (sesión 11) | 15% |
 | Examen parcial aplicado (sesión 9) | 15% |
 | Presentaciones en talleres (sesiones 7 y 14) | 10% |
-| Research design memo final (sesión 14) | 40% |
+| Memo de diseño de investigación final (sesión 14) | 40% |
 
 ### Participación activa — 15%
 
@@ -110,7 +110,7 @@ El examen parcial se realizará en la sesión 9. Cubre el material de las sesion
 
 Presentarás tu trabajo en las sesiones 7 y 14. Cada presentación debe durar 15–20 minutos, seguida de discusión. Se evalúa la claridad de la exposición, la capacidad de responder preguntas, y la evidencia de progreso entre la primera y la segunda presentación.
 
-### Research design memo final — 40%
+### Memo de diseño de investigación final — 40%
 
 Para la sesión 14 entregarás un documento de 15 a 20 páginas que contenga: (1) tu pregunta de investigación; (2) una revisión de literatura que justifique la pregunta como contribución; (3) tu argumento con mecanismos explícitos; (4) las hipótesis derivadas; (5) la estrategia empírica que propones, con justificación; (6) la selección de casos o muestra; (7) los datos que utilizarás y su disponibilidad; y (8) una discusión honesta de las limitaciones del diseño. Este memo debe leerse como el primer borrador serio de tu propuesta de tesis. Se entrega 48 horas antes de la sesión final. Citación en formato Chicago (autor-año).
 
@@ -133,37 +133,38 @@ Para la sesión 14 entregarás un documento de 15 a 20 páginas que contenga: (1
 ---
 
 ### Sesión 1 — 25 de agosto
-**Presentación del curso. Problemas de demarcación, evidencia y cambio científico**
+**Presentación del curso**
 
-Presentación del seminario, discusión del temario y la lógica de la secuencia de dos semestres. Cada estudiante se presenta brevemente: trayectoria, tema de interés, y qué espera del curso. Asignación de la tesis doctoral.
+Presentación del seminario, discusión del temario y la lógica de la secuencia de dos semestres. Cada estudiante se presenta brevemente: trayectoria, tema de interés, y qué espera del curso. Asignación de la tesis doctoral. Introducción a la idea central del curso: la investigación como producto de decisiones de diseño, cada una con implicaciones éticas e inferenciales.
 
-En la segunda parte de la sesión discutimos dos ideas que enmarcan todo el curso. Primero: ¿qué distingue el conocimiento científico de otras formas de conocimiento? Revisamos la falsabilidad de Popper y la idea de Kuhn sobre ciencia normal y cambio de paradigma, no como un tratamiento exhaustivo de la filosofía de la ciencia sino como punto de partida para entender por qué diseñamos investigación de cierta manera — y por qué las reglas del juego cambian. Segundo: la idea central del curso — la investigación como producto de decisiones de diseño, cada una con implicaciones éticas e inferenciales.
+*Cómo leer.* Blair et al. es tu mapa para todo el semestre — lee el capítulo con atención a la idea de que un diseño se puede declarar, diagnosticar y rediseñar antes de recoger un solo dato.
 
-*Cómo leer.* Blair et al. es tu mapa para todo el semestre — lee el capítulo con atención a la idea de que un diseño se puede declarar, diagnosticar y rediseñar antes de recoger un solo dato. De Popper, concéntrate en la demarcación entre ciencia y no-ciencia (pp. 3–26, son breves). Pregúntate: ¿la ciencia política opera con un paradigma dominante?
-
-Lecturas obligatorias (~100 pp):
+Lectura obligatoria (~20 pp):
 
 - Blair, Graeme, Alexander Coppock, and Macartan Humphreys. 2023. *Research Design in the Social Sciences*. Princeton: Princeton University Press, Ch. 1 (~20 pp).
-- Weber, Max. 2008 [1917]. "Science as a Vocation." In *Max Weber's Complete Writings on Academic and Political Vocations*. New York: Algora (27 pp).
-- Popper, Karl. 1959. *The Logic of Scientific Discovery*. London: Hutchinson, Ch. 1, pp. 3–26 (23 pp).
-- Kuhn, Thomas S. 1962. *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press, Ch. 1–3 (~30 pp).
 
 ---
 
 ### Sesión 2 — 1 de septiembre
-**Preguntas de investigación y puzzles empíricos**
+**Epistemología y preguntas de investigación**
 
-¿Qué hace que una pregunta sea investigable? Distinguimos entre preguntas normativas y positivas, entre preguntas descriptivas y causales, entre "big think" y proyectos realizables. Discutimos cómo transformar una curiosidad temática en una pregunta de investigación que pueda generar una contribución identificable a la literatura. También discutimos cuándo una pregunta descriptiva bien formulada es más valiosa que una pregunta causal prematura.
+¿Qué distingue el conocimiento científico de otras formas de conocimiento? La falsabilidad de Popper, la vocación científica de Weber, y la investigación como producto de decisiones de diseño. ¿Qué hace que una pregunta sea investigable? Preguntas normativas vs. positivas, descriptivas vs. causales. Transformar una curiosidad temática en una pregunta que genere una contribución identificable.
 
-*Cómo leer.* Geddes es directo y provocador — presta atención a sus ejemplos de preguntas demasiado grandes y cómo las reformula. KKV Ch. 1 es denso; no intentes absorberlo todo, concéntrate en la distinción entre inferencia descriptiva e inferencia causal. Platt es un artículo de 1964 en *Science* que sigue siendo sorprendentemente relevante — léelo como una invitación a pensar en términos de hipótesis competidoras.
+*Cómo leer.* Weber te sitúa en la vocación académica — léelo pensando en tu propia trayectoria. De Popper, concéntrate en la demarcación entre ciencia y no-ciencia (pp. 3–26, son breves). Geddes es directo y provocador — presta atención a sus ejemplos de preguntas demasiado grandes y cómo las reformula. Platt es un artículo de 1964 que sigue siendo sorprendentemente relevante — léelo como una invitación a pensar en términos de hipótesis competidoras. Pregúntate: ¿la ciencia política opera con un paradigma dominante?
 
-Lecturas obligatorias (~97 pp):
+Lecturas obligatorias (~96 pp):
 
+- Weber, Max. 2008 [1917]. "Science as a Vocation." In *Max Weber's Complete Writings on Academic and Political Vocations*. New York: Algora (27 pp).
+- Popper, Karl. 1959. *The Logic of Scientific Discovery*. London: Hutchinson, Ch. 1, pp. 3–26 (23 pp).
 - Geddes, Barbara. 2003. *Paradigms and Sand Castles*. Ann Arbor: University of Michigan Press, Ch. 1 (~35 pp).
-- King, Gary, Robert O. Keohane, and Sidney Verba. 1994. *Designing Social Inquiry*. Princeton: Princeton University Press, Ch. 1 (31 pp).
-- Gerring, John. 2012. *Social Science Methodology*. 2nd ed. Cambridge: Cambridge University Press, Ch. 1 (~20 pp).
 - Platt, John R. 1964. "Strong Inference." *Science* 146(3642): 347–353 (7 pp).
 - Eidlin, Fred. 2011. "The Method of Problems versus the Method of Topics." *PS: Political Science and Politics* 44(4): 758–761 (4 pp).
+
+Recomendadas:
+
+- Kuhn, Thomas S. 1962. *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press, Ch. 1–3.
+- King, Gary, Robert O. Keohane, and Sidney Verba. 1994. *Designing Social Inquiry*. Princeton: Princeton University Press, Ch. 1.
+- Gerring, John. 2012. *Social Science Methodology*. 2nd ed. Cambridge: Cambridge University Press, Ch. 1.
 
 ---
 
@@ -280,47 +281,34 @@ Recibirás un resumen de investigación o un diseño hipotético y deberás diag
 ---
 
 ### Sesión 10 — 3 de noviembre
-**Selección de casos: lógica, estrategias y trampas**
+**Selección de casos, estudios de caso y process tracing**
 
-La selección de casos es una de las decisiones con mayores consecuencias para el diseño. Discutimos por qué seleccionar en la variable dependiente es problemático, las estrategias de selección (most similar, most different, casos típicos, desviados, cruciales), y cómo la selección interactúa con el tipo de inferencia que buscamos.
+La selección de casos es una de las decisiones con mayores consecuencias para el diseño. Discutimos por qué seleccionar en la variable dependiente es problemático, las estrategias de selección (most similar, most different, casos típicos, desviados, cruciales), y cómo la selección interactúa con el tipo de inferencia que buscamos. ¿Qué puede y qué no puede hacer un estudio de caso? El estudio de caso como estrategia de inferencia causal. Process tracing.
 
-*Cómo leer.* Geddes Ch. 3 es devastador en sus ejemplos de selección sesgada — busca la lógica detrás de cada ejemplo, no solo la conclusión. Seawright y Gerring ofrecen un "menú" de técnicas; trata de identificar cuál se ajusta mejor a tu propio proyecto.
+*Cómo leer.* Geddes Ch. 3 es devastador en sus ejemplos de selección sesgada — busca la lógica detrás de cada ejemplo, no solo la conclusión. Seawright y Gerring ofrecen un "menú" de técnicas; trata de identificar cuál se ajusta mejor a tu propio proyecto. Gerring (2004) es la referencia obligada sobre qué es y qué no es un estudio de caso — léelo con cuidado, hay más matices de los que parece. Bennett y Elman te actualizan sobre los desarrollos recientes (process tracing, tipologías).
 
-Lecturas obligatorias (~99 pp):
+Lecturas obligatorias (~97 pp):
 
 - Geddes, Barbara. 2003. *Paradigms and Sand Castles*, Ch. 3 (40 pp).
+- Gerring, John. 2004. "What is a Case Study and What is it Good for?" *American Political Science Review* 98(2): 341–354 (14 pp).
 - Seawright, Jason and John Gerring. 2008. "Case-Selection Techniques in Case Study Research: A Menu of Qualitative and Quantitative Options." *Political Research Quarterly* 61(2): 294–308 (15 pp).
-- Gerring, John. 2012. *Social Science Methodology*. 2nd ed. Cambridge: Cambridge University Press, Ch. 7 (~30 pp).
-- Holland, Alisha C. 2016. "Forbearance." *American Political Science Review* 110(2): 232–246 (14 pp).
+- Bennett, Andrew and Colin Elman. 2006. "Qualitative Research: Recent Developments in Case Study Methods." *Annual Review of Political Science* 9: 455–476 (22 pp).
+- Collier, David. 2011. "Understanding Process Tracing." *PS: Political Science and Politics* 44(4): 823–830 (6 pp).
 
-Recomendada:
+Recomendadas:
 
+- Holland, Alisha C. 2016. "Forbearance." *American Political Science Review* 110(2): 232–246.
+- Lieberson, Stanley. 1991. "Small N's and Big Conclusions." *Social Forces* 70: 307–320.
+- Seawright, Jason. 2016. *Multi-Method Social Science*. Cambridge University Press, Ch. 1.
+- Gerring, John. 2012. *Social Science Methodology*, Ch. 7–8.
 - Collier, David and James Mahoney. 1996. "Insights and Pitfalls: Selection Bias in Qualitative Research." *World Politics* 49(1): 56–81.
 
 ---
 
 ### Sesión 11 — 10 de noviembre
-**Estudios de caso y comparación como estrategia de diseño**
-
-¿Qué puede y qué no puede hacer un estudio de caso? Discutimos el estudio de caso como estrategia de inferencia causal (no solo como descripción), las condiciones bajo las que un solo caso o un N pequeño puede generar conocimiento causal, y las limitaciones de la comparación con pocos casos.
-
-*Cómo leer.* Gerring (2004) es la referencia obligada sobre qué es y qué no es un estudio de caso — léelo con cuidado, hay más matices de los que parece. Bennett y Elman te actualizan sobre los desarrollos recientes (process tracing, tipologías). Lieberson es provocador: su argumento es que mucha investigación comparada con pocos casos no tiene la lógica inferencial que pretende. ¿Estás de acuerdo?
+**La lógica de la comparación estadística**
 
 **Entrega: análisis crítico de tesis doctoral (10–12 pp).**
-
-Lecturas obligatorias (~96 pp):
-
-- Gerring, John. 2004. "What is a Case Study and What is it Good for?" *American Political Science Review* 98(2): 341–354 (14 pp).
-- Bennett, Andrew and Colin Elman. 2006. "Qualitative Research: Recent Developments in Case Study Methods." *Annual Review of Political Science* 9: 455–476 (22 pp).
-- Lieberson, Stanley. 1991. "Small N's and Big Conclusions: An Examination of the Reasoning in Comparative Studies Based on a Small Number of Cases." *Social Forces* 70: 307–320 (14 pp).
-- Seawright, Jason. 2016. *Multi-Method Social Science: Combining Qualitative and Quantitative Tools*. Cambridge: Cambridge University Press, Ch. 1 (~20 pp).
-- Collier, David. 2011. "Understanding Process Tracing." *PS: Political Science and Politics* 44(4): 823–830 (6 pp).
-- Gerring, John. 2012. *Social Science Methodology*. 2nd ed. Cambridge: Cambridge University Press, Ch. 8 (20 pp).
-
----
-
-### Sesión 12 — 17 de noviembre
-**La lógica de la comparación estadística**
 
 Sin entrar en econometría (que llevarás en Métodos Cuantitativos), discutimos la lógica que subyace al análisis cuantitativo como estrategia de diseño. ¿Qué ganas con un N grande? ¿Cuáles son los riesgos de las "regresiones de bote de basura"? ¿Cómo se complementa la comparación subnacional con la comparación entre países?
 
@@ -335,7 +323,7 @@ Lecturas obligatorias (~96 pp):
 
 ---
 
-### Sesión 13 — 24 de noviembre
+### Sesión 12 — 17 de noviembre
 **Datos, trabajo de campo y la lógica de los experimentos**
 
 Pasamos de la estrategia al material. Discutimos las principales fuentes de datos en ciencia política: encuestas, entrevistas, archivos históricos, y trabajo de campo. El énfasis es en cómo la elección de los datos interactúa con el diseño: no todos los datos sirven para todas las preguntas. En la segunda parte de la sesión, introducimos la lógica de los diseños experimentales y cuasi-experimentales de manera intuitiva. ¿Por qué la aleatorización resuelve el problema de la inferencia causal? ¿Qué son los experimentos naturales y cuándo son creíbles? El objetivo es que entiendas por qué estas estrategias son poderosas y cuáles son sus supuestos, para que en el segundo semestre puedas abordarlas con la formalización técnica. Dimensión ética: consentimiento informado, anonimato, riesgos para participantes, y posicionalidad del investigador.
@@ -357,18 +345,25 @@ Recomendadas:
 
 ---
 
+### Sesión 13 — 24 de noviembre
+**Taller de diagnóstico de memos**
+
+No hay lecturas nuevas. Cada estudiante presenta el avance de su memo de diseño de investigación y recibe retroalimentación del grupo. El propósito es identificar problemas y oportunidades de mejora antes de la entrega final.
+
+---
+
 ### Sesión 14 — 1 de diciembre
-**Taller final: presentación de research design memos**
+**Taller final: presentación de memos de diseño de investigación**
 
-No hay lecturas nuevas. Cada estudiante presenta su research design memo completo (pregunta, literatura, argumento, hipótesis, estrategia empírica, datos, limitaciones) en 15–20 minutos, seguido de discusión.
+No hay lecturas nuevas. Cada estudiante presenta su memo de diseño de investigación completo (pregunta, literatura, argumento, hipótesis, estrategia empírica, datos, limitaciones) en 15–20 minutos, seguido de discusión.
 
-**Entrega: research design memo final (15–20 pp), 48 horas antes de la sesión.**
+**Entrega: memo de diseño de investigación final (15–20 pp), 48 horas antes de la sesión.**
 
 ---
 
 ## Vista previa: Diseño de Investigación II (Primavera 2027)
 
-El segundo semestre retoma tu research design memo y lo transforma en una propuesta de tesis defendible. Para entonces habrás completado Métodos Cuantitativos I y estarás cursando Métodos Cuantitativos II y Métodos Cualitativos, lo que permite abordar las estrategias de identificación con el rigor técnico que requieren. El semestre dedica más tiempo a talleres de diagnóstico y rediseño de los proyectos de los estudiantes.
+El segundo semestre retoma tu memo de diseño de investigación y lo transforma en una propuesta de tesis defendible. Para entonces habrás completado Métodos Cuantitativos I y estarás cursando Métodos Cuantitativos II y Métodos Cualitativos, lo que permite abordar las estrategias de identificación con el rigor técnico que requieren. El semestre dedica más tiempo a talleres de diagnóstico y rediseño de los proyectos de los estudiantes.
 
 | Sesión | Tema |
 |---|---|
