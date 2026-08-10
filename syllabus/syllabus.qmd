@@ -1,0 +1,260 @@
+---
+title: Diseño de Investigación I
+subtitle: Doctorado en Ciencia Política
+header-left: Diseño de Investigación I
+header-right: CIDE
+author:
+  - name: "Sergio Béjar López"
+    email: sergio.bejar@cide.edu
+    affiliations:
+      - department: División de Estudios Políticos
+        name: Centro de Investigación y Docencia Económicas
+        city: Ciudad de México
+        country: México
+format:
+  ctk-syllabus-typst:
+    mainfont: "Palatino"
+    codefont: "Menlo"
+date: "Otoño 2026"
+date-format: "[Otoño 2026]"
+office: "Lugar: Sala de seminarios de la DEP"
+office-hours: "Horario de atención: por cita previa"
+bibliography: bibliography.bib
+frontmatter-logo: "../assets/logo.svg"
+frontmatter-logo-height: 0.75in
+---
+
+# Descripción del curso
+
+Este seminario ofrece una introducción doctoral al diseño de investigación en ciencia política. Exploraremos tareas fundamentales que atraviesan tradiciones epistemológicas y enfoques metodológicos: construir un argumento, formular conceptos, medir, seleccionar casos, razonar causalmente, y evaluar estrategias empíricas. El tratamiento es conceptual, no técnico: se aprende a pensar sobre diseño y a evaluar estrategias empíricas antes de dominar la econometría que las implementa.
+
+El curso es el primero de una secuencia de dos semestres. El primer semestre se concentra en la arquitectura de un proyecto de investigación. El segundo (Primavera 2027) entra a la inferencia causal formal y a la construcción de la propuesta de tesis. El objetivo de la secuencia completa es que al terminar tengas una propuesta de tesis sólida, defendible, y con una estrategia empírica creíble.
+
+A través de lecturas, entregas progresivas y discusiones en clase, desarrollarás tus habilidades de diseño y las aplicarás a un proyecto de investigación propio, para el cual producirás un research design memo.
+
+**Horario.** Martes, 17:00--20:00. Del 25 de agosto al 1 de diciembre (14 sesiones). No hay clase el 27 de octubre (conferencia WAPOR).
+
+# Resultados de aprendizaje
+
+Al terminar este curso serás capaz de:
+
+1. Reflexionar sobre problemas fundamentales de diseño de investigación en ciencia política, con referencia a debates teóricos y aplicados de la disciplina.
+2. Analizar los méritos y las limitaciones de diseños de investigación alternativos, y proponer estrategias para mejorarlos.
+3. Participar productivamente en discusiones sobre diseño de investigación, con capacidad de síntesis y de interlocución con puntos de vista diferentes.
+4. Proponer diseños de investigación originales, creíbles y robustos para abordar preguntas relevantes de la ciencia política.
+
+# Textos principales
+
+- [@blair2023]
+- [@gerring2012]
+
+Tres textos adicionales aparecen con frecuencia:
+
+- [@kkv1994]
+- [@geddes2003]
+- [@vanevera1997]
+
+En cada sesión las lecturas se organizan en dos niveles: *obligatorias* y *recomendadas* (opcionales, para quien quiera profundizar). La carga obligatoria por sesión es de aproximadamente 95--100 páginas.
+
+# Guía de lectura
+
+Para cada lectura, considera las siguientes preguntas:
+
+- *Sobre la teoría.* ¿Es internamente consistente el argumento del autor? ¿Qué tan específica es la teoría respecto a los mecanismos? ¿Le faltan condiciones de alcance necesarias?
+- *Sobre la estrategia empírica.* ¿En qué medida el caso empírico es adecuado para poner a prueba la teoría? ¿Las mediciones son válidas y están alineadas con la teoría? ¿Hay evidencia sobre los supuestos del diseño?
+- *Sobre las implicaciones.* ¿Las conclusiones están justificadas por la evidencia presentada? ¿Qué avenidas prometedoras de investigación futura sugiere la contribución?
+
+# Evaluación
+
+| Componente | Peso |
+|:-----------|-----:|
+| Participación activa | 15% |
+| Memo parcial (sesión 7) | 5% |
+| Análisis crítico de tesis doctoral (sesión 11) | 15% |
+| Examen parcial aplicado (sesión 9) | 15% |
+| Presentaciones en talleres (sesiones 7 y 14) | 10% |
+| Research design memo final (sesión 14) | 40% |
+
+: {#tbl-evaluacion}
+
+**Participación activa (15%).** Se espera que asistas a todas las sesiones y participes activamente en las discusiones. Las discusiones en clase están diseñadas para ayudarte a asimilar conceptos clave, conectar ideas, y desarrollar tu capacidad de proponer y criticar diseños de investigación. Participar activamente requiere haber hecho las lecturas con anticipación. Se valoran intervenciones que conecten lecturas entre sí, que planteen objeciones razonadas, que relacionen el material con tu propio proyecto, o que identifiquen tensiones en los argumentos de los autores.
+
+**Memo parcial (5%).** Para la sesión 7: 8--10 páginas (doble espacio, Times New Roman 12pt) con pregunta de investigación, revisión de literatura, argumento con mecanismos explícitos, e hipótesis. Entrega 48 horas antes del taller para que tus compañeros lo lean. Este es un ejercicio formativo y de bajo riesgo: su propósito es asegurar que vayas construyendo tu proyecto y recibas retroalimentación a tiempo.
+
+**Análisis crítico de tesis doctoral (15%).** A lo largo del semestre irás leyendo una tesis doctoral que elegirás al inicio del curso. Para la sesión 11: 10--12 páginas evaluando la tesis a la luz de lo discutido en clase. Se espera que apliques las herramientas del curso a la evaluación de la tesis: su pregunta, su argumento, sus hipótesis, su estrategia de diseño y sus datos. Citación Chicago (autor-año). Elige una tesis de la siguiente lista o propón una alternativa con aprobación del profesor.
+
+*Comparada y América Latina:*
+
+- Lechartre, Josephine. 2024. *Genocide and Cultural Change.* Notre Dame. (Almond Award 2025.)
+- García-Holgado, Benjamin. 2023. *The Judicial Bulwark: Courts and the Populist Erosion of Democracy.* Notre Dame. (Corwin Award 2025.)
+- Pérez Sandoval, Javier. 2021. *The Origins of Subnational Democracy.* Oxford. (Anderson Award 2022.)
+- Schwartz, Rachel A. 2020. *Civil War, Institutional Change, and the Criminalization of the State in Central America.* Wisconsin-Madison. (Almond Award 2020.)
+- Berman, Chantal. 2021. *Protest, Social Policy, and Political Regimes in Tunisia and Morocco.* Princeton. (Almond Award 2021.)
+
+*Instituciones, burocracia y estado:*
+
+- Kuipers, Nicholas. 2023. *Meritocracy Reconsidered: The Politics of Civil Service Recruitment.* UC Berkeley. (Almond Award 2023.)
+- Purohit, Bhumi. 2023. *Laments of Getting Things Done: Bureaucratic Resistance Against Female Politicians in India.* UC Berkeley. (Anderson Award 2023.)
+- Zhang, Anna. 2022. *Go West, Young Han: Internal Migration as a Strategy of Counterinsurgency.* Stanford. (Almond Award 2022.)
+
+*Otras tesis notables:*
+
+- Guajardo, Gustavo. Rice University.
+- González-Rostani, Valentina. University of Pittsburgh.
+- Skigin, Natan. 2024. *Challenging Stigma from Below.* Notre Dame. (Kellogg + APSA Experimental + Political Psychology 2025.)
+- Levy, Gabriella. 2023. *Variation in Individuals' Responses to Violence Against Civilians.* Duke. (APSA Human Rights Award 2024.)
+- Allie, Feyaad. 2024. *Power, Exclusion, and Identity.* Stanford. (Almond + Juan Linz Prize 2024.)
+
+**Examen parcial aplicado (15%).** Sesión 9. Recibirás un resumen de investigación o un diseño hipotético y deberás diagnosticarlo usando los conceptos de las sesiones 1--8. Una hoja de conceptos permitida (una cara, tamaño carta). Duración: 2 horas.
+
+**Presentaciones en talleres (10%).** Sesiones 7 y 14, 15--20 minutos cada una. Se evalúa la claridad de la exposición, la capacidad de responder preguntas, y la evidencia de progreso entre la primera y la segunda presentación.
+
+**Research design memo final (40%).** Se espera que trabajes de manera progresiva a lo largo del semestre en un diseño de investigación original, idealmente vinculado a tu proyecto de tesis. Para la sesión 14: 15--20 páginas con pregunta, literatura, argumento, hipótesis, estrategia empírica, selección de casos, datos y limitaciones. El memo debe concentrarse enteramente en cuestiones de teoría y diseño empírico, no en la implementación del análisis. Puede sin embargo presentar resultados de análisis exploratorios si son directamente relevantes para el diseño. Entrega 48 horas antes. Citación Chicago (autor-año).
+
+# Políticas del curso
+
+**Asistencia.** Obligatoria. Más de dos faltas injustificadas afectan la calificación final. Si no puedes asistir a una sesión, avísame con anticipación.
+
+**Entregas tardías.** Las entregas fuera de plazo pierden medio punto por cada día de retraso, salvo causa justificada comunicada antes de la fecha límite.
+
+**Integridad académica.** Se aplica el Reglamento de Docencia y el Código de Ética del CIDE. Todo trabajo entregado debe ser enteramente individual y utilizar prácticas estándar de citación.
+
+**Uso de inteligencia artificial generativa.** Su uso se permite bajo estas condiciones: (a) el argumento, la estructura y la redacción deben ser tuyos -- usar IA para redactar secciones completas sin atribución se considera deshonestidad académica; (b) puedes usar IA para explorar ideas, revisar gramática o mejorar claridad; (c) verifica toda referencia bibliográfica generada por IA; (d) el uso de IA para código es aceptable; (e) si usas IA de manera sustantiva, decláralo brevemente al final del documento.
+
+# Temario calendarizado
+
+Las fechas son tentativas y están sujetas al calendario académico del CIDE.
+
+---
+
+## Bloque I -- Fundamentos: de la pregunta al argumento
+
+### Sesión 1 -- 25 de agosto. Presentación del curso. Problemas de demarcación, evidencia y cambio científico (~100 pp)
+
+Presentación del seminario y la lógica de la secuencia de dos semestres. ¿Qué distingue el conocimiento científico de otras formas de conocimiento? La falsabilidad de Popper, la ciencia normal de Kuhn, y la investigación como producto de decisiones de diseño.
+
+- [@blair2023], Ch. 1 (~20 pp)
+- [@weber2008] (27 pp)
+- [@popper1959], Ch. 1, pp. 3--26 (23 pp)
+- [@kuhn1962], Ch. 1--3 (~30 pp)
+
+### Sesión 2 -- 1 de septiembre. Preguntas de investigación y puzzles empíricos (~97 pp)
+
+¿Qué hace que una pregunta sea investigable? Preguntas normativas vs. positivas, descriptivas vs. causales. Transformar una curiosidad temática en una pregunta que genere una contribución identificable.
+
+- [@geddes2003], Ch. 1 (~35 pp)
+- [@kkv1994], Ch. 1 (31 pp)
+- [@gerring2012], Ch. 1 (~20 pp)
+- [@platt1964] (7 pp)
+- [@eidlin2011] (4 pp)
+
+### Sesión 3 -- 8 de septiembre. La revisión de literatura como argumento (~94 pp)
+
+Una revisión de literatura no es un resumen. Es un argumento sobre el estado del conocimiento: qué sabemos, qué no sabemos, y por qué esa laguna importa.
+
+- [@knopf2006] (6 pp)
+- [@trachtenberg2006], Ch. 6 y Apéndice 1 (~40 pp)
+- [@gerring2012], Ch. 2--3 (48 pp)
+- Recomendada: [@dunleavy2003], Ch. 3
+
+### Sesión 4 -- 15 de septiembre. Causalidad, mecanismos y contrafactuales (~103 pp)
+
+¿Qué significa decir que X causa Y? Correlación vs. causalidad, el papel de los mecanismos causales. Toda afirmación causal descansa en un contrafactual: si X no hubiera ocurrido, Y habría sido diferente. Introducimos la lógica contrafactual de manera intuitiva, sin formalismo estadístico.
+
+- [@brady2008] (51 pp)
+- [@fearon1991] (27 pp)
+- [@morgan2015], Ch. 1 (~25 pp)
+- Recomendadas: [@kkv1994], Ch. 2; [@gerring2012], Ch. 9; [@blair2023], Ch. 4; [@levy2008]; [@elster1998]
+
+### Sesión 5 -- 22 de septiembre. Hipótesis y expectativas observables (~108 pp)
+
+Derivar hipótesis de un argumento, la diferencia entre expectativas verificables e implicaciones indirectas, pruebas cruciales y riesgos de hipótesis ad hoc.
+
+- [@geddes2003], Ch. 2 (~30 pp)
+- [@kkv1994], Ch. 3 (~35 pp)
+- [@vanevera1997], Ch. 1 (43 pp)
+
+### Sesión 6 -- 29 de septiembre. Conceptos, medición y operacionalización (~100 pp)
+
+Formación de conceptos, la relación entre concepto y medida, validez de constructo. Ejemplos: democracia, corrupción, polarización, capacidad estatal.
+
+- [@adcock2001] (16 pp)
+- [@gerring2012], Ch. 5 (~30 pp)
+- [@blair2023], Ch. 5 (~20 pp)
+- [@sartori1970] (21 pp)
+- [@coppedge1999] (13 pp)
+- Recomendada: [@goertz2006], Ch. 1--2
+
+---
+
+## Taller y examen parcial
+
+### Sesión 7 -- 6 de octubre. Taller intermedio: presentación de memos parciales
+
+No hay lecturas nuevas. Cada estudiante presenta su memo parcial (pregunta, literatura, argumento, hipótesis) en 15--20 minutos. Entrega: memo parcial (8--10 pp), 48 horas antes.
+
+### Sesión 8 -- 13 de octubre. El menú de diseños de investigación (~100 pp)
+
+Familias de diseño: experimental, cuasi-experimental, observacional, estudio de caso, comparación cualitativa, diseños mixtos. Trade-offs entre validez interna y externa.
+
+- [@blair2023], Ch. 2--3 (~30 pp)
+- [@mahoney2006] (20 pp)
+- [@gerring2012], Ch. 4 (~20 pp)
+- [@gerring2012], Ch. 10 (~30 pp)
+
+### Sesión 9 -- 20 de octubre. EXAMEN PARCIAL APLICADO
+
+Cubre sesiones 1--8. Diagnóstico de un diseño hipotético. Una hoja de conceptos (una cara, tamaño carta). Duración: 2 horas.
+
+*No hay clase el 27 de octubre (conferencia WAPOR).*
+
+---
+
+## Bloque II -- Estrategias de diseño y tipos de datos
+
+### Sesión 10 -- 3 de noviembre. Selección de casos: lógica, estrategias y trampas (~99 pp)
+
+Selección en la variable dependiente, estrategias de selección (most similar, most different, casos típicos, desviados, cruciales), y cómo la selección interactúa con el tipo de inferencia que buscamos.
+
+- [@geddes2003], Ch. 3 (40 pp)
+- [@seawright2008] (15 pp)
+- [@gerring2012], Ch. 7 (~30 pp)
+- [@holland2016] (14 pp)
+- Recomendada: [@collier1996]
+
+### Sesión 11 -- 10 de noviembre. Estudios de caso y comparación como estrategia de diseño (~96 pp)
+
+El estudio de caso como estrategia de inferencia causal. Process tracing. Limitaciones de la comparación con pocos casos. Entrega: análisis crítico de tesis doctoral (10--12 pp).
+
+- [@gerring2004] (14 pp)
+- [@bennett2006] (22 pp)
+- [@lieberson1991] (14 pp)
+- [@seawright2016], Ch. 1 (~20 pp)
+- [@collier2011] (6 pp)
+- [@gerring2012], Ch. 8 (20 pp)
+
+### Sesión 12 -- 17 de noviembre. La lógica de la comparación estadística (~96 pp)
+
+La lógica del N grande, las "regresiones de bote de basura", comparación subnacional vs. entre países.
+
+- [@achen2005] (14 pp)
+- [@snyder2001] (18 pp)
+- [@gerring2012], Ch. 11 (~30 pp)
+- [@kkv1994], Ch. 4 (34 pp)
+
+### Sesión 13 -- 24 de noviembre. Datos, trabajo de campo y la lógica de los experimentos (~95 pp)
+
+Fuentes de datos y cómo interactúan con el diseño. Ética: consentimiento informado, anonimato, posicionalidad. Aleatorización y el problema fundamental de la inferencia causal. Experimentos naturales y cuándo son creíbles.
+
+- [@kapiszewski2015], Ch. 1--2 (~50 pp)
+- [@dunning2012], Ch. 1 (~20 pp)
+- [@gerbergreen2012], Ch. 1 (~25 pp)
+- Recomendadas: [@mosley2013]; [@blair2023], Ch. 7--8; [@leech2002]; [@mcdermott2002]
+
+---
+
+## Taller final
+
+### Sesión 14 -- 1 de diciembre. Taller final: presentación de research design memos
+
+No hay lecturas nuevas. Cada estudiante presenta su research design memo completo en 15--20 minutos. Entrega: research design memo final (15--20 pp), 48 horas antes.
