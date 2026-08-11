@@ -1,6 +1,4 @@
 ---
-title: "Diseño de Investigación I"
-subtitle: "Doctorado en Ciencia Política — CIDE — Otoño 2026"
 format:
   typst:
     mainfont: "Palatino"
@@ -9,5 +7,7 @@ format:
       x: 1in
       y: 1in
 ---
+
+![](logo.svg){width=50%}
 
 {{< include programa.md >}}
