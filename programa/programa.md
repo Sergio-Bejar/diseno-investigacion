@@ -1,12 +1,12 @@
 # DISEÑO DE INVESTIGACIÓN I
 
-**Centro de Investigación y Docencia Económicas**
+**Centro de Investigación y Docencia Económicas**\
 Doctorado en Ciencia Política — Otoño 2026
 
-Profesor — Dr. Sergio Béjar López
-Correo institucional — sergio.bejar@cide.edu
-Horario de clase — martes, 17:00–20:00 (25 de agosto al 15 de diciembre)
-Lugar — Sala de seminarios de la DEP
+Profesor — Dr. Sergio Béjar López\
+Correo institucional — sergio.bejar@cide.edu\
+Horario de clase — martes, 17:00–20:00 (25 de agosto al 15 de diciembre)\
+Lugar — Sala de seminarios de la DEP\
 Horario de atención — por cita previa
 
 ---
