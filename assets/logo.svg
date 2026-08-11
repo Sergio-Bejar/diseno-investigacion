@@ -1,21 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280">
-  <!-- Geometric icon: abstract compass/diamond suggesting inquiry -->
-  <g transform="translate(360, 52)">
-    <!-- Outer diamond (rotated square) -->
-    <rect x="-30" y="-30" width="60" height="60" rx="4" transform="rotate(45)" fill="none" stroke="#c45b28" stroke-width="2.5"/>
-    <!-- Inner diamond -->
-    <rect x="-14" y="-14" width="28" height="28" rx="2" transform="rotate(45)" fill="#c45b28" opacity="0.15"/>
-    <!-- Crosshair lines -->
-    <line x1="0" y1="-38" x2="0" y2="38" stroke="#1a1a2e" stroke-width="1.5" opacity="0.2"/>
-    <line x1="-38" y1="0" x2="38" y2="0" stroke="#1a1a2e" stroke-width="1.5" opacity="0.2"/>
-    <!-- Center dot -->
-    <circle cx="0" cy="0" r="4" fill="#c45b28"/>
+  <!-- Geometric icon: prism decomposing light -->
+  <g transform="translate(360, 50)">
+    <!-- Incoming line (single beam) -->
+    <line x1="-65" y1="10" x2="-22" y2="10" stroke="#1a1a2e" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Prism (triangle) -->
+    <polygon points="0,-28 -24,22 24,22" fill="none" stroke="#e8621e" stroke-width="2.5" stroke-linejoin="round"/>
+    <polygon points="0,-28 -24,22 24,22" fill="#e8621e" opacity="0.1"/>
+    <!-- Three diverging output lines (vivid colors) -->
+    <line x1="22" y1="-4" x2="65" y2="-22" stroke="#e8621e" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="24" y1="10" x2="68" y2="10" stroke="#d4541a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="22" y1="22" x2="65" y2="40" stroke="#c04616" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Small dots at the ends of output lines -->
+    <circle cx="65" cy="-22" r="3" fill="#e8621e"/>
+    <circle cx="68" cy="10" r="3" fill="#d4541a"/>
+    <circle cx="65" cy="40" r="3" fill="#c04616"/>
   </g>
   <!-- Course name -->
-  <text x="360" y="140" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="300" letter-spacing="10" fill="#1a1a2e">DISEÑO DE</text>
-  <text x="360" y="188" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="300" letter-spacing="10" fill="#1a1a2e">INVESTIGACIÓN</text>
+  <text x="360" y="148" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="300" letter-spacing="10" fill="#1a1a2e">DISEÑO DE</text>
+  <text x="360" y="196" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="300" letter-spacing="10" fill="#1a1a2e">INVESTIGACIÓN</text>
   <!-- Accent line -->
-  <rect x="330" y="202" width="60" height="3" rx="1.5" fill="#c45b28"/>
+  <rect x="330" y="210" width="60" height="3" rx="1.5" fill="#e8621e"/>
   <!-- Number -->
-  <text x="360" y="240" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="6" fill="#c45b28">I</text>
+  <text x="360" y="248" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="6" fill="#e8621e">I</text>
 </svg>
