@@ -5,7 +5,7 @@ Doctorado en Ciencia Política — Otoño 2026
 
 Profesor — Dr. Sergio Béjar López\
 Correo institucional — sergio.bejar@cide.edu\
-Horario de clase — martes, 17:00–20:00 (25 de agosto al 15 de diciembre)\
+Horario de clase — martes y jueves, 10:30–12:00 (25 de agosto al 3 de diciembre)\
 Lugar — Sala de seminarios de la DEP\
 Horario de atención — por cita previa
 
@@ -60,23 +60,18 @@ Al inicio del curso cada estudiante elegirá una tesis doctoral de la lista incl
 | Componente | Peso |
 |---|---|
 | Participación activa | 15% |
-| Memo parcial (sesión 7) | 5% |
-| Análisis crítico de tesis doctoral (sesión 11) | 15% |
-| Examen parcial aplicado (sesión 9) | 15% |
-| Presentaciones en talleres (sesiones 7 y 14) | 10% |
-| Memo de diseño de investigación final (sesión 14) | 40% |
+| Análisis crítico de tesis doctoral (sesión 10) | 15% |
+| Examen oral (sesión 8) | 20% |
+| Presentación en taller final (sesión 12) | 10% |
+| Memo de diseño de investigación final (sesión 12) | 40% |
 
 ### Participación activa — 15%
 
 Este es un seminario que exige atención sostenida y preparación constante. Todas las preguntas son bienvenidas. Se espera que llegues habiendo leído el material asignado y preparado para discutirlo. La participación se evalúa por su relevancia para la discusión en clase: intervenciones que conecten lecturas entre sí, que planteen objeciones razonadas, que relacionen el material con tu propio proyecto, o que identifiquen tensiones en los argumentos de los autores. Si prefieres preparar tus intervenciones por escrito — notas de discusión, preguntas formuladas previamente — eso también cuenta como participación activa.
 
-### Memo parcial — 5%
-
-Para la sesión 7 entregarás un documento de 8 a 10 páginas (doble espacio, Times New Roman 12pt) que contenga: (1) tu pregunta de investigación; (2) una revisión de literatura que justifique la pregunta como contribución; (3) tu argumento con mecanismos explícitos; y (4) las hipótesis derivadas de ese argumento. Este es un ejercicio formativo y de bajo riesgo: su propósito es asegurar que vayas construyendo tu proyecto y recibas retroalimentación a tiempo. El memo se entrega 48 horas antes de la sesión de taller para que tus compañeros lo lean.
-
 ### Análisis crítico de tesis doctoral — 15%
 
-A lo largo del semestre irás leyendo la tesis doctoral que elegiste. Para la sesión 11 entregarás un análisis crítico de 10–12 páginas (doble espacio, Times New Roman 12pt) que evalúe la tesis a la luz de lo discutido en clase. La estructura sugerida incluye: (1) la pregunta de investigación y su origen; (2) la revisión de literatura y cómo está organizada; (3) el argumento y sus mecanismos; (4) las hipótesis y sus implicaciones observables; (5) la estrategia de diseño y la selección de casos; (6) los conceptos y las mediciones utilizadas. Sin embargo, puedes adaptar la estructura al tipo de investigación que analices — no todas las tesis presentan hipótesis, mecanismos y selección de casos de la misma manera. Lo que sí es indispensable es una conclusión integradora que responda a la pregunta: ¿cuál es la principal apuesta inferencial de la tesis y cuál es su vulnerabilidad más importante? Citación en formato Chicago (autor-año).
+A lo largo del semestre irás leyendo la tesis doctoral que elegiste. Para la sesión 10 entregarás un análisis crítico de 10–12 páginas (doble espacio, Times New Roman 12pt) que evalúe la tesis a la luz de lo discutido en clase. La estructura sugerida incluye: (1) la pregunta de investigación y su origen; (2) la revisión de literatura y cómo está organizada; (3) el argumento y sus mecanismos; (4) las hipótesis y sus implicaciones observables; (5) la estrategia de diseño y la selección de casos; (6) los conceptos y las mediciones utilizadas. Sin embargo, puedes adaptar la estructura al tipo de investigación que analices — no todas las tesis presentan hipótesis, mecanismos y selección de casos de la misma manera. Lo que sí es indispensable es una conclusión integradora que responda a la pregunta: ¿cuál es la principal apuesta inferencial de la tesis y cuál es su vulnerabilidad más importante? Citación en formato Chicago (autor-año).
 
 Cada estudiante elegirá una tesis de la siguiente lista o propondrá una alternativa con aprobación del profesor (idealmente posterior a 2018 y cercana a su tema de interés). Se recomienda buscar en ProQuest Dissertations & Theses tesis recientes — la apuesta inferencial de tesis recientes suele reflejar mejor las convenciones actuales de la disciplina.
 
@@ -102,17 +97,17 @@ Cada estudiante elegirá una tesis de la siguiente lista o propondrá una altern
 - Levy, Gabriella. 2023. *Variation in Individuals' Responses to Violence Against Civilians.* Ph.D., Duke University. (APSA Human Rights Award 2024.)
 - Allie, Feyaad. 2024. *Power, Exclusion, and Identity: The Politics of Muslim Marginalization in India.* Ph.D., Stanford University. (APSA Almond + Juan Linz Prize 2024.)
 
-### Examen parcial aplicado — 15%
+### Examen oral — 20%
 
-El examen parcial se realizará en la sesión 9. Cubre el material de las sesiones 1 a 8. Es un examen aplicado: recibirás un resumen de investigación o un diseño hipotético y deberás diagnosticarlo utilizando los conceptos del curso — identificar la pregunta, evaluar el argumento causal, detectar problemas de medición, señalar amenazas a la inferencia, y proponer mejoras. Puedes traer una hoja de conceptos preparada por ti (una cara, tamaño carta). El examen evalúa la capacidad de detectar problemas y proponer soluciones, no de recordar taxonomías.
+El examen oral se realizará en la sesión 8 (dos clases). Cubre el material de las sesiones 1 a 7. Recibirás un resumen de investigación y deberás diagnosticarlo oralmente: pregunta, argumento, mecanismos, hipótesis, conceptos y operacionalización. Cada estudiante dispone de aproximadamente 20 minutos (5 de lectura del caso y 15 de conversación). Se evalúa la capacidad de identificar fortalezas y debilidades del diseño, proponer mejoras, y articular razonamientos con precisión.
 
-### Presentaciones en talleres — 10%
+### Presentación en taller final — 10%
 
-Presentarás tu trabajo en las sesiones 7 y 14. Cada presentación debe durar 15–20 minutos, seguida de discusión. Se evalúa la claridad de la exposición, la capacidad de responder preguntas, y la evidencia de progreso entre la primera y la segunda presentación.
+Presentarás tu trabajo en la sesión 12. La presentación debe durar 15–20 minutos, seguida de discusión. Se evalúa la claridad de la exposición, la capacidad de responder preguntas, y la coherencia entre el argumento y la estrategia empírica.
 
 ### Memo de diseño de investigación final — 40%
 
-Para la sesión 14 entregarás un documento de 15 a 20 páginas que contenga: (1) tu pregunta de investigación; (2) una revisión de literatura que justifique la pregunta como contribución; (3) tu argumento con mecanismos explícitos; (4) las hipótesis derivadas; (5) la estrategia empírica que propones, con justificación; (6) la selección de casos o muestra; (7) los datos que utilizarás y su disponibilidad; y (8) una discusión honesta de las limitaciones del diseño. Este memo debe leerse como el primer borrador serio de tu propuesta de tesis. Se entrega 48 horas antes de la sesión final. Citación en formato Chicago (autor-año).
+Para la sesión 12 entregarás un documento de 15 a 20 páginas que contenga: (1) tu pregunta de investigación; (2) una revisión de literatura que justifique la pregunta como contribución; (3) tu argumento con mecanismos explícitos; (4) las hipótesis derivadas; (5) la estrategia empírica que propones, con justificación; (6) la selección de casos o muestra; (7) los datos que utilizarás y su disponibilidad; y (8) una discusión honesta de las limitaciones del diseño. Este memo debe leerse como el primer borrador serio de tu propuesta de tesis. Se entrega 48 horas antes de la sesión final. Citación en formato Chicago (autor-año).
 
 ## Políticas del curso
 
@@ -128,7 +123,7 @@ Para la sesión 14 entregarás un documento de 15 a 20 páginas que contenga: (1
 
 ## Temario calendarizado
 
-*(Las fechas son tentativas y están sujetas al calendario académico del CIDE. No hay clase el 27 de octubre — conferencia WAPOR.)*
+*(Las fechas son tentativas y están sujetas al calendario académico del CIDE. No hay clase el 3 de septiembre — Congreso de APSA, Boston — ni el 27 y 29 de octubre — conferencia WAPOR, UNAM.)*
 
 ---
 
@@ -145,7 +140,7 @@ Lectura obligatoria (~20 pp):
 
 ---
 
-### Sesión 2 — 1 de septiembre
+### Sesión 2 — 27 de agosto y 1 de septiembre
 **Epistemología y preguntas de investigación**
 
 ¿Qué distingue el conocimiento científico de otras formas de conocimiento? La falsabilidad de Popper, la vocación científica de Weber, y la investigación como producto de decisiones de diseño. ¿Qué hace que una pregunta sea investigable? Preguntas normativas vs. positivas, descriptivas vs. causales. Transformar una curiosidad temática en una pregunta que genere una contribución identificable.
@@ -166,9 +161,11 @@ Recomendadas:
 - King, Gary, Robert O. Keohane, and Sidney Verba. 1994. *Designing Social Inquiry*. Princeton: Princeton University Press, Ch. 1.
 - Gerring, John. 2012. *Social Science Methodology*. 2nd ed. Cambridge: Cambridge University Press, Ch. 1.
 
+*No hay clase el 3 de septiembre (Congreso de APSA, Boston).*
+
 ---
 
-### Sesión 3 — 8 de septiembre
+### Sesión 3 — 8 y 10 de septiembre
 **La revisión de literatura como argumento**
 
 Una revisión de literatura no es un resumen de lo que otros han escrito. Es un argumento sobre el estado del conocimiento: qué sabemos, qué no sabemos, y por qué esa laguna importa. Discutimos cómo organizar una revisión que justifique una contribución y que sitúe tu proyecto en una conversación académica existente.
@@ -187,7 +184,7 @@ Recomendada:
 
 ---
 
-### Sesión 4 — 15 de septiembre
+### Sesión 4 — 15, 17, 22 y 24 de septiembre
 **Causalidad, mecanismos y contrafactuales**
 
 ¿Qué significa decir que X causa Y? Discutimos la diferencia entre correlación y causalidad, el papel de los mecanismos causales, y por qué no basta con identificar una asociación estadística: necesitamos una historia causal creíble que conecte causa y efecto. Toda afirmación causal descansa en un contrafactual: si X no hubiera ocurrido, Y habría sido diferente. Introducimos la lógica contrafactual de manera intuitiva, sin formalismo estadístico. En el segundo semestre formalizaremos estas ideas con el marco de resultados potenciales.
@@ -210,7 +207,7 @@ Recomendadas:
 
 ---
 
-### Sesión 5 — 22 de septiembre
+### Sesión 5 — 29 de septiembre y 1 de octubre
 **Hipótesis y expectativas observables**
 
 Un argumento teórico no es comprobable en sí mismo; lo que se comprueba son sus implicaciones observables. Discutimos cómo derivar hipótesis de un argumento, la diferencia entre expectativas directamente verificables e implicaciones indirectas, el diseño de pruebas cruciales para eliminar explicaciones rivales, y los riesgos de las hipótesis ad hoc.
@@ -225,7 +222,7 @@ Lecturas obligatorias (~108 pp):
 
 ---
 
-### Sesión 6 — 29 de septiembre
+### Sesión 6 — 6 y 8 de octubre
 **Conceptos, medición y operacionalización**
 
 Antes de medir necesitamos saber qué estamos midiendo. Discutimos cómo se forman los conceptos en ciencia política, la relación entre concepto y medida, los criterios de validez de constructo, y los problemas que surgen cuando conceptos ambiguos producen mediciones que no capturan lo que pretenden. Trabajamos con ejemplos concretos: democracia, corrupción, polarización, capacidad estatal. Nota ética: las decisiones de medición no son neutrales — cómo se define y mide un concepto puede invisibilizar poblaciones, distorsionar comparaciones, o reforzar supuestos normativos.
@@ -246,16 +243,7 @@ Recomendada:
 
 ---
 
-### Sesión 7 — 6 de octubre
-**Taller intermedio: presentación de memos parciales**
-
-No hay lecturas nuevas. Cada estudiante presenta su memo parcial (pregunta, revisión de literatura, argumento, hipótesis) en 15–20 minutos, seguido de discusión.
-
-**Entrega: memo parcial (8–10 pp), 48 horas antes de la sesión.**
-
----
-
-### Sesión 8 — 13 de octubre
+### Sesión 7 — 13 y 15 de octubre
 **El menú de diseños de investigación**
 
 Hacemos un mapa de las principales familias de diseño: experimental, cuasi-experimental, observacional con controles estadísticos, estudio de caso, comparación cualitativa, y diseños mixtos. El objetivo no es dominar cada estrategia (eso viene en el segundo semestre y en los cursos de métodos) sino entender la lógica que las distingue y los trade-offs entre validez interna y externa, y entre profundidad y generalización.
@@ -271,16 +259,16 @@ Lecturas obligatorias (~100 pp):
 
 ---
 
-### Sesión 9 — 20 de octubre
-**EXAMEN PARCIAL APLICADO**
+### Sesión 8 — 20 y 22 de octubre
+**EXAMEN ORAL**
 
-Recibirás un resumen de investigación o un diseño hipotético y deberás diagnosticarlo utilizando los conceptos del curso. Puedes traer una hoja de conceptos preparada por ti (una cara, tamaño carta). Cubre el material de las sesiones 1 a 8. Duración: 2 horas.
+Cubre sesiones 1–7. Cada estudiante recibe un resumen de investigación y debe diagnosticarlo oralmente: pregunta, argumento, mecanismos, hipótesis, conceptos y operacionalización. Aproximadamente 20 minutos por estudiante (5 de lectura del caso y 15 de conversación).
 
-*No hay clase el 27 de octubre (conferencia WAPOR).*
+*No hay clase el 27 y 29 de octubre (conferencia WAPOR, UNAM).*
 
 ---
 
-### Sesión 10 — 3 de noviembre
+### Sesión 9 — 3, 5, 10 y 12 de noviembre
 **Selección de casos, estudios de caso y process tracing**
 
 La selección de casos es una de las decisiones con mayores consecuencias para el diseño. Discutimos por qué seleccionar en la variable dependiente es problemático, las estrategias de selección (most similar, most different, casos típicos, desviados, cruciales), y cómo la selección interactúa con el tipo de inferencia que buscamos. ¿Qué puede y qué no puede hacer un estudio de caso? El estudio de caso como estrategia de inferencia causal. Process tracing.
@@ -305,7 +293,7 @@ Recomendadas:
 
 ---
 
-### Sesión 11 — 10 de noviembre
+### Sesión 10 — 17 y 19 de noviembre
 **La lógica de la comparación estadística**
 
 **Entrega: análisis crítico de tesis doctoral (10–12 pp).**
@@ -323,7 +311,7 @@ Lecturas obligatorias (~96 pp):
 
 ---
 
-### Sesión 12 — 17 de noviembre
+### Sesión 11 — 24 y 26 de noviembre
 **Datos, trabajo de campo y la lógica de los experimentos**
 
 Pasamos de la estrategia al material. Discutimos las principales fuentes de datos en ciencia política: encuestas, entrevistas, archivos históricos, y trabajo de campo. El énfasis es en cómo la elección de los datos interactúa con el diseño: no todos los datos sirven para todas las preguntas. En la segunda parte de la sesión, introducimos la lógica de los diseños experimentales y cuasi-experimentales de manera intuitiva. ¿Por qué la aleatorización resuelve el problema de la inferencia causal? ¿Qué son los experimentos naturales y cuándo son creíbles? El objetivo es que entiendas por qué estas estrategias son poderosas y cuáles son sus supuestos, para que en el segundo semestre puedas abordarlas con la formalización técnica. Dimensión ética: consentimiento informado, anonimato, riesgos para participantes, y posicionalidad del investigador.
@@ -345,14 +333,7 @@ Recomendadas:
 
 ---
 
-### Sesión 13 — 24 de noviembre
-**Taller de diagnóstico de memos**
-
-No hay lecturas nuevas. Cada estudiante presenta el avance de su memo de diseño de investigación y recibe retroalimentación del grupo. El propósito es identificar problemas y oportunidades de mejora antes de la entrega final.
-
----
-
-### Sesión 14 — 1 de diciembre
+### Sesión 12 — 1 y 3 de diciembre
 **Taller final: presentación de memos de diseño de investigación**
 
 No hay lecturas nuevas. Cada estudiante presenta su memo de diseño de investigación completo (pregunta, literatura, argumento, hipótesis, estrategia empírica, datos, limitaciones) en 15–20 minutos, seguido de discusión.
