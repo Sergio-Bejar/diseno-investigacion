@@ -32,7 +32,7 @@ El curso es el primero de una secuencia de dos semestres. El primer semestre se 
 
 A través de lecturas, entregas progresivas y discusiones en clase, desarrollarás tus habilidades de diseño y las aplicarás a un proyecto de investigación propio, para el cual producirás un memo de diseño de investigación.
 
-**Horario.** Martes y jueves, 10:30--12:00. Del 25 de agosto al 3 de diciembre (27 clases). No hay clase el 3 de septiembre (Congreso de APSA, Boston) ni el 27 y 29 de octubre (conferencia WAPOR, UNAM).
+**Horario.** Miércoles, 8:50--11:50. Del 26 de agosto al 2 de diciembre (13 clases). No hay clase el 16 de septiembre ni el 28 de octubre (conferencia WAPOR, UNAM).
 
 # Resultados de aprendizaje
 
@@ -69,16 +69,16 @@ Para cada lectura, considera las siguientes preguntas:
 | Componente | Peso |
 |:-----------|-----:|
 | Participación activa | 15% |
-| Análisis crítico de tesis doctoral (sesión 10) | 15% |
+| Análisis crítico de tesis doctoral (sesión 11) | 15% |
 | Examen oral (sesión 8) | 20% |
-| Presentación en taller final (sesión 12) | 10% |
-| Memo de diseño de investigación final (sesión 12) | 40% |
+| Presentación en taller final (sesión 13) | 10% |
+| Memo de diseño de investigación final (sesión 13) | 40% |
 
 : {#tbl-evaluacion}
 
 **Participación activa (15%).** Se espera que asistas a todas las sesiones y participes activamente en las discusiones. Las discusiones en clase están diseñadas para ayudarte a asimilar conceptos clave, conectar ideas, y desarrollar tu capacidad de proponer y criticar diseños de investigación. Participar activamente requiere haber hecho las lecturas con anticipación. Se valoran intervenciones que conecten lecturas entre sí, que planteen objeciones razonadas, que relacionen el material con tu propio proyecto, o que identifiquen tensiones en los argumentos de los autores.
 
-**Análisis crítico de tesis doctoral (15%).** A lo largo del semestre irás leyendo una tesis doctoral que elegirás al inicio del curso. Para la sesión 10: 10--12 páginas evaluando la tesis a la luz de lo discutido en clase. Se espera que apliques las herramientas del curso a la evaluación de la tesis: su pregunta, su argumento, sus hipótesis, su estrategia de diseño y sus datos. Citación Chicago (autor-año). Elige una tesis de la siguiente lista o propón una alternativa con aprobación del profesor.
+**Análisis crítico de tesis doctoral (15%).** A lo largo del semestre irás leyendo una tesis doctoral que elegirás al inicio del curso. Para la sesión 11: 10--12 páginas evaluando la tesis a la luz de lo discutido en clase. Se espera que apliques las herramientas del curso a la evaluación de la tesis: su pregunta, su argumento, sus hipótesis, su estrategia de diseño y sus datos. Citación Chicago (autor-año). Elige una tesis de la siguiente lista o propón una alternativa con aprobación del profesor.
 
 *Comparada y América Latina:*
 
@@ -102,11 +102,11 @@ Para cada lectura, considera las siguientes preguntas:
 - Levy, Gabriella. 2023. *Variation in Individuals' Responses to Violence Against Civilians.* Duke. (APSA Human Rights Award 2024.)
 - Allie, Feyaad. 2024. *Power, Exclusion, and Identity.* Stanford. (Almond + Juan Linz Prize 2024.)
 
-**Examen oral (20%).** Sesión 8 (dos clases). Recibirás un resumen de investigación y deberás diagnosticarlo oralmente usando los conceptos de las sesiones 1--7: pregunta, argumento, mecanismos, hipótesis, conceptos y operacionalización. Cada estudiante dispone de aproximadamente 20 minutos (5 de lectura del caso y 15 de conversación). Se evalúa la capacidad de identificar fortalezas y debilidades del diseño, proponer mejoras, y articular razonamientos con precisión.
+**Examen oral (20%).** Sesión 8 (21 de octubre). Recibirás un resumen de investigación y deberás diagnosticarlo oralmente usando los conceptos de las sesiones 1--7: pregunta, argumento, mecanismos, hipótesis, conceptos y operacionalización. Cada estudiante dispone de aproximadamente 20 minutos (5 de lectura del caso y 15 de conversación). Se evalúa la capacidad de identificar fortalezas y debilidades del diseño, proponer mejoras, y articular razonamientos con precisión.
 
-**Presentación en taller final (10%).** Sesión 12, 15--20 minutos. Se evalúa la claridad de la exposición, la capacidad de responder preguntas, y la coherencia entre el argumento y la estrategia empírica.
+**Presentación en taller final (10%).** Sesión 13, 15--20 minutos. Se evalúa la claridad de la exposición, la capacidad de responder preguntas, y la coherencia entre el argumento y la estrategia empírica.
 
-**Memo de diseño de investigación final (40%).** Se espera que trabajes de manera progresiva a lo largo del semestre en un diseño de investigación original, idealmente vinculado a tu proyecto de tesis. Para la sesión 12: 15--20 páginas con pregunta, literatura, argumento, hipótesis, estrategia empírica, selección de casos, datos y limitaciones. El memo debe concentrarse enteramente en cuestiones de teoría y diseño empírico, no en la implementación del análisis. Puede sin embargo presentar resultados de análisis exploratorios si son directamente relevantes para el diseño. Entrega 48 horas antes. Citación Chicago (autor-año).
+**Memo de diseño de investigación final (40%).** Se espera que trabajes de manera progresiva a lo largo del semestre en un diseño de investigación original, idealmente vinculado a tu proyecto de tesis. Para la sesión 13: 15--20 páginas con pregunta, literatura, argumento, hipótesis, estrategia empírica, selección de casos, datos y limitaciones. El memo debe concentrarse enteramente en cuestiones de teoría y diseño empírico, no en la implementación del análisis. Puede sin embargo presentar resultados de análisis exploratorios si son directamente relevantes para el diseño. Entrega 48 horas antes. Citación Chicago (autor-año).
 
 # Políticas del curso
 
@@ -126,13 +126,13 @@ Las fechas son tentativas y están sujetas al calendario académico del CIDE.
 
 ## Bloque I -- Fundamentos: de la pregunta al argumento
 
-### Sesión 1 -- 25 de agosto. Presentación del curso (~20 pp)
+### Sesión 1 -- 26 de agosto. Presentación del curso e introducción a la epistemología (~20 pp)
 
 Presentación del seminario, discusión del temario y la lógica de la secuencia de dos semestres. Cada estudiante se presenta brevemente: trayectoria, tema de interés, y qué espera del curso. Asignación de la tesis doctoral.
 
 - [@blair2023], Ch. 1 (~20 pp)
 
-### Sesión 2 -- 27 de agosto y 1 de septiembre. Epistemología y preguntas de investigación (~96 pp)
+### Sesión 2 -- 2 de septiembre. Epistemología y preguntas de investigación (~96 pp)
 
 ¿Qué distingue el conocimiento científico de otras formas de conocimiento? La falsabilidad de Popper, la ciencia normal de Kuhn, y la investigación como producto de decisiones de diseño. ¿Qué hace que una pregunta sea investigable? Preguntas normativas vs. positivas, descriptivas vs. causales.
 
@@ -143,9 +143,7 @@ Presentación del seminario, discusión del temario y la lógica de la secuencia
 - [@eidlin2011] (4 pp)
 - Recomendadas: [@kuhn1962], Ch. 1--3; [@kkv1994], Ch. 1; [@gerring2012], Ch. 1
 
-*No hay clase el 3 de septiembre (Congreso de APSA, Boston).*
-
-### Sesión 3 -- 8 y 10 de septiembre. La revisión de literatura como argumento (~94 pp)
+### Sesión 3 -- 9 de septiembre. La revisión de literatura como argumento (~94 pp)
 
 Una revisión de literatura no es un resumen. Es un argumento sobre el estado del conocimiento: qué sabemos, qué no sabemos, y por qué esa laguna importa.
 
@@ -154,16 +152,24 @@ Una revisión de literatura no es un resumen. Es un argumento sobre el estado de
 - [@gerring2012], Ch. 2--3 (48 pp)
 - Recomendada: [@dunleavy2003], Ch. 3
 
-### Sesión 4 -- 15, 17, 22 y 24 de septiembre. Causalidad, mecanismos y contrafactuales (~103 pp)
+*No hay clase el 16 de septiembre.*
+
+### Sesión 4 -- 23 de septiembre. Causalidad I: argumentos causales y contrafactuales
 
 ¿Qué significa decir que X causa Y? Correlación vs. causalidad, el papel de los mecanismos causales. Toda afirmación causal descansa en un contrafactual: si X no hubiera ocurrido, Y habría sido diferente. Introducimos la lógica contrafactual de manera intuitiva, sin formalismo estadístico.
 
 - [@brady2008] (51 pp)
 - [@fearon1991] (27 pp)
-- [@morgan2015], Ch. 1 (~25 pp)
-- Recomendadas: [@kkv1994], Ch. 2; [@gerring2012], Ch. 9; [@blair2023], Ch. 4; [@levy2008]; [@elster1998]
+- Recomendadas: [@kkv1994], Ch. 2; [@gerring2012], Ch. 9; [@blair2023], Ch. 4; [@levy2008]
 
-### Sesión 5 -- 29 de septiembre y 1 de octubre. Hipótesis y expectativas observables (~108 pp)
+### Sesión 5 -- 30 de septiembre. Causalidad II: mecanismos y amenazas a la inferencia
+
+Profundizamos en los mecanismos causales y en las amenazas que dificultan sostener una inferencia causal creíble.
+
+- [@morgan2015], Ch. 1 (~25 pp)
+- Recomendada: [@elster1998]
+
+### Sesión 6 -- 7 de octubre. Hipótesis y expectativas observables (~108 pp)
 
 Derivar hipótesis de un argumento, la diferencia entre expectativas verificables e implicaciones indirectas, pruebas cruciales y riesgos de hipótesis ad hoc.
 
@@ -171,52 +177,54 @@ Derivar hipótesis de un argumento, la diferencia entre expectativas verificable
 - [@kkv1994], Ch. 3 (~35 pp)
 - [@vanevera1997], Ch. 1 (43 pp)
 
-### Sesión 6 -- 6 y 8 de octubre. Conceptos, medición y operacionalización (~100 pp)
+### Sesión 7 -- 14 de octubre. Conceptos, medición y menú de diseños (~107 pp)
 
 Formación de conceptos, la relación entre concepto y medida, validez de constructo. Ejemplos: democracia, corrupción, polarización, capacidad estatal.
 
 - [@adcock2001] (16 pp)
-- [@gerring2012], Ch. 5 (~30 pp)
 - [@blair2023], Ch. 5 (~20 pp)
 - [@sartori1970] (21 pp)
-- [@coppedge1999] (13 pp)
-- Recomendada: [@goertz2006], Ch. 1--2
+- Recomendadas: [@gerring2012], Ch. 5; [@coppedge1999]; [@goertz2006], Ch. 1--2
 
-### Sesión 7 -- 13 y 15 de octubre. El menú de diseños de investigación (~100 pp)
+#### El menú de diseños de investigación
 
 Familias de diseño: experimental, cuasi-experimental, observacional, estudio de caso, comparación cualitativa, diseños mixtos. Trade-offs entre validez interna y externa.
 
 - [@blair2023], Ch. 2--3 (~30 pp)
 - [@mahoney2006] (20 pp)
-- [@gerring2012], Ch. 4 (~20 pp)
-- [@gerring2012], Ch. 10 (~30 pp)
+- Recomendadas: [@gerring2012], Ch. 4 y 10
 
 ---
 
 ## Examen parcial
 
-### Sesión 8 -- 20 y 22 de octubre. EXAMEN ORAL
+### Sesión 8 -- 21 de octubre. EXAMEN ORAL
 
 Cubre sesiones 1--7. Cada estudiante recibe un resumen de investigación y debe diagnosticarlo oralmente: pregunta, argumento, mecanismos, hipótesis, conceptos y operacionalización. Aproximadamente 20 minutos por estudiante (5 de lectura del caso y 15 de conversación).
 
-*No hay clase el 27 y 29 de octubre (conferencia WAPOR, UNAM).*
+*No hay clase el 28 de octubre (conferencia WAPOR, UNAM).*
 
 ---
 
 ## Bloque II -- Estrategias de diseño y tipos de datos
 
-### Sesión 9 -- 3, 5, 10 y 12 de noviembre. Selección de casos, estudios de caso y process tracing (~97 pp)
+### Sesión 9 -- 4 de noviembre. Selección de casos I: lógica y sesgos de selección
 
 Selección en la variable dependiente, estrategias de selección (most similar, most different, casos típicos, desviados, cruciales). El estudio de caso como estrategia de inferencia causal. Process tracing.
 
 - [@geddes2003], Ch. 3 (40 pp)
 - [@gerring2004] (14 pp)
 - [@seawright2008] (15 pp)
-- [@bennett2006] (22 pp)
-- [@collier2011] (6 pp)
 - Recomendadas: [@holland2016]; [@lieberson1991]; [@seawright2016], Ch. 1; [@gerring2012], Ch. 7--8; [@collier1996]
 
-### Sesión 10 -- 17 y 19 de noviembre. La lógica de la comparación estadística (~96 pp)
+### Sesión 10 -- 11 de noviembre. Selección de casos II: estudios de caso y process tracing
+
+Profundizamos en el estudio de caso como estrategia de inferencia causal y en la lógica del *process tracing*.
+
+- [@bennett2006] (22 pp)
+- [@collier2011] (6 pp)
+
+### Sesión 11 -- 18 de noviembre. La lógica de la comparación estadística (~96 pp)
 
 La lógica del N grande, las "regresiones de bote de basura", comparación subnacional vs. entre países. Entrega: análisis crítico de tesis doctoral (10--12 pp).
 
@@ -225,7 +233,7 @@ La lógica del N grande, las "regresiones de bote de basura", comparación subna
 - [@gerring2012], Ch. 11 (~30 pp)
 - [@kkv1994], Ch. 4 (34 pp)
 
-### Sesión 11 -- 24 y 26 de noviembre. Datos, trabajo de campo y la lógica de los experimentos (~95 pp)
+### Sesión 12 -- 25 de noviembre. Datos, trabajo de campo y la lógica de los experimentos (~95 pp)
 
 Fuentes de datos y cómo interactúan con el diseño. Ética: consentimiento informado, anonimato, posicionalidad. Aleatorización y el problema fundamental de la inferencia causal. Experimentos naturales y cuándo son creíbles.
 
@@ -238,6 +246,6 @@ Fuentes de datos y cómo interactúan con el diseño. Ética: consentimiento inf
 
 ## Taller final
 
-### Sesión 12 -- 1 y 3 de diciembre. Taller final: presentación de memos de diseño de investigación
+### Sesión 13 -- 2 de diciembre. Taller final: presentación de memos de diseño de investigación
 
 No hay lecturas nuevas. Cada estudiante presenta su memo de diseño de investigación completo en 15--20 minutos. Entrega: memo de diseño de investigación final (15--20 pp), 48 horas antes.
