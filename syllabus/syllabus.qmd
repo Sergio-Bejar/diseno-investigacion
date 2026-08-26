@@ -26,11 +26,13 @@ frontmatter-logo-height: 0.75in
 
 # Descripción del curso
 
-Este seminario ofrece una introducción doctoral al diseño de investigación en ciencia política. Exploraremos tareas fundamentales que atraviesan tradiciones epistemológicas y enfoques metodológicos: construir un argumento, formular conceptos, medir, seleccionar casos, razonar causalmente, y evaluar estrategias empíricas. El tratamiento es conceptual, no técnico: se aprende a pensar sobre diseño y a evaluar estrategias empíricas antes de dominar la econometría que las implementa.
+El diseño de una investigación es un proceso sistemático en el que todas las piezas están conectadas. La pregunta delimita el fenómeno que buscamos comprender o la relación que queremos explicar. La revisión de la literatura establece por qué la pregunta importa. El argumento propone una respuesta; los conceptos y las mediciones la vinculan con la evidencia; y la selección de casos, datos y métodos determina qué inferencias podemos sostener.
 
-El curso es el primero de una secuencia de dos semestres. El primer semestre se concentra en la arquitectura de un proyecto de investigación. El segundo (Primavera 2027) entra a la inferencia causal formal y a la construcción de la propuesta de tesis. El objetivo de la secuencia completa es que al terminar tengas una propuesta de tesis sólida, defendible, y con una estrategia empírica creíble.
+Ninguna de estas decisiones puede evaluarse de manera aislada. Una pregunta puede ser relevante pero difícil de investigar; un argumento puede ser plausible pero no producir implicaciones observables; y una técnica puede estar bien aplicada pero no responder la pregunta. Un buen diseño requiere coherencia entre la pregunta, el argumento y la evidencia.
 
-A través de lecturas, entregas progresivas y discusiones en clase, desarrollarás tus habilidades de diseño y las aplicarás a un proyecto de investigación propio, para el cual producirás un memo de diseño de investigación.
+Este curso se imparte en el primer semestre del doctorado. No supone que los estudiantes hayan definido ya un tema de tesis. Su propósito es ayudarlos a identificar fenómenos políticos relevantes, convertir intereses generales en preguntas investigables y recorrer el proceso completo de investigación: revisar una literatura, construir un argumento, formular conceptos e hipótesis, y elegir una estrategia empírica adecuada. El proceso no es lineal. Cada decisión puede obligarnos a revisar las anteriores.
+
+El curso es conceptual y metodológicamente plural. No busca enseñar una técnica particular, sino desarrollar la capacidad de construir, diagnosticar y mejorar diseños de investigación. Cada estudiante aplicará estas herramientas a un proyecto propio y producirá un memo de diseño. No se espera que sea una propuesta definitiva de tesis, sino una primera experiencia integral de investigación que contribuya a encontrar y desarrollar futuras preguntas doctorales.
 
 **Horario y salón.** Miércoles, 8:50--11:50, Aula 4. Del 26 de agosto al 2 de diciembre (13 clases). No hay clase el 16 de septiembre ni el 28 de octubre (conferencia WAPOR, UNAM).
 
