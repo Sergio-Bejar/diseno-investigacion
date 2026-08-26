@@ -115,7 +115,15 @@ Para la sesión 13 entregarás un documento de 15 a 20 páginas que contenga: (1
 
 **Integridad académica.** Se aplica el Reglamento de Docencia y el Código de Ética del CIDE. Las siguientes faltas se sancionan conforme a la normativa vigente: (1) copiar o consultar sin autorización durante exámenes o evaluaciones; (2) cometer fraude en trabajos y evaluaciones; (3) cometer plagio — toda presentación intencional o no intencional de ideas ajenas como propias, sin importar el momento o la forma; (4) cualquier otra forma de deshonestidad académica.
 
-**Uso de inteligencia artificial generativa.** Las herramientas de IA (ChatGPT, Claude, Gemini, etc.) son parte del entorno académico actual. Su uso se permite bajo las siguientes condiciones: (a) *Generación de texto:* el argumento, la estructura y la redacción de tus entregas deben ser tuyos. Usar IA para redactar secciones completas sin atribución se considera deshonestidad académica. (b) *Lluvia de ideas y edición:* puedes usar IA para explorar ideas, revisar gramática o mejorar la claridad de tu redacción. (c) *Búsqueda bibliográfica:* ten precaución — estas herramientas inventan referencias con frecuencia. Toda referencia citada debe ser verificada. (d) *Programación y análisis:* el uso de IA para ayuda con código es aceptable. (e) *Declaración:* si usas IA de manera sustantiva en una entrega, decláralo brevemente al final del documento indicando qué herramienta usaste y para qué.
+**Uso de inteligencia artificial generativa.** Las herramientas de inteligencia artificial pueden utilizarse como apoyo, pero no como sustituto del trabajo intelectual que este curso busca desarrollar.
+
+Se permite utilizarlas para corregir gramática y claridad en un texto propio, recibir comentarios sobre un borrador ya escrito, resolver dudas de programación y apoyar tareas de formato.
+
+No se permite utilizarlas para sustituir las lecturas asignadas; redactar entregas; producir la pregunta de investigación, la revisión de literatura, el argumento o las hipótesis; generar referencias bibliográficas; ni preparar respuestas durante el examen oral.
+
+Cada estudiante deberá conservar una bitácora breve de investigación que documente la evolución de su pregunta, las alternativas consideradas, las decisiones tomadas y los cambios realizados al diseño. También realizaremos ejercicios breves en clase y conversaciones sobre el avance de los proyectos. La bitácora no tendrá una calificación separada, pero podrá solicitarse como evidencia del proceso de investigación. Cada estudiante deberá poder explicar y defender las decisiones contenidas en sus entregas.
+
+Todo uso sustantivo de IA deberá declararse al final del documento, indicando la herramienta, el propósito y cómo se utilizó su respuesta. El estudiante conserva plena responsabilidad por la precisión, originalidad y calidad del trabajo entregado.
 
 **Entregas tardías.** Las entregas fuera de plazo pierden medio punto por cada día de retraso, salvo causa justificada comunicada antes de la fecha límite.
 
