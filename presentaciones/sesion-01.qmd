@@ -1,0 +1,244 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 1 · Presentación del curso e introducción"
+author: "Sergio Béjar López"
+date: "26 de agosto de 2026"
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## ¿Qué convierte una buena idea en una investigación convincente?
+
+\vspace{0.4cm}
+
+::: {.center}
+No basta con que una pregunta sea interesante.
+
+\vspace{0.35cm}
+
+\Large
+Una investigación convence cuando sus decisiones forman un diseño coherente.
+:::
+
+## ¿Quiénes estamos en el salón?
+
+Preséntate brevemente:
+
+- ¿Cuál ha sido tu trayectoria?
+- ¿Qué fenómeno político te interesa?
+- ¿Qué pregunta te gustaría poder responder?
+- ¿Qué esperas aprender en este curso?
+
+::: {.curso-callout}
+No es necesario llegar con un tema definitivo de tesis. El curso también sirve para descubrir preguntas.
+:::
+
+## La investigación es un sistema de decisiones
+
+::: {.proceso}
+**Pregunta** $\rightarrow$ **literatura** $\rightarrow$ **argumento** $\rightarrow$ **conceptos** $\rightarrow$ **evidencia** $\rightarrow$ **inferencia**
+:::
+
+\vspace{0.35cm}
+
+- Una pregunta relevante puede no ser investigable.
+- Un argumento plausible puede no generar evidencia observable.
+- Una técnica sofisticada puede no responder la pregunta.
+- Datos abundantes pueden ser irrelevantes para la inferencia.
+
+::: {.curso-callout}
+Un buen diseño depende de la coherencia del conjunto.
+:::
+
+## Pensar como diseñadores de investigación
+
+- Convertir intereses generales en **preguntas investigables**.
+- Organizar una literatura para justificar una **contribución**.
+- Construir argumentos y **mecanismos explícitos**.
+- Formular hipótesis e **implicaciones observables**.
+- Evaluar estrategias empíricas y **amenazas a la inferencia**.
+- Diagnosticar y **mejorar diseños**.
+
+::: {.curso-callout}
+La meta no es dominar una técnica particular.
+:::
+
+## El recorrido del semestre
+
+::: {.columns}
+::: {.column width="47%"}
+**Fundamentos**
+
+Pregunta · literatura · argumento · hipótesis
+
+\vspace{0.35cm}
+
+**Traducción empírica**
+
+Conceptos · medición · implicaciones observables
+:::
+
+::: {.column width="47%"}
+**Estrategia de diseño**
+
+Causalidad · comparación · casos · datos
+
+\vspace{0.35cm}
+
+**Integración**
+
+Diagnóstico de una tesis · memo · taller final
+:::
+:::
+
+::: {.curso-callout}
+El proceso es iterativo: avanzar también significa volver atrás.
+:::
+
+## Las evaluaciones reproducen el trabajo de investigar
+
+::: {.columns}
+::: {.column width="58%"}
+- **Participación activa** — 15%
+- **Análisis crítico de tesis** — 15%
+- **Examen oral** — 20%
+- **Presentación final** — 10%
+- **Memo de diseño** — 40%
+:::
+
+::: {.column width="38%"}
+Conversar
+
+Diagnosticar
+
+Defender decisiones
+
+Construir y rediseñar
+:::
+:::
+
+## Tres operaciones sobre un diseño
+
+1. **Declarar**  
+   Hacer explícitos los componentes, decisiones y supuestos.
+
+2. **Diagnosticar**  
+   Evaluar qué tan bien puede el diseño responder la pregunta.
+
+3. **Rediseñar**  
+   Modificar decisiones para mejorar su desempeño.
+
+::: {.curso-callout}
+Podemos examinar un diseño antes de recoger un solo dato.
+:::
+
+::: {.fuente}
+Blair, Coppock y Humphreys (2023), cap. 1.
+:::
+
+## MIDA: cuatro elementos de todo diseño
+
+::: {.columns}
+::: {.column width="23%"}
+### M
+
+**Modelo**
+
+¿Cómo creemos que funciona el mundo?
+:::
+
+::: {.column width="23%"}
+### I
+
+**Pregunta**
+
+¿Qué queremos aprender?
+:::
+
+::: {.column width="23%"}
+### D
+
+**Datos**
+
+¿Qué observaremos y cómo?
+:::
+
+::: {.column width="23%"}
+### A
+
+**Respuesta**
+
+¿Cómo convertiremos datos en una respuesta?
+:::
+:::
+
+::: {.curso-callout}
+Un diseño fuerte alinea los cuatro elementos.
+:::
+
+::: {.fuente}
+Blair, Coppock y Humphreys (2023), cap. 1.
+:::
+
+## Solemos dejar implícito el modelo
+
+Con frecuencia no declaramos el **modelo** que conecta la pregunta con la evidencia:
+
+- **Mecanismos:** ¿por qué ocurriría el resultado?
+- **Actores:** ¿quién reacciona y de qué manera?
+- **Alternativas:** ¿qué otras causas producirían lo mismo?
+- **Alcance:** ¿dónde y cuándo esperamos la relación?
+- **Contrafactual:** ¿qué habría ocurrido sin la causa?
+
+::: {.curso-callout}
+Si los supuestos permanecen ocultos, no podemos diagnosticar la inferencia ni saber qué debemos mejorar.
+:::
+
+## La desalineación debilita el diseño
+
+> **¿La presencia policial reduce la violencia?**
+
+Antes de elegir una técnica debemos precisar:
+
+::: {.columns}
+::: {.column width="48%"}
+- ¿Qué significa “presencia policial”?
+- ¿Qué tipo de violencia?
+- ¿Cuál es la comparación relevante?
+- ¿Por qué se despliega la policía?
+:::
+
+::: {.column width="48%"}
+- ¿Cómo mediremos la violencia?
+- ¿Qué habría ocurrido sin policía?
+- ¿Qué explicaciones alternativas existen?
+- ¿Qué resultado respondería la pregunta?
+:::
+:::
+
+::: {.curso-callout}
+Actividad: identifiquen M, I, D y A.
+:::
+
+## La apuesta del curso
+
+Investigar implica hacer explícitas nuestras decisiones y aceptar sus consecuencias.
+
+- ¿Qué queremos aprender?
+- ¿Qué supuestos sostienen nuestra inferencia?
+- ¿Qué evidencia podría contradecirnos?
+- ¿Qué alternativas de diseño son factibles?
+- ¿Qué consecuencias éticas tienen nuestras decisiones?
+- ¿Cómo podemos mejorar el diseño antes de ejecutarlo?
+
+::: {.curso-callout}
+Para la próxima sesión: trae un fenómeno político y dos posibles preguntas de investigación.
+:::
