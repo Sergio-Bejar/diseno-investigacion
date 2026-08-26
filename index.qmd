@@ -20,7 +20,9 @@ El diseño de una investigación es un proceso sistemático en el que todas las 
 
 Ninguna de estas decisiones puede evaluarse de manera aislada. Una pregunta puede ser relevante pero difícil de investigar; un argumento puede ser plausible pero no producir implicaciones observables; y una técnica puede estar bien aplicada pero no responder la pregunta. Un buen diseño requiere coherencia entre la pregunta, el argumento y la evidencia.
 
-Este curso se imparte en el primer semestre del doctorado. No supone que los estudiantes hayan definido ya un tema de tesis. Su propósito es ayudarlos a identificar fenómenos políticos relevantes, convertir intereses generales en preguntas investigables y recorrer el proceso completo de investigación. Cada estudiante aplicará estas herramientas a un proyecto propio y producirá un memo de diseño: una primera experiencia integral de investigación que contribuya a encontrar y desarrollar futuras preguntas doctorales.
+Este curso se imparte en el primer semestre del doctorado. No supone que los estudiantes hayan definido ya un tema de tesis. Su propósito es ayudarlos a identificar fenómenos políticos relevantes, convertir intereses generales en preguntas investigables y recorrer el proceso completo de investigación: revisar una literatura, construir un argumento, formular conceptos e hipótesis, y elegir una estrategia empírica adecuada. El proceso no es lineal. Cada decisión puede obligarnos a revisar las anteriores.
+
+El curso es conceptual y metodológicamente plural. No busca enseñar una técnica particular, sino desarrollar la capacidad de construir, diagnosticar y mejorar diseños de investigación. Cada estudiante aplicará estas herramientas a un proyecto propio y producirá un memo de diseño. No se espera que sea una propuesta definitiva de tesis, sino una primera experiencia integral de investigación que contribuya a encontrar y desarrollar futuras preguntas doctorales.
 
 ::: {.callout-tip appearance="simple"}
 ## Pregunta que recorre el curso
