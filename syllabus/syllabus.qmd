@@ -17,8 +17,8 @@ format:
     codefont: "Menlo"
 date: "Otoño 2026"
 date-format: "[Otoño 2026]"
-office: "Lugar: Sala de seminarios de la DEP"
-office-hours: "Horario de atención: por cita previa"
+office: "Oficina: DEP"
+office-hours: "Horario de atención: por cita"
 bibliography: bibliography.bib
 frontmatter-logo: "logo.svg"
 frontmatter-logo-height: 0.75in
@@ -32,7 +32,7 @@ El curso es el primero de una secuencia de dos semestres. El primer semestre se 
 
 A través de lecturas, entregas progresivas y discusiones en clase, desarrollarás tus habilidades de diseño y las aplicarás a un proyecto de investigación propio, para el cual producirás un memo de diseño de investigación.
 
-**Horario.** Miércoles, 8:50--11:50. Del 26 de agosto al 2 de diciembre (13 clases). No hay clase el 16 de septiembre ni el 28 de octubre (conferencia WAPOR, UNAM).
+**Horario y salón.** Miércoles, 8:50--11:50, Aula 4. Del 26 de agosto al 2 de diciembre (13 clases). No hay clase el 16 de septiembre ni el 28 de octubre (conferencia WAPOR, UNAM).
 
 # Resultados de aprendizaje
 

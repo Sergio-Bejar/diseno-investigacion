@@ -5,9 +5,11 @@ Doctorado en Ciencia Política — Otoño 2026
 
 Profesor — Dr. Sergio Béjar López\
 Correo institucional — sergio.bejar@cide.edu\
-Horario de clase — miércoles, 8:50–11:50 (26 de agosto al 2 de diciembre)\
-Lugar — Sala de seminarios de la DEP\
-Horario de atención — por cita previa
+Horario de clase — miércoles, 8:50–11:50\
+Periodo — 26 de agosto al 2 de diciembre\
+Salón — Aula 4\
+Oficina — DEP\
+Horario de atención — por cita
 
 ---
 
