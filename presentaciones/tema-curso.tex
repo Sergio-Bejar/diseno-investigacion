@@ -65,11 +65,11 @@
     \node[fill=CourseCream,rounded corners=2pt,inner sep=8pt] at ([yshift=2.05cm]current page.center)
       {\includegraphics[width=4.4cm,trim=350 1048 349 46,clip]{assets/logo.svg.png}};
     \node[text=white,align=center,text width=12cm] at ([yshift=-0.95cm]current page.center)
-      {{\fontsize{16}{20}\selectfont Sesión 1\\Presentación del curso e introducción}};
+      {{\fontsize{16}{20}\selectfont \insertsubtitle}};
     \node[text=white!72,align=center] at ([yshift=-1.75cm]current page.center)
       {{\usebeamerfont{author}\insertauthor\quad·\quad CIDE}};
     \node[text=white!55,align=center] at ([yshift=-2.25cm]current page.center)
-      {{\usebeamerfont{date}26 de agosto de 2026}};
+      {{\usebeamerfont{date}\insertdate}};
   \end{tikzpicture}%
 }
 

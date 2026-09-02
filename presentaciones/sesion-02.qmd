@@ -1,0 +1,479 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 2 · Epistemología y preguntas de investigación"
+author: "Sergio Béjar López"
+date: 2026-09-02
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## ¿Cuándo una curiosidad se convierte en investigación?
+
+\vspace{0.4cm}
+
+::: {.center}
+\Large
+Cuando se convierte en una pregunta que puede recibir una respuesta equivocada.
+:::
+
+\vspace{0.4cm}
+
+::: {.curso-callout}
+Hoy pasaremos de intereses amplios a preguntas investigables.
+:::
+
+## Al terminar la sesión podremos...
+
+- Distinguir preguntas **normativas**, **descriptivas** y **causales**.
+- Explicar qué significa que una afirmación sea **falsable**.
+- Formular **explicaciones rivales** para un mismo fenómeno.
+- Distinguir un **tema** de un **problema de investigación**.
+- Diagnosticar y mejorar una pregunta propia.
+
+## Comencemos con sus preguntas
+
+En parejas, compartan el fenómeno y las dos preguntas que prepararon.
+
+1. ¿Qué quieren comprender o explicar?
+2. ¿Las preguntas piden un juicio, una descripción o una explicación?
+3. ¿Qué evidencia sería pertinente para responderlas?
+
+::: {.curso-callout}
+No busquen todavía la formulación perfecta: identifiquen qué trabajo debe hacer la pregunta.
+:::
+
+## Cinco lecturas, una secuencia
+
+::: {.proceso}
+**Vocación** $\rightarrow$ **demarcación** $\rightarrow$ **contraste** $\rightarrow$ **problema** $\rightarrow$ **pregunta**
+:::
+
+\vspace{0.35cm}
+
+- Weber: ¿qué exige producir conocimiento?
+- Popper: ¿qué distingue una afirmación científica?
+- Platt: ¿cómo distinguimos explicaciones rivales?
+- Eidlin: ¿investigamos temas o problemas?
+- Geddes: ¿cómo formulamos preguntas productivas?
+
+## La ciencia ofrece claridad, no decisiones finales
+
+Para Weber, el análisis científico puede ayudarnos a:
+
+- precisar las consecuencias de distintos fines;
+- identificar los medios disponibles;
+- mostrar tensiones entre valores;
+- exigir consistencia intelectual.
+
+::: {.curso-callout}
+La evidencia puede informar una elección; no puede elegir nuestros valores por nosotros.
+:::
+
+::: {.fuente}
+Weber (2008 [1917]).
+:::
+
+## La vocación científica acepta tres incomodidades
+
+::: {.columns}
+::: {.column width="31%"}
+### Especialización
+
+Contribuimos a una conversación que no controlamos por completo.
+:::
+
+::: {.column width="31%"}
+### Provisionalidad
+
+Nuestro trabajo está destinado a ser corregido o superado.
+:::
+
+::: {.column width="31%"}
+### Incertidumbre
+
+No hay garantía de que una pregunta produzca una respuesta satisfactoria.
+:::
+:::
+
+::: {.fuente}
+Weber (2008 [1917]).
+:::
+
+## ¿Qué puede aportar la ciencia a una controversia política?
+
+> Si la ciencia no puede decirnos qué valores elegir, ¿qué puede aportar a decisiones moralmente controvertidas?
+
+\vspace{0.35cm}
+
+Piensen en un ejemplo:
+
+- una política que persigue fines incompatibles;
+- una decisión cuyos costos recaen sobre actores distintos;
+- un desacuerdo empírico presentado como desacuerdo moral.
+
+## Una teoría científica se expone al fracaso
+
+Popper rechaza la idea de que muchas observaciones favorables puedan verificar definitivamente una teoría.
+
+::: {.columns}
+::: {.column width="47%"}
+**Confirmar**
+
+Buscar hechos compatibles con lo que ya creemos.
+:::
+
+::: {.column width="47%"}
+**Poner a prueba**
+
+Buscar observaciones que la teoría no podría acomodar fácilmente.
+:::
+:::
+
+::: {.curso-callout}
+Una afirmación es falsable si podemos describir qué observación sería incompatible con ella.
+:::
+
+::: {.fuente}
+Popper (1959), cap. 1.
+:::
+
+## Ser falsable no significa ser falso
+
+- **Falsable:** corre un riesgo empírico reconocible.
+- **Falsada:** la evidencia contradice una predicción relevante.
+- **No falsable:** ningún resultado concebible cuenta en su contra.
+- **Difícil de probar:** es falsable en principio, pero la evidencia necesaria no es accesible.
+
+::: {.curso-callout}
+La falsabilidad es una propiedad lógica; la factibilidad es una propiedad del diseño.
+:::
+
+## ¿Qué observación contaría en contra?
+
+::: {.columns}
+::: {.column width="48%"}
+**Afirmación**
+
+“La desigualdad debilita la democracia”.
+
+\vspace{0.25cm}
+
+**Debemos precisar**
+
+- desigualdad de qué;
+- qué significa debilitar;
+- en qué unidades y periodo.
+:::
+
+::: {.column width="48%"}
+**Prueba de riesgo**
+
+¿Qué patrón sería difícil de reconciliar con la afirmación?
+
+\vspace{0.25cm}
+
+¿Qué explicación rival produciría el mismo patrón observado?
+:::
+:::
+
+## El tribunal de la falsabilidad
+
+Clasifiquen cada afirmación:
+
+1. “Un gobierno justo debe reducir la desigualdad”.
+2. “La corrupción ocurre porque los políticos son corruptos”.
+3. “La reelección municipal aumenta la provisión de bienes públicos”.
+4. “Toda crisis política responde, en el fondo, a factores culturales”.
+
+::: {.curso-callout}
+Categorías: normativa · empírica pero vaga · falsable · prácticamente inviable.
+:::
+
+## Rediseñar exige aumentar el riesgo
+
+Elijan una afirmación débil y especifiquen:
+
+- el concepto central;
+- la unidad de análisis;
+- el alcance temporal o espacial;
+- el resultado esperado;
+- una observación que contaría en contra.
+
+::: {.proceso}
+Una buena reformulación elimina rutas de escape.
+:::
+
+## Una hipótesis aislada suele sobrevivir demasiado
+
+Platt propone organizar la investigación alrededor de **alternativas explícitas**.
+
+1. Formular hipótesis competidoras.
+2. Diseñar una prueba que produzca resultados distintos bajo cada una.
+3. Ejecutar la prueba.
+4. Descartar, modificar y volver a probar.
+
+::: {.curso-callout}
+La pregunta decisiva no es “¿hay evidencia a favor?”, sino “¿qué explicación favorece esta evidencia?”.
+:::
+
+::: {.fuente}
+Platt (1964).
+:::
+
+## El mismo resultado puede tener varias explicaciones
+
+> Los municipios con mayor presencia policial registran más violencia.
+
+::: {.columns}
+::: {.column width="31%"}
+### H₁
+
+La presencia policial genera violencia.
+:::
+
+::: {.column width="31%"}
+### H₂
+
+La violencia provoca despliegues policiales.
+:::
+
+::: {.column width="31%"}
+### H₃
+
+Una tercera condición provoca ambas.
+:::
+:::
+
+::: {.curso-callout}
+Observar una asociación no nos dice cuál proceso la produjo.
+:::
+
+## Una prueba fuerte discrimina entre alternativas
+
+Para cada explicación rival, pregunten:
+
+- ¿qué mecanismo tendría que operar?
+- ¿qué secuencia temporal esperaríamos?
+- ¿qué evidencia sería exclusiva o especialmente probable?
+- ¿qué resultado sería incómodo para nuestra explicación preferida?
+
+::: {.curso-callout}
+Las alternativas mejoran una pregunta porque revelan qué debemos aprender.
+:::
+
+::: {.fuente}
+Platt (1964); Popper (1959).
+:::
+
+## Un tema identifica un territorio; un problema identifica una incógnita
+
+::: {.columns}
+::: {.column width="46%"}
+### Tema
+
+- violencia política;
+- populismo;
+- burocracias;
+- participación electoral.
+
+Nos dice **dónde mirar**.
+:::
+
+::: {.column width="50%"}
+### Problema
+
+- una variación inesperada;
+- una contradicción entre teorías;
+- un hecho que la literatura no explica;
+- una descripción necesaria pero ausente.
+
+Nos dice **qué no entendemos**.
+:::
+:::
+
+::: {.fuente}
+Eidlin (2011).
+:::
+
+## Una etiqueta temática no organiza una investigación
+
+::: {.proceso}
+“Quiero estudiar el populismo”
+:::
+
+\vspace{0.25cm}
+
+Todavía necesitamos decidir:
+
+- ¿qué fenómeno concreto resulta desconcertante?
+- ¿qué conocimiento existente hace que sea desconcertante?
+- ¿qué unidades o episodios permiten observarlo?
+- ¿qué tipo de respuesta produciría una contribución?
+
+::: {.curso-callout}
+El problema conecta un fenómeno con una conversación académica.
+:::
+
+::: {.fuente}
+Eidlin (2011).
+:::
+
+## Las preguntas demasiado grandes ocultan decisiones
+
+> “¿Por qué ocurren las revoluciones?”
+
+Antes de investigar habría que precisar:
+
+- qué cuenta como revolución;
+- qué variación queremos explicar;
+- cuál es la población relevante;
+- en qué periodo;
+- frente a qué explicaciones alternativas.
+
+::: {.curso-callout}
+Reducir el alcance puede aumentar la importancia de la respuesta.
+:::
+
+::: {.fuente}
+Geddes (2003), cap. 1.
+:::
+
+## De la curiosidad a una pregunta productiva
+
+::: {.proceso}
+**Tema** $\rightarrow$ **fenómeno** $\rightarrow$ **variación o incógnita** $\rightarrow$ **pregunta**
+:::
+
+\vspace{0.3cm}
+
+“Violencia política”
+
+$\downarrow$
+
+“Comunidades expuestas a actores armados cooperan de maneras distintas”
+
+$\downarrow$
+
+“¿Por qué comunidades bajo niveles similares de coerción desarrollan distintas formas de cooperación con actores armados?”
+
+::: {.fuente}
+Aplicación de Geddes (2003) y Eidlin (2011).
+:::
+
+## No todas las preguntas hacen el mismo trabajo
+
+::: {.columns}
+::: {.column width="31%"}
+### Normativa
+
+¿Qué debería hacerse?
+
+Requiere criterios de valoración.
+:::
+
+::: {.column width="31%"}
+### Descriptiva
+
+¿Qué es, cuánto hay o cómo varía?
+
+Produce conocimiento sobre el mundo.
+:::
+
+::: {.column width="31%"}
+### Causal
+
+¿Qué efecto tiene X o por qué ocurre Y?
+
+Compara resultados posibles.
+:::
+:::
+
+::: {.curso-callout}
+Una pregunta descriptiva no es inferior: puede ser la contribución que una literatura necesita.
+:::
+
+## Una pregunta investigable hace visibles sus decisiones
+
+Podemos diagnosticarla preguntando:
+
+- ¿Cuál es el resultado o fenómeno de interés?
+- ¿Cuál es la unidad de análisis?
+- ¿Dónde y cuándo aplica?
+- ¿Qué variación o incógnita motiva la pregunta?
+- ¿Admite respuestas alternativas?
+- ¿Qué evidencia permitiría responderla?
+- ¿Por qué cambiaría lo que sabemos?
+
+## Taller: diagnostiquen sus dos preguntas
+
+Para cada pregunta, anoten:
+
+1. Tipo: normativa, descriptiva o causal.
+2. Fenómeno o resultado central.
+3. Unidad y alcance.
+4. Explicación rival o respuesta alternativa.
+5. Evidencia pertinente.
+6. Principal problema de formulación.
+
+::: {.curso-callout}
+Elijan después la pregunta con mayor potencial de aprendizaje.
+:::
+
+## Taller: produzcan tres versiones
+
+A partir del mismo interés, escriban:
+
+- una pregunta **descriptiva**;
+- una pregunta **causal**;
+- una hipótesis provisional que pueda equivocarse.
+
+Después completen:
+
+> Cambiaría de opinión si observara...
+
+::: {.curso-callout}
+Intercambien su formulación con otra persona y eliminen una ambigüedad.
+:::
+
+## Las cinco lecturas convergen en una disciplina intelectual
+
+::: {.columns}
+::: {.column width="47%"}
+- Weber: reconocer los límites de la ciencia.
+- Popper: declarar qué podría contradecirnos.
+- Platt: enfrentar explicaciones rivales.
+:::
+
+::: {.column width="47%"}
+- Eidlin: comenzar con un problema.
+- Geddes: delimitar preguntas productivas.
+:::
+:::
+
+::: {.curso-callout}
+Investigar es organizar la posibilidad de estar equivocados de una manera informativa.
+:::
+
+## Antes de salir
+
+Entreguen tres líneas:
+
+1. **Mi pregunta revisada es...**
+2. **Una respuesta o explicación alternativa es...**
+3. **La evidencia que podría hacerme cambiar de opinión es...**
+
+\vspace{0.35cm}
+
+::: {.curso-callout}
+Para la próxima sesión: observen cómo la literatura convierte una ausencia de conocimiento en una contribución.
+:::
