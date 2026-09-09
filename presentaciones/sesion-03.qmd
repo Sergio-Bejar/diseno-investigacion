@@ -1,0 +1,460 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 3 · La revisión de literatura como argumento"
+author: "Sergio Béjar López"
+date: 2026-09-09
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## ¿Por qué hace falta otra investigación?
+
+\vspace{0.45cm}
+
+::: {.center}
+\Large
+Una revisión de literatura debe construir una respuesta convincente.
+:::
+
+\vspace{0.4cm}
+
+::: {.curso-callout}
+Hoy organizaremos textos para identificar qué sabemos, qué permanece abierto y qué aportaría una nueva investigación.
+:::
+
+## Objetivos de la sesión
+
+Al terminar podremos:
+
+- distinguir un catálogo bibliográfico de una revisión argumentativa;
+- reconstruir una conversación académica;
+- reconocer distintas formas de contribución;
+- evaluar si un vacío importa;
+- construir un mapa de contribución para un proyecto propio.
+
+## Una revisión que parece familiar
+
+> Smith (2010) estudia las protestas y concluye que la desigualdad es importante. Jones (2013) analiza la represión. García (2017) examina las organizaciones sociales. López (2021) estudia el papel de las redes digitales.
+
+\vspace{0.35cm}
+
+Discutamos entre todo el seminario:
+
+- ¿qué sabemos después de leer el párrafo?
+- ¿qué relación existe entre los estudios?
+- ¿qué investigación debería seguir?
+
+## Una lista de autores no establece una contribución
+
+El párrafo anterior informa que existen cuatro estudios, pero no aclara:
+
+- si responden la misma pregunta;
+- en qué coinciden o discrepan;
+- qué evidencia sostiene cada posición;
+- qué permanece sin resolver;
+- por qué una respuesta adicional cambiaría lo que sabemos.
+
+::: {.curso-callout}
+Resumir cada texto por separado transfiere al lector el trabajo de construir la conversación.
+:::
+
+## La revisión cumple una función dentro del diseño
+
+::: {.proceso}
+**Pregunta** $\longleftrightarrow$ **literatura** $\longleftrightarrow$ **contribución**
+:::
+
+\vspace{0.4cm}
+
+La revisión debe mostrar:
+
+- qué conocimiento vuelve interesante la pregunta;
+- qué límite impide responderla todavía;
+- qué aprenderíamos al superar ese límite.
+
+::: {.curso-callout}
+La pregunta y la revisión se corrigen mutuamente durante la investigación.
+:::
+
+## El argumento central de la revisión
+
+Una revisión convincente sostiene cuatro afirmaciones:
+
+1. Existe una conversación académica identificable.
+2. Esa conversación ha producido conocimiento acumulado.
+3. Persiste una limitación relevante.
+4. El proyecto puede reducir esa limitación.
+
+::: {.curso-callout}
+Cada afirmación necesita evidencia bibliográfica, no solamente confianza retórica.
+:::
+
+## Knopf: la revisión responde preguntas concretas
+
+Knopf propone tratar la revisión como una investigación con objetivos definidos:
+
+- delimitar la literatura pertinente;
+- identificar hallazgos y debates;
+- evaluar fortalezas y limitaciones;
+- descubrir relaciones entre estudios;
+- situar el proyecto frente al conocimiento existente.
+
+::: {.fuente}
+Knopf (2006).
+:::
+
+## La búsqueda necesita una frontera justificable
+
+Ninguna revisión puede incluir todo lo escrito sobre un tema.
+
+La selección debe responder a una regla explícita:
+
+- una pregunta compartida;
+- un concepto o resultado común;
+- una explicación que atraviesa campos distintos;
+- una población o contexto relevante para la inferencia.
+
+::: {.curso-callout}
+La frontera correcta depende del problema, no de una palabra clave aislada.
+:::
+
+::: {.fuente}
+Knopf (2006).
+:::
+
+## Leer para comparar
+
+Una matriz de lectura puede registrar:
+
+| Estudio | Pregunta | Argumento | Evidencia | Alcance | Límite |
+|:--|:--|:--|:--|:--|:--|
+| A | ¿Qué explica Y? | X causa Y | Casos | Países A-B | Selección |
+| B | ¿Cuándo ocurre Y? | Z condiciona X | Encuesta | País C | Medición |
+
+::: {.curso-callout}
+Las columnas obligan a comparar decisiones de investigación, no solamente conclusiones.
+:::
+
+::: {.fuente}
+Aplicación de Knopf (2006).
+:::
+
+## Las categorías deben servir al argumento
+
+Formas útiles de organizar una literatura:
+
+- explicaciones rivales del mismo resultado;
+- mecanismos propuestos para una relación;
+- resultados contradictorios;
+- diferencias de alcance;
+- estrategias empíricas con fortalezas distintas.
+
+::: {.curso-callout}
+Una organización cronológica funciona solamente cuando el cambio histórico de la conversación constituye el argumento.
+:::
+
+## Ejercicio en grupos: tres organizaciones posibles
+
+Reorganicen la revisión sobre protestas usando una de estas lógicas:
+
+1. **Explicaciones:** condiciones económicas, represión y movilización.
+2. **Resultados:** hallazgos compatibles frente a hallazgos contradictorios.
+3. **Limitación compartida:** todos observan protestas visibles, pero no desmovilización.
+
+Después respondan:
+
+> ¿Qué pregunta nueva surge de cada organización?
+
+::: {.curso-callout}
+Éste será el único ejercicio en grupos de la sesión. Cada grupo presentará su organización al seminario.
+:::
+
+## La misma bibliografía puede producir preguntas distintas
+
+::: {.columns}
+::: {.column width="31%"}
+### Explicaciones
+
+¿Qué mecanismo pesa más y bajo qué condiciones?
+:::
+
+::: {.column width="31%"}
+### Contradicción
+
+¿Por qué estudios semejantes obtienen resultados diferentes?
+:::
+
+::: {.column width="31%"}
+### Alcance
+
+¿La explicación también opera en casos que la literatura omite?
+:::
+:::
+
+::: {.curso-callout}
+El vacío no aparece solo. La estructura de la revisión lo hace visible.
+:::
+
+## Trachtenberg: reconstruir el razonamiento
+
+Una revisión rigurosa no se limita a informar qué concluye cada autor.
+
+También pregunta:
+
+- ¿qué problema intenta resolver?
+- ¿qué evidencia considera decisiva?
+- ¿cómo pasa de esa evidencia a su conclusión?
+- ¿qué supuestos sostienen el argumento?
+- ¿qué objeciones reconoce o deja pendientes?
+
+::: {.fuente}
+Trachtenberg (2006), cap. 6 y apéndice 1.
+:::
+
+## Las notas de lectura conservan la arquitectura del texto
+
+Para cada obra conviene separar:
+
+::: {.columns}
+::: {.column width="47%"}
+**La voz del autor**
+
+- pregunta;
+- tesis;
+- evidencia;
+- estructura del razonamiento.
+:::
+
+::: {.column width="47%"}
+**La evaluación del lector**
+
+- fortalezas;
+- dudas;
+- conexiones;
+- usos posibles en el proyecto.
+:::
+:::
+
+::: {.curso-callout}
+Separar registro y evaluación reduce atribuciones equivocadas.
+:::
+
+::: {.fuente}
+Trachtenberg (2006), apéndice 1.
+:::
+
+## Una cita debe tener una función
+
+Antes de incluir una referencia, podemos preguntar qué trabajo realiza:
+
+- establece un hecho conocido;
+- representa una explicación;
+- documenta un desacuerdo;
+- aporta una definición;
+- muestra un límite de la evidencia;
+- justifica una decisión del proyecto.
+
+::: {.curso-callout}
+Si no podemos identificar su función, la cita probablemente está decorando el texto.
+:::
+
+## Gerring: los conceptos organizan la conversación
+
+Dos estudios pueden usar la misma palabra para fenómenos distintos o palabras distintas para el mismo fenómeno.
+
+La revisión debe aclarar:
+
+- qué significa el concepto central;
+- cuáles son sus atributos relevantes;
+- qué casos incluye y excluye;
+- cómo cambia entre autores;
+- qué consecuencias tiene esa variación para los hallazgos.
+
+::: {.fuente}
+Gerring (2012), caps. 2-3.
+:::
+
+## Los desacuerdos pueden ser conceptuales
+
+> Dos autores discrepan sobre si una democracia se ha erosionado.
+
+Antes de buscar una explicación causal, conviene preguntar:
+
+- ¿usan el mismo concepto de democracia?
+- ¿observan los mismos atributos?
+- ¿aplican el mismo umbral?
+- ¿sus indicadores representan el concepto de manera comparable?
+
+::: {.curso-callout}
+Una aparente contradicción empírica puede provenir de decisiones conceptuales distintas.
+:::
+
+::: {.fuente}
+Aplicación de Gerring (2012).
+:::
+
+## Cuatro formas frecuentes de contribución
+
+::: {.columns}
+::: {.column width="48%"}
+### Teórica
+
+Propone una explicación, mecanismo o condición de alcance.
+
+### Conceptual
+
+Aclara, distingue o reorganiza conceptos.
+:::
+
+::: {.column width="48%"}
+### Descriptiva
+
+Documenta un patrón que desconocíamos o medíamos mal.
+
+### Empírica
+
+Somete una afirmación a evidencia más adecuada.
+:::
+:::
+
+::: {.curso-callout}
+Un proyecto puede combinar contribuciones, pero debe identificar cuál organiza su argumento.
+:::
+
+## Un vacío bibliográfico puede carecer de importancia
+
+> “Nadie ha estudiado este fenómeno en el municipio X”.
+
+La ausencia de estudios establece novedad, pero todavía no establece relevancia.
+
+Debemos explicar:
+
+- qué afirmación general podemos evaluar;
+- qué supuesto cuestiona el caso;
+- qué variación nueva incorpora;
+- qué cambiaría en la conversación.
+
+::: {.curso-callout}
+La pregunta importante no es solamente “¿falta?”, sino “¿qué aprenderemos al llenarlo?”.
+:::
+
+## El caso nuevo necesita una función inferencial
+
+Un caso puede aportar porque:
+
+- permite observar un mecanismo oculto;
+- amplía o restringe el alcance de una explicación;
+- presenta condiciones que separan teorías rivales;
+- contradice una expectativa bien establecida;
+- mejora una descripción sesgada o incompleta.
+
+::: {.curso-callout}
+La geografía por sí sola rara vez constituye la contribución.
+:::
+
+## La lógica de una revisión en cinco movimientos
+
+1. **Conversación:** esta literatura intenta explicar o describir X.
+2. **Conocimiento:** los estudios establecen A y B.
+3. **Tensión:** discrepan sobre C o comparten la limitación D.
+4. **Consecuencia:** esa tensión impide responder la pregunta E.
+5. **Contribución:** el proyecto aporta F para reducir el problema.
+
+::: {.curso-callout}
+La secuencia debe poder resumirse en un párrafo antes de escribir muchas páginas.
+:::
+
+## Diagnóstico de un argumento de contribución
+
+> Sabemos que la represión puede reducir la protesta y también radicalizarla. Sin embargo, ambas explicaciones suelen inferirse a partir de eventos visibles. Sabemos menos sobre quienes deciden no movilizarse. Esto impide distinguir desmovilización de ausencia de descontento. Estudiar decisiones individuales antes de una protesta permitiría evaluar ambos mecanismos.
+
+¿Dónde aparecen la conversación, el conocimiento, la tensión y la contribución?
+
+## Reflexión individual: mapa de contribución
+
+Completen estas frases para su proyecto:
+
+1. **Conversación:** estudio la literatura sobre...
+2. **Conocimiento:** esta literatura muestra que...
+3. **Tensión:** todavía discrepa o sabe poco sobre...
+4. **Consecuencia:** esto importa porque...
+5. **Contribución:** mi proyecto permitiría aprender...
+
+::: {.curso-callout}
+Escriban una oración por movimiento. Después discutiremos algunos mapas con todo el seminario.
+:::
+
+## Discusión plenaria: prueba de resistencia
+
+Revisaremos algunos mapas entre todo el seminario. Para cada uno, buscaremos:
+
+- una afirmación que necesita más evidencia;
+- una categoría que mezcla literaturas distintas;
+- un salto entre el vacío y la contribución;
+- una formulación demasiado amplia;
+- una razón concreta por la que la contribución importa.
+
+::: {.curso-callout}
+Cada observación debe indicar qué conexión falta, no solamente que “se necesita profundizar”.
+:::
+
+## Una revisión sólida facilita el resto del diseño
+
+Cuando la conversación y la contribución están claras:
+
+- la pregunta adquiere límites justificables;
+- el argumento responde a alternativas reales;
+- los conceptos se definen frente a usos existentes;
+- la evidencia se elige por su capacidad de resolver la tensión;
+- el lector entiende cómo evaluar el aporte.
+
+## Síntesis de las lecturas
+
+::: {.columns}
+::: {.column width="31%"}
+### Knopf
+
+Define una búsqueda y una síntesis orientadas por preguntas.
+:::
+
+::: {.column width="31%"}
+### Trachtenberg
+
+Reconstruye el razonamiento y el uso de la evidencia.
+:::
+
+::: {.column width="31%"}
+### Gerring
+
+Aclara los conceptos que organizan la comparación.
+:::
+:::
+
+::: {.curso-callout}
+Juntos convierten la bibliografía en un argumento sobre el estado del conocimiento.
+:::
+
+## Antes de salir
+
+Entreguen un párrafo breve que responda:
+
+1. ¿Cuál es la conversación académica de su proyecto?
+2. ¿Qué sabemos con suficiente confianza?
+3. ¿Qué tensión limita ese conocimiento?
+4. ¿Qué aportaría su investigación?
+
+\vspace{0.3cm}
+
+::: {.curso-callout}
+Una buena revisión hace que la pregunta parezca necesaria y que la contribución pueda evaluarse.
+:::
