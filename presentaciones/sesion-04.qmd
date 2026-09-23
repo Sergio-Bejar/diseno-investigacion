@@ -1,0 +1,712 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 4 · Causalidad I: argumentos causales y contrafactuales"
+author: "Sergio Béjar López"
+date: 2026-09-23
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## ¿Qué queremos decir cuando afirmamos que X causa Y?
+
+\vspace{0.45cm}
+
+::: {.center}
+\Large
+Que Y habría sido diferente si X hubiera sido diferente.
+:::
+
+\vspace{0.4cm}
+
+::: {.curso-callout}
+Hoy haremos explícito el contrafactual que sostiene una afirmación causal.
+:::
+
+## Objetivos de la sesión
+
+Al terminar podremos:
+
+- distinguir asociación, secuencia y causalidad;
+- formular el contrafactual de una afirmación causal;
+- reconocer el problema fundamental de la inferencia causal;
+- comparar cuatro maneras de pensar la causación;
+- evaluar argumentos contrafactuales sobre casos históricos;
+- diagnosticar una afirmación causal de un proyecto propio.
+
+## De una contribución a una afirmación causal
+
+La sesión anterior preguntamos qué falta en una literatura.
+
+Hoy añadimos una exigencia cuando la respuesta propuesta es causal:
+
+::: {.proceso}
+**X ocurrió** $\neq$ **Y ocurrió después** $\neq$ **X causó Y**
+:::
+
+\vspace{0.3cm}
+
+Para sostener la tercera afirmación debemos explicar qué comparación permite atribuir a X una diferencia en Y.
+
+## Una asociación admite varias historias
+
+> Los municipios con más policías registran más violencia.
+
+::: {.columns}
+::: {.column width="31%"}
+### Causalidad directa
+
+La presencia policial aumenta la violencia.
+:::
+
+::: {.column width="31%"}
+### Causalidad inversa
+
+La violencia provoca el despliegue policial.
+:::
+
+::: {.column width="31%"}
+### Causa común
+
+Una tercera condición aumenta ambas.
+:::
+:::
+
+::: {.curso-callout}
+La asociación es evidencia por explicar, no una conclusión causal.
+:::
+
+## El lenguaje causal implica una diferencia
+
+Decir que X causó Y atribuye a X una diferencia en el resultado.
+
+::: {.columns}
+::: {.column width="47%"}
+**Mundo observado**
+
+X ocurrió y observamos Y.
+:::
+
+::: {.column width="47%"}
+**Mundo contrafactual**
+
+X no ocurrió y preguntamos qué habría pasado con Y.
+:::
+:::
+
+::: {.curso-callout}
+La comparación relevante cambia X y conserva constantes las demás condiciones pertinentes.
+:::
+
+::: {.fuente}
+Brady (2008); Fearon (1991).
+:::
+
+## Un contrafactual es una comparación no observada
+
+Para una misma unidad $i$:
+
+::: {.proceso}
+$Y_i(1)$: resultado con X \hspace{1cm} $Y_i(0)$: resultado sin X
+:::
+
+\vspace{0.35cm}
+
+El efecto causal para esa unidad sería:
+
+::: {.center}
+\Large
+$Y_i(1) - Y_i(0)$
+:::
+
+::: {.curso-callout}
+La notación no resuelve el problema. Aclara cuál es la comparación que necesitamos.
+:::
+
+## El problema fundamental de la inferencia causal
+
+Para una misma unidad, en un mismo momento, observamos solamente uno de dos resultados:
+
+- si recibe X, observamos $Y_i(1)$;
+- si no recibe X, observamos $Y_i(0)$;
+- el otro resultado permanece contrafactual.
+
+::: {.curso-callout}
+Todo diseño causal propone una estrategia para aprender sobre el resultado que no observamos.
+:::
+
+## El estimando antecede al método
+
+Antes de elegir datos o una técnica debemos precisar qué efecto queremos conocer.
+
+::: {.proceso}
+**Población** + **tratamiento** + **resultado** + **contraste causal**
+:::
+
+\vspace{0.3cm}
+
+Un estimando aclara:
+
+- para qué unidades buscamos el efecto;
+- qué versiones de X comparamos;
+- qué resultado y periodo importan;
+- cómo resumiremos las diferencias causales.
+
+::: {.curso-callout}
+Dos análisis pueden estudiar el mismo programa y responder preguntas causales distintas.
+:::
+
+::: {.fuente}
+Fuente: Heiss, *Program Evaluation*, resultados potenciales.
+:::
+
+## Del efecto individual al efecto promedio
+
+Como no observamos $Y_i(1)$ y $Y_i(0)$ para la misma unidad, podemos definir un efecto promedio:
+
+::: {.center}
+\Large
+$ATE = E[Y(1) - Y(0)] = E[Y(1)] - E[Y(0)]$
+:::
+
+\vspace{0.3cm}
+
+El efecto promedio del tratamiento pregunta:
+
+> ¿Cuánto cambiaría Y, en promedio, si toda la población recibiera X en lugar de no recibirlo?
+
+::: {.curso-callout}
+Promediar define una pregunta posible de responder, pero todavía necesitamos identificar ambos promedios.
+:::
+
+::: {.fuente}
+Fuente: Heiss, *Program Evaluation*, resultados potenciales.
+:::
+
+## Diferentes poblaciones producen diferentes efectos
+
+| Estimando | Pregunta |
+|:--|:--|
+| **ATE** | ¿Cuál es el efecto promedio en toda la población? |
+| **ATT** | ¿Cuál es el efecto promedio entre quienes recibieron X? |
+| **CATE** | ¿Cuál es el efecto promedio en un subgrupo definido? |
+
+\vspace{0.25cm}
+
+El efecto puede variar entre personas, lugares o periodos.
+
+::: {.curso-callout}
+Debemos justificar la población del estimando antes de generalizar un resultado.
+:::
+
+::: {.fuente}
+Adaptado de Heiss, *Program Evaluation* (sesión sobre ATE, ATT y CATE).
+:::
+
+## Evaluación de un programa de tutorías
+
+Supongamos que quienes asistieron a tutorías obtuvieron, en promedio, 80 puntos y quienes no asistieron obtuvieron 70.
+
+::: {.proceso}
+**Diferencia observada = 10 puntos**
+:::
+
+\vspace{0.25cm}
+
+¿Podemos interpretar esa diferencia como el efecto del programa?
+
+- los estudiantes eligieron si participar;
+- la motivación puede afectar participación y desempeño;
+- el grupo sin tutorías puede no representar el contrafactual de quienes participaron.
+
+::: {.curso-callout}
+Una diferencia entre grupos combina el efecto causal con diferencias previas entre ellos.
+:::
+
+::: {.fuente}
+Ejemplo adaptado del repositorio de *Program Evaluation* de Andrew Heiss.
+:::
+
+## Diseñar significa construir una comparación
+
+Podemos aproximar el contrafactual mediante:
+
+- otra unidad suficientemente comparable;
+- la misma unidad en otro momento;
+- una asignación aleatoria;
+- una discontinuidad o cambio institucional;
+- un modelo con supuestos explícitos;
+- un argumento histórico disciplinado.
+
+::: {.curso-callout}
+La credibilidad depende de por qué esa comparación representa el mundo sin X.
+:::
+
+## Ejercicio: el resultado observado no basta
+
+> Después de adoptar la reelección municipal, aumentó la provisión de bienes públicos.
+
+En parejas, propongan:
+
+1. una historia donde la reelección causa el aumento;
+2. una historia de causalidad inversa;
+3. una causa común que produzca ambos cambios;
+4. una comparación que ayudaría a distinguirlas.
+
+::: {.curso-callout}
+No busquen todavía una técnica. Identifiquen qué mundo contrafactual necesita el argumento.
+:::
+
+## Brady: cuatro aproximaciones a la causalidad
+
+::: {.columns}
+::: {.column width="48%"}
+### Regularidad
+
+X y Y siguen un patrón estable.
+
+### Contrafactual
+
+Y habría cambiado sin X.
+:::
+
+::: {.column width="48%"}
+### Manipulación y mecanismos
+
+Intervenir sobre X cambia Y mediante un proceso.
+
+### Capacidades
+
+X posee una disposición para producir Y en ciertas condiciones.
+:::
+:::
+
+::: {.fuente}
+Brady (2008).
+:::
+
+## Regularidad: buscar patrones estables
+
+La tradición humeana identifica causalidad mediante regularidades:
+
+- X precede a Y;
+- X y Y covarían;
+- el patrón persiste bajo condiciones pertinentes;
+- la asociación no se explica mejor por otra causa.
+
+::: {.curso-callout}
+Una regularidad ayuda a generalizar, pero por sí sola puede ocultar causalidad inversa o confusión.
+:::
+
+::: {.fuente}
+Brady (2008).
+:::
+
+## Contrafactuales: preguntar qué habría ocurrido
+
+Una definición contrafactual concentra la atención en la diferencia que produce X.
+
+> Si la causa no hubiera ocurrido, ¿el resultado habría sido distinto?
+
+La pregunta obliga a especificar:
+
+- la unidad y el momento;
+- qué cambia entre ambos mundos;
+- qué permanece constante;
+- cuál resultado esperamos sin X.
+
+::: {.fuente}
+Brady (2008); Fearon (1991).
+:::
+
+## Manipulación: pensar en una intervención
+
+Una pregunta útil es:
+
+> ¿Qué intervención sobre X produciría un cambio en Y?
+
+Esta aproximación aclara el tratamiento, pero no todas las causas políticas pueden manipularse:
+
+- una guerra;
+- una transición democrática;
+- una identidad social;
+- una trayectoria histórica.
+
+::: {.curso-callout}
+La imposibilidad de intervenir no elimina la pregunta causal, pero vuelve más exigente el diseño.
+:::
+
+::: {.fuente}
+Brady (2008).
+:::
+
+## Mecanismos: identificar el proceso
+
+Un mecanismo describe cómo X produce Y mediante pasos intermedios.
+
+::: {.proceso}
+**X** $\longrightarrow$ cambio en incentivos, información o capacidades $\longrightarrow$ **Y**
+:::
+
+\vspace{0.35cm}
+
+La evidencia del mecanismo puede aumentar la credibilidad, pero no sustituye una comparación:
+
+- el proceso puede coexistir con otra causa;
+- una historia plausible puede acomodar muchos resultados;
+- observar pasos intermedios no establece cuánto habría cambiado Y sin X.
+
+::: {.fuente}
+Brady (2008).
+:::
+
+## Las aproximaciones responden preguntas distintas
+
+| Aproximación | Pregunta principal |
+|:--|:--|
+| Regularidad | ¿X y Y covarían de manera estable? |
+| Contrafactual | ¿Y habría sido distinto sin X? |
+| Manipulación | ¿Una intervención sobre X cambia Y? |
+| Mecanismo | ¿Mediante qué proceso X produce Y? |
+| Capacidad | ¿En qué condiciones X puede producir Y? |
+
+::: {.curso-callout}
+Un argumento causal convincente suele combinar más de una clase de evidencia.
+:::
+
+::: {.fuente}
+Síntesis de Brady (2008).
+:::
+
+## Causas suficientes y causas necesarias
+
+::: {.columns}
+::: {.column width="47%"}
+### Suficiente
+
+Cuando X ocurre, basta para producir Y bajo condiciones definidas.
+
+No implica que X sea la única ruta hacia Y.
+:::
+
+::: {.column width="47%"}
+### Necesaria
+
+Sin X, Y no puede ocurrir bajo las condiciones definidas.
+
+No implica que X baste para producir Y.
+:::
+:::
+
+::: {.curso-callout}
+Muchas causas sociales contribuyen a una combinación suficiente sin ser necesarias ni suficientes por sí solas.
+:::
+
+::: {.fuente}
+Brady (2008).
+:::
+
+## Una causa puede formar parte de una combinación
+
+Considere una protesta que ocurre cuando coinciden:
+
+- descontento;
+- capacidad organizativa;
+- una oportunidad política.
+
+La capacidad organizativa puede ser:
+
+- insuficiente por sí sola;
+- innecesaria si existe otra ruta de movilización;
+- causal dentro de una combinación que produce la protesta.
+
+::: {.curso-callout}
+Buscar una sola causa puede representar mal fenómenos producidos por configuraciones.
+:::
+
+::: {.fuente}
+Aplicación del modelo INUS discutido por Brady (2008).
+:::
+
+## Efectos de causas y causas de efectos
+
+::: {.columns}
+::: {.column width="47%"}
+### Efecto de una causa
+
+¿Qué efecto tiene X sobre Y en una población o conjunto de casos?
+
+Compara resultados bajo distintos valores de X.
+:::
+
+::: {.column width="47%"}
+### Causa de un efecto
+
+¿Por qué ocurrió Y en este caso particular?
+
+Reconstruye qué factores produjeron el resultado.
+:::
+:::
+
+::: {.curso-callout}
+Ambas preguntas son legítimas, pero requieren evidencia y criterios de evaluación diferentes.
+:::
+
+## Fearon: los contrafactuales son inevitables
+
+Fearon muestra que los contrafactuales aparecen en dos estrategias:
+
+::: {.columns}
+::: {.column width="47%"}
+**Comparar casos reales**
+
+Otro caso representa lo que habría ocurrido sin X.
+:::
+
+::: {.column width="47%"}
+**Construir un caso hipotético**
+
+Un argumento histórico imagina el mismo caso sin X.
+:::
+:::
+
+::: {.curso-callout}
+La diferencia no consiste en usar o evitar contrafactuales, sino en cómo los justificamos.
+:::
+
+::: {.fuente}
+Fearon (1991).
+:::
+
+## La comparación observada también necesita supuestos
+
+Cuando comparamos dos casos, asumimos que el caso sin X informa sobre el resultado contrafactual del caso con X.
+
+Debemos justificar:
+
+- por qué las diferencias relevantes están controladas;
+- por qué la selección de X no responde a Y;
+- por qué ambos casos enfrentaban procesos comparables;
+- por qué la medición significa lo mismo.
+
+::: {.curso-callout}
+Los datos observados no eliminan el contrafactual. Lo desplazan hacia los supuestos de comparabilidad.
+:::
+
+::: {.fuente}
+Fearon (1991).
+:::
+
+## Un contrafactual histórico debe exponerse a crítica
+
+Un argumento contrafactual mejora cuando:
+
+- declara con precisión qué antecedente cambia;
+- conserva constantes las condiciones compatibles con ese cambio;
+- explica la secuencia que produciría el resultado alternativo;
+- utiliza teoría y evidencia histórica para restringir posibilidades;
+- compara explicaciones rivales del mismo episodio.
+
+::: {.curso-callout}
+Un mundo imaginable no basta. Necesitamos un mundo alternativo defendible.
+:::
+
+::: {.fuente}
+Fearon (1991).
+:::
+
+## Diagnóstico de un contrafactual histórico
+
+> Sin la crisis económica, la democracia no habría colapsado.
+
+Preguntas para evaluar la afirmación:
+
+1. ¿Qué aspecto de la crisis eliminamos?
+2. ¿Qué actores y decisiones cambiarían como consecuencia?
+3. ¿Qué condiciones políticas permanecen constantes?
+4. ¿Qué otra ruta podría producir el colapso?
+5. ¿Qué evidencia vuelve plausible el resultado alternativo?
+
+::: {.curso-callout}
+La precisión revela dónde descansa realmente la inferencia.
+:::
+
+## Investigación en curso: memoria y defensa democrática
+
+Una pregunta de mi investigación:
+
+> ¿La preservación pública de la memoria de la represión aumenta la contramovilización ante amenazas democráticas?
+
+::: {.proceso}
+**Memorialización pública** $\longrightarrow$ memoria disponible y coordinada $\longrightarrow$ **defensa democrática**
+:::
+
+::: {.curso-callout}
+El proyecto examina Brasil y Uruguay, pero todavía se encuentra en una auditoría de datos e identificación.
+:::
+
+::: {.fuente}
+Béjar López, proyecto *Collective Memory and Democratic Countermobilization* (en curso).
+:::
+
+## El contrafactual de mi afirmación
+
+Para una localidad con un sitio de represión posteriormente memorializado:
+
+::: {.columns}
+::: {.column width="47%"}
+**Resultado observado**
+
+Respuesta local ante una amenaza democrática después de la memorialización.
+:::
+
+::: {.column width="47%"}
+**Resultado contrafactual**
+
+La respuesta de esa localidad en el mismo momento si el sitio no hubiera sido memorializado.
+:::
+:::
+
+::: {.curso-callout}
+Comparar localidades con y sin memoriales solamente sirve si sus diferencias no explican también la movilización.
+:::
+
+## Una asociación esperable puede confundirnos
+
+Las localidades con memorialización pueden diferir previamente en:
+
+- intensidad de la represión histórica;
+- organización de víctimas y movimientos sociales;
+- urbanización y capacidad estatal;
+- orientación partidista;
+- acceso a archivos y recursos culturales.
+
+::: {.curso-callout}
+Estas condiciones pueden producir tanto memorialización como contramovilización.
+:::
+
+::: {.fuente}
+Béjar López, auditorías de factibilidad para Brasil y Uruguay (2026).
+:::
+
+## La medición antecede a la inferencia
+
+En Brasil, el inventario oficial mezcla:
+
+- lugares de represión;
+- lugares de resistencia;
+- museos y objetos conmemorativos;
+- sitios con usos actuales distintos.
+
+::: {.curso-callout}
+La inclusión en un inventario histórico no equivale a memorialización pública. Colapsar ambas variables fabricaría el tratamiento.
+:::
+
+::: {.fuente}
+Béjar López, protocolo y piloto de codificación de sitios de memoria en Brasil (2026).
+:::
+
+## El tiempo también define el tratamiento
+
+En Uruguay, la auditoría recuperó fechas de acciones de memoria para la mayoría de los sitios señalizados.
+
+Esto cambia la comparación:
+
+- antes de la primera acción pública, el sitio no debe contarse como expuesto;
+- después de la acción, la exposición puede existir;
+- la fecha de la amenaza democrática debe fijarse sin mirar los resultados;
+- los resultados previos no pueden atribuirse a una memorialización posterior.
+
+::: {.curso-callout}
+Sin orden temporal, el contrafactual queda mal definido.
+:::
+
+::: {.fuente}
+Béjar López, auditoría de factibilidad de Uruguay (2026).
+:::
+
+## La auditoría puede recomendar no estimar
+
+Brasil ofrece amenazas democráticas y movilizaciones observables, pero una medición incompleta de memoria.
+
+Uruguay ofrece una medición más clara de sitios señalizados, pero todavía no un episodio de amenaza adecuado para el diseño dinámico.
+
+::: {.curso-callout}
+La ausencia de una comparación creíble es un resultado de diseño. Estimar de todos modos no crea el contrafactual que falta.
+:::
+
+::: {.fuente}
+Béjar López, auditoría comparada de factibilidad (2026).
+:::
+
+## Taller: el contrafactual de su proyecto
+
+Escriban una afirmación con la forma:
+
+> X causa Y en la población o contexto Z.
+
+Después completen:
+
+1. **Resultado observado:** ¿qué vemos con X?
+2. **Contrafactual:** ¿qué habría ocurrido sin X?
+3. **Comparación:** ¿qué evidencia aproximaría ese mundo?
+4. **Amenaza:** ¿qué diferencia podría explicar X y Y?
+5. **Mecanismo:** ¿mediante qué proceso produciría X el cambio?
+
+## Prueba de resistencia en parejas
+
+Intercambien sus afirmaciones y hagan tres preguntas:
+
+- ¿el tratamiento X está definido con precisión?
+- ¿la comparación representa un mundo sin X?
+- ¿una causa rival produciría el mismo patrón?
+
+Luego propongan una modificación concreta al diseño.
+
+::: {.curso-callout}
+La crítica debe identificar el supuesto que falla y una manera de hacerlo más creíble.
+:::
+
+## Síntesis de las lecturas
+
+::: {.columns}
+::: {.column width="47%"}
+### Brady
+
+La causalidad puede examinarse mediante regularidades, contrafactuales, intervenciones, mecanismos y capacidades.
+:::
+
+::: {.column width="47%"}
+### Fearon
+
+Tanto la comparación observada como el argumento histórico dependen de contrafactuales que deben hacerse explícitos.
+:::
+:::
+
+::: {.curso-callout}
+Una afirmación causal vale lo que vale la comparación que la sostiene.
+:::
+
+## Antes de salir
+
+Entreguen cuatro oraciones:
+
+1. Mi afirmación causal es...
+2. El resultado contrafactual que no observo es...
+3. Mi diseño intenta aproximarlo mediante...
+4. La amenaza más seria para esa comparación es...
+
+\vspace{0.3cm}
+
+::: {.curso-callout}
+Para la próxima sesión: traigan un mecanismo causal de su proyecto con al menos dos pasos observables.
+:::

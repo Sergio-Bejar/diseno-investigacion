@@ -48,7 +48,7 @@ El curso es conceptual y metodológicamente plural. No busca enseñar una técni
     <div class="session-hint"><strong>9 sep.</strong> · Identificar un hueco y justificar una contribución</div></li>
   <li><span class="session-num">4</span> <span class="session-title">Causalidad I: argumentos causales y contrafactuales</span>
     <div class="session-readings">Brady (2008) · Fearon (1991)</div>
-    <div class="session-hint"><strong>23 sep.</strong> · ¿Qué significa decir que X causa Y?</div></li>
+    <div class="session-hint"><strong>23 sep.</strong> · ¿Qué significa decir que X causa Y? · <a href="presentaciones/sesion-04.pdf"><strong>Presentación PDF</strong></a></div></li>
   <li><span class="session-num">5</span> <span class="session-title">Causalidad II: mecanismos y amenazas a la inferencia</span>
     <div class="session-readings">Morgan & Winship (2015)</div>
     <div class="session-hint"><strong>30 sep.</strong> · Mecanismos y credibilidad de las inferencias causales</div></li>
