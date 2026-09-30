@@ -51,7 +51,7 @@ El curso es conceptual y metodológicamente plural. No busca enseñar una técni
     <div class="session-hint"><strong>23 sep.</strong> · ¿Qué significa decir que X causa Y? · <a href="presentaciones/sesion-04.pdf"><strong>Presentación PDF</strong></a></div></li>
   <li><span class="session-num">5</span> <span class="session-title">Causalidad II: mecanismos y amenazas a la inferencia</span>
     <div class="session-readings">Morgan & Winship (2015)</div>
-    <div class="session-hint"><strong>30 sep.</strong> · Mecanismos y credibilidad de las inferencias causales</div></li>
+    <div class="session-hint"><strong>30 sep.</strong> · Mecanismos y credibilidad de las inferencias causales · <a href="presentaciones/sesion-05.pdf"><strong>Presentación PDF</strong></a></div></li>
   <li><span class="session-num">6</span> <span class="session-title">Hipótesis y expectativas observables</span>
     <div class="session-readings">Geddes (2003) · KKV (1994) · Van Evera (1997)</div>
     <div class="session-hint"><strong>7 oct.</strong> · Derivar implicaciones comprobables y diseñar pruebas cruciales</div></li>

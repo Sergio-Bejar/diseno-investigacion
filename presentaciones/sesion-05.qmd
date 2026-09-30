@@ -1,0 +1,608 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 5 · Causalidad II: mecanismos y amenazas a la inferencia"
+author: "Sergio Béjar López"
+date: 2026-09-30
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## ¿Por qué observamos la relación entre X y Y?
+
+\vspace{0.45cm}
+
+::: {.center}
+\Large
+Una inferencia causal exige explicar el proceso y descartar historias rivales.
+:::
+
+\vspace{0.4cm}
+
+::: {.curso-callout}
+Hoy examinaremos qué vuelve creíble una comparación causal.
+:::
+
+## Objetivos de la sesión
+
+Al terminar podremos:
+
+- representar una afirmación causal como un proceso;
+- distinguir mecanismos causales de variables intermedias;
+- identificar amenazas a una comparación contrafactual;
+- explicar la diferencia entre asociación e identificación;
+- reconocer qué supuestos requiere un diseño;
+- someter el diseño de un proyecto propio a una prueba de resistencia.
+
+## El punto de partida
+
+La sesión anterior formulamos el efecto causal como una comparación:
+
+::: {.proceso}
+$Y_i(1) - Y_i(0)$
+:::
+
+Para una misma unidad observamos solamente uno de esos resultados.
+
+::: {.curso-callout}
+El diseño intenta aprender sobre el resultado contrafactual mediante información observable.
+:::
+
+## De la comparación a la explicación
+
+Una afirmación causal completa responde dos preguntas distintas:
+
+::: {.columns}
+::: {.column width="47%"}
+### Efecto
+
+¿Cuánto cambiaría Y si X cambiara?
+:::
+
+::: {.column width="47%"}
+### Mecanismo
+
+¿Mediante qué proceso X produciría ese cambio?
+:::
+:::
+
+::: {.curso-callout}
+La comparación identifica una diferencia. El mecanismo explica cómo se produce.
+:::
+
+## El mecanismo como proceso causal
+
+Un mecanismo especifica pasos que conectan la causa con el resultado.
+
+::: {.proceso}
+**X** $\longrightarrow$ **cambio en actores o condiciones** $\longrightarrow$ **Y**
+:::
+
+Un buen mecanismo aclara:
+
+- qué actores o unidades intervienen;
+- qué cambia después de X;
+- por qué ese cambio afecta Y;
+- bajo qué condiciones opera el proceso.
+
+::: {.fuente}
+Morgan y Winship (2015), cap. 1; Elster (1998).
+:::
+
+## Una etiqueta intermedia todavía no explica
+
+> La desigualdad produce protesta porque genera frustración.
+
+La palabra *frustración* ocupa una posición intermedia, pero necesitamos saber:
+
+- quién percibe la desigualdad;
+- cómo la interpreta;
+- por qué esa interpretación favorece la acción colectiva;
+- cómo supera los costos de coordinación;
+- qué evidencia observaríamos durante el proceso.
+
+::: {.curso-callout}
+Nombrar una variable entre X y Y no basta para identificar un mecanismo.
+:::
+
+## Un mecanismo con actores y decisiones
+
+> Una reforma electoral aumenta la competencia municipal.
+
+::: {.proceso}
+**Reforma** $\longrightarrow$ cambia los incentivos de los aspirantes $\longrightarrow$ aumenta la entrada de candidatos $\longrightarrow$ **competencia**
+:::
+
+La explicación permite preguntar:
+
+- ¿los aspirantes conocieron la nueva regla?
+- ¿cambiaron sus expectativas de victoria?
+- ¿más personas decidieron competir?
+- ¿la entrada ocurrió antes del resultado electoral?
+
+## Evidencia del mecanismo
+
+La evidencia puede revelar distintas partes del proceso:
+
+| Parte del mecanismo | Evidencia posible |
+|:--|:--|
+| Incentivos | reglas, costos, beneficios esperados |
+| Información | mensajes, archivos, conocimiento de actores |
+| Decisiones | entradas, salidas, votos, inversiones |
+| Secuencia | fechas y orden de acontecimientos |
+| Resultado intermedio | cambio observable antes de Y |
+
+::: {.curso-callout}
+La evidencia debe corresponder al paso que pretende sostener.
+:::
+
+## Un mecanismo también puede fallar
+
+La cadena causal puede romperse si:
+
+- los actores no perciben X;
+- X no cambia sus incentivos;
+- el paso intermedio no ocurre;
+- otra condición bloquea su efecto;
+- una ruta distinta produce Y.
+
+::: {.curso-callout}
+Especificar el mecanismo revela condiciones de alcance y posibles resultados nulos.
+:::
+
+::: {.fuente}
+Elster (1998).
+:::
+
+## Mecanismo e identificación cumplen funciones distintas
+
+::: {.columns}
+::: {.column width="47%"}
+### Evidencia del mecanismo
+
+Muestra que el proceso propuesto ocurrió o pudo operar.
+:::
+
+::: {.column width="47%"}
+### Estrategia de identificación
+
+Justifica que la diferencia en Y puede atribuirse a X.
+:::
+:::
+
+::: {.curso-callout}
+Un proceso plausible puede coexistir con confusión, selección o causalidad inversa.
+:::
+
+## Dos errores simétricos
+
+::: {.columns}
+::: {.column width="47%"}
+### Comparación sin explicación
+
+Encontramos una diferencia creíble, pero no sabemos por qué ocurrió ni cuándo se repetiría.
+:::
+
+::: {.column width="47%"}
+### Explicación sin comparación
+
+Documentamos una historia plausible, pero no sabemos si Y habría ocurrido sin X.
+:::
+:::
+
+::: {.curso-callout}
+La inferencia mejora cuando la comparación y el proceso se apoyan mutuamente.
+:::
+
+## Asociación frente a identificación
+
+Supongamos que observamos:
+
+::: {.center}
+\Large
+$E[Y\mid X=1] - E[Y\mid X=0]$
+:::
+
+Esta diferencia describe dos grupos observados.
+
+El efecto causal promedio compara dos estados de la misma población:
+
+::: {.center}
+\Large
+$E[Y(1)] - E[Y(0)]$
+:::
+
+::: {.curso-callout}
+La identificación exige condiciones que conecten la diferencia observada con la diferencia causal.
+:::
+
+## La descomposición del problema
+
+Para quienes reciben X, la diferencia observada puede escribirse como:
+
+::: {.center}
+\large
+$E[Y(1)\mid X=1] - E[Y(0)\mid X=0]$
+:::
+
+Esta cantidad mezcla:
+
+::: {.proceso}
+**efecto del tratamiento sobre quienes lo reciben** + **sesgo de selección**
+:::
+
+El sesgo aparece cuando quienes reciben X habrían tenido resultados distintos aun sin X.
+
+::: {.fuente}
+Morgan y Winship (2015), cap. 1.
+:::
+
+## Ejemplo: capacitación laboral
+
+Quienes toman un curso consiguen empleo con mayor frecuencia.
+
+La diferencia puede reflejar:
+
+- el efecto de la capacitación;
+- mayor motivación previa entre participantes;
+- mejor información sobre oportunidades;
+- una selección administrativa de candidatos prometedores.
+
+::: {.curso-callout}
+Necesitamos justificar por qué el grupo sin capacitación representa el resultado contrafactual del grupo capacitado.
+:::
+
+## Amenaza 1: confusión
+
+Una variable Z produce tanto X como Y.
+
+::: {.proceso}
+**Z** $\longrightarrow$ **X** \hspace{1cm} **Z** $\longrightarrow$ **Y**
+:::
+
+Ejemplo:
+
+> La capacidad estatal puede aumentar la adopción de una política y mejorar el resultado que atribuimos a esa política.
+
+::: {.curso-callout}
+Si no atendemos Z, la asociación entre X y Y mezcla rutas causales distintas.
+:::
+
+## ¿Qué hace de Z un factor de confusión?
+
+Z debe:
+
+- anteceder a X;
+- afectar la asignación o aparición de X;
+- afectar Y por una ruta que no depende de X;
+- variar de manera relevante en la comparación.
+
+::: {.curso-callout}
+Una variable correlacionada con X no se convierte automáticamente en factor de confusión.
+:::
+
+## Amenaza 2: causalidad inversa
+
+La dirección propuesta es:
+
+::: {.proceso}
+**X** $\longrightarrow$ **Y**
+:::
+
+Pero el resultado puede cambiar la causa:
+
+::: {.proceso}
+**Y** $\longrightarrow$ **X**
+:::
+
+Ejemplo: la presencia policial puede responder a violencia previa.
+
+::: {.curso-callout}
+El orden temporal ayuda, pero una medición tardía de X puede ocultar decisiones tomadas en respuesta a Y.
+:::
+
+## Selección de unidades
+
+\vspace{0.18cm}
+
+Entrar en la comparación puede depender de X, de Y o de sus causas.
+
+Casos comunes:
+
+- participación voluntaria en un programa;
+- supervivencia hasta el momento de observación;
+- disponibilidad de archivos o encuestas;
+- selección de países por el resultado;
+- análisis limitado a quienes completaron el estudio.
+
+::: {.curso-callout}
+La muestra observada puede representar un proceso de selección, no la población que define el estimando.
+:::
+
+## Seleccionar por el resultado
+
+Queremos explicar por qué colapsan las democracias y estudiamos solamente países donde ocurrió un colapso.
+
+Podemos reconstruir rutas hacia el resultado, pero no estimar si X distingue:
+
+- democracias que colapsan;
+- democracias que enfrentan la misma amenaza y sobreviven.
+
+::: {.curso-callout}
+Sin variación en Y no podemos saber si la causa propuesta también aparece donde el resultado no ocurre.
+:::
+
+## Amenaza 4: medir mal X o Y
+
+El error de medición altera la comparación cuando:
+
+- la medida no representa el concepto;
+- la clasificación depende del resultado;
+- la precisión cambia entre grupos;
+- el momento de medición no corresponde al proceso;
+- una categoría combina tratamientos distintos.
+
+::: {.curso-callout}
+La inferencia causal no puede superar una definición defectuosa del tratamiento o del resultado.
+:::
+
+## Amenaza 5: temporalidad
+
+Una secuencia causal requiere que X ocurra antes del cambio en Y.
+
+Debemos distinguir:
+
+- el momento en que X se anuncia;
+- el momento en que los actores conocen X;
+- el inicio efectivo del tratamiento;
+- la ventana en que el mecanismo puede operar;
+- el periodo en que medimos Y.
+
+::: {.curso-callout}
+Las fechas administrativas pueden no coincidir con el tiempo causal relevante.
+:::
+
+## Interferencia entre unidades
+
+\vspace{0.18cm}
+
+El tratamiento de una unidad puede afectar el resultado de otra.
+
+Ejemplos:
+
+- una campaña moviliza votantes de municipios vecinos;
+- la policía desplaza el delito hacia otra zona;
+- un programa escolar cambia la conducta de estudiantes no inscritos;
+- una reforma en un país modifica decisiones regionales.
+
+::: {.curso-callout}
+Cuando hay contagio o desplazamiento, el resultado de una unidad depende de más que su propio tratamiento.
+:::
+
+## Amenaza 7: desgaste y datos faltantes
+
+La ausencia de información amenaza la inferencia cuando depende de X, de Y o de ambos.
+
+> En una encuesta sobre represión, las personas más afectadas pueden evitar responder.
+
+Preguntas necesarias:
+
+- ¿quién falta?
+- ¿por qué falta?
+- ¿la ausencia cambia entre los grupos?
+- ¿qué resultados plausibles tendrían las unidades perdidas?
+
+::: {.curso-callout}
+Más observaciones no corrigen una pérdida selectiva de información.
+:::
+
+## Una amenaza depende del estimando
+
+La misma diferencia puede ser problemática para una pregunta y pertinente para otra.
+
+Ejemplo:
+
+- para el **ATE**, necesitamos aprender sobre toda la población;
+- para el **ATT**, interesa el efecto entre quienes recibieron X;
+- para un efecto local, aceptamos una población más estrecha definida por el diseño.
+
+::: {.curso-callout}
+No podemos diagnosticar sesgo sin saber qué efecto queremos identificar.
+:::
+
+## Supuestos y estrategias de diseño
+
+Cada diseño protege la inferencia mediante un argumento distinto.
+
+| Estrategia | Idea que sostiene la comparación |
+|:--|:--|
+| Aleatorización | la asignación rompe causas comunes sistemáticas |
+| Comparación ajustada | unidades comparables en causas previas de X y Y |
+| Cambio temporal | sin X, las trayectorias habrían evolucionado de forma comparable |
+| Discontinuidad | unidades cercanas al umbral difieren principalmente en X |
+| Caso histórico | teoría y evidencia restringen el contrafactual defendible |
+
+## Controlar no significa incluir todo
+
+La decisión sobre una variable depende de su posición causal.
+
+::: {.columns}
+::: {.column width="31%"}
+### Confusor
+
+Antecede a X y causa X e Y.
+:::
+
+::: {.column width="31%"}
+### Mediador
+
+X lo produce y transmite parte del efecto hacia Y.
+:::
+
+::: {.column width="31%"}
+### Consecuencia común
+
+X e Y contribuyen a producirla.
+:::
+:::
+
+::: {.curso-callout}
+Ajustar por mediadores o consecuencias comunes puede eliminar o crear asociaciones.
+:::
+
+## El conocimiento sustantivo guía el diseño
+
+Los datos no revelan por sí solos qué variable antecede a otra.
+
+Necesitamos justificar:
+
+- el orden causal;
+- las causas comunes plausibles;
+- las rutas que forman el mecanismo;
+- las variables afectadas por el tratamiento;
+- los límites de la población y del periodo.
+
+::: {.curso-callout}
+Un modelo causal representa compromisos teóricos que deben poder discutirse.
+:::
+
+::: {.fuente}
+Morgan y Winship (2015), cap. 1.
+:::
+
+## Caso aplicado: memoria y defensa democrática
+
+La afirmación de investigación es:
+
+> La memorialización pública de la represión aumenta la contramovilización ante amenazas democráticas.
+
+::: {.proceso}
+**Memorialización** $\longrightarrow$ memoria pública disponible $\longrightarrow$ coordinación y marcos compartidos $\longrightarrow$ **contramovilización**
+:::
+
+::: {.fuente}
+Béjar López, proyecto *Collective Memory and Democratic Countermobilization* (en curso).
+:::
+
+## Amenazas en el caso aplicado
+
+La asociación puede reflejar:
+
+- represión histórica más intensa;
+- organizaciones de víctimas previamente fuertes;
+- gobiernos locales favorables a políticas de memoria;
+- mayor capacidad cultural y administrativa;
+- documentación más completa en lugares movilizados.
+
+::: {.curso-callout}
+Cada amenaza debe vincularse con la asignación de X y con el resultado Y.
+:::
+
+## La evidencia del mecanismo en el caso aplicado
+
+El proceso propuesto generaría rastros observables:
+
+- activistas citan el sitio o la conmemoración;
+- organizaciones usan símbolos y narrativas compartidas;
+- redes vinculadas a la memoria coordinan acciones;
+- esos rastros aparecen después de la memorialización y antes de la respuesta.
+
+::: {.curso-callout}
+Estos rastros apoyan el proceso, pero todavía necesitamos una comparación para atribuir a X la diferencia en Y.
+:::
+
+## Ejercicio: siete diagnósticos
+
+Para cada afirmación, identifiquen la amenaza principal:
+
+1. Los municipios contratan más policías después de una ola de homicidios.
+2. Solamente encuestamos a participantes que terminaron el programa.
+3. Los gobiernos con mayor capacidad adoptan y ejecutan una reforma.
+4. Clasificamos como protesta cualquier reunión registrada por la policía.
+5. Una campaña en una colonia moviliza también a colonias vecinas.
+6. Estudiamos revoluciones seleccionando únicamente países revolucionarios.
+7. Medimos la política el día de su decreto, aunque empezó meses después.
+
+## Auditoría de una afirmación causal
+
+Completen esta secuencia para su proyecto:
+
+1. **Estimando:** ¿qué efecto, para quién y en qué periodo?
+2. **Mecanismo:** ¿qué pasos conectan X con Y?
+3. **Comparación:** ¿qué representa $Y(0)$ o $Y(1)$ no observado?
+4. **Amenaza:** ¿qué historia rival produce la misma diferencia?
+5. **Evidencia:** ¿qué observación distinguiría ambas historias?
+
+## Prueba de resistencia en parejas
+
+La persona que escucha debe preguntar:
+
+- ¿qué determina quién recibe X?
+- ¿qué causa también Y?
+- ¿Y puede cambiar X?
+- ¿algún paso del mecanismo ocurre antes de X?
+- ¿la medición depende del tratamiento o del resultado?
+- ¿el tratamiento de una unidad afecta a otra?
+
+Después propongan una modificación concreta al diseño.
+
+## De la amenaza a una decisión de diseño
+
+Una buena crítica no termina al nombrar un problema.
+
+| Amenaza | Decisión posible |
+|:--|:--|
+| Confusión | mejorar comparabilidad o medir la causa común |
+| Causalidad inversa | redefinir temporalidad o buscar variación previa |
+| Selección | cambiar población, muestra o regla de inclusión |
+| Medición | redefinir el concepto y validar la codificación |
+| Interferencia | cambiar la unidad o modelar la exposición compartida |
+
+::: {.curso-callout}
+La solución debe atender el proceso que genera la amenaza.
+:::
+
+## Síntesis de la sesión
+
+::: {.columns}
+::: {.column width="47%"}
+### Mecanismos
+
+Explican cómo X produce Y y generan expectativas sobre el proceso.
+:::
+
+::: {.column width="47%"}
+### Amenazas
+
+Muestran por qué la diferencia observada puede no representar el efecto causal.
+:::
+:::
+
+::: {.curso-callout}
+Una inferencia causal creíble combina una comparación defendible con evidencia coherente sobre el proceso.
+:::
+
+## Antes de salir
+
+Entreguen cinco oraciones:
+
+1. Mi estimando es...
+2. Mi mecanismo propone que X afecta Y mediante...
+3. Mi comparación aproxima el contrafactual mediante...
+4. La amenaza más seria es...
+5. Puedo reducirla o evaluarla mediante...
+
+\vspace{0.3cm}
+
+::: {.curso-callout}
+Para la próxima sesión: conviertan el mecanismo en una hipótesis y dos expectativas observables.
+:::
