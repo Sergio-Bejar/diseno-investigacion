@@ -1,0 +1,357 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 6 · Hipótesis y expectativas observables"
+author: "Sergio Béjar López"
+date: 2026-10-07
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## Antes del diseño
+
+::: {.center}
+\Large
+**Antes de hablar del diseño de una investigación, quiero que hablemos de quién va a acompañarla. ¿Cómo se encuentra un buen director o directora de tesis?**
+:::
+
+## Humildad y respeto
+
+Busquen a alguien con quien puedan:
+
+- preguntar sin temor;
+- disentir con franqueza;
+- decir “no he leído ese libro”.
+
+Si se molesta porque no conocen su obra, es una bandera roja: *run*.
+
+::: {.curso-callout}
+Una buena dirección crea condiciones para pensar, equivocarse y revisar el trabajo.
+:::
+
+## Flexibilidad intelectual
+
+Una investigación puede cambiar cuando aparecen:
+
+- nuevos datos;
+- problemas que el diseño no anticipó;
+- preguntas más interesantes que la original.
+
+El director o directora debe ayudarles a pensar esos cambios, no obligarles a acomodar la tesis a su propia agenda.
+
+## Disponibilidad y forma de trabajar
+
+Antes de elegir, averigüen:
+
+- cómo ofrece retroalimentación y cuánto tarda;
+- con qué frecuencia se reúne con sus estudiantes;
+- cómo maneja los desacuerdos.
+
+Hablen con estudiantes actuales y egresados.
+
+::: {.curso-callout}
+La reputación dice poco sobre la experiencia cotidiana de trabajar con alguien.
+:::
+
+## Para abrir la conversación
+
+::: {.center}
+\Large
+**¿Qué señales buscarían antes de elegir a alguien?**
+
+\vspace{0.55cm}
+
+**¿Qué les haría pensar: con esta persona no quiero trabajar?**
+:::
+
+## Una relación de trabajo honesta
+
+> **No elijan solo por prestigio ni porque alguien trabaja exactamente con su tema. Elijan a alguien con quien puedan construir una relación de trabajo honesta. La tesis es de ustedes; la dirección debe ayudarles a hacerla mejor.**
+
+## El problema de hoy
+
+Podemos tener una pregunta interesante y un argumento plausible.
+
+Todavía falta precisar:
+
+::: {.proceso}
+¿Qué debería observarse si el argumento fuera correcto?
+:::
+
+::: {.curso-callout}
+Las hipótesis conectan una explicación teórica con la evidencia que podría ponerla en riesgo.
+:::
+
+## Objetivos de la sesión
+
+Al terminar podremos:
+
+- derivar una hipótesis a partir de un mecanismo;
+- distinguir hipótesis de expectativas observables;
+- comparar predicciones de explicaciones rivales;
+- reconocer hipótesis ad hoc;
+- diseñar una prueba que produzca información útil.
+
+## Del argumento a la evidencia
+
+::: {.proceso}
+**Pregunta** $\longrightarrow$ **argumento** $\longrightarrow$ **mecanismo** $\longrightarrow$ **hipótesis** $\longrightarrow$ **expectativas observables**
+:::
+
+Cada paso traduce el anterior a un lenguaje más cercano a la observación.
+
+::: {.curso-callout}
+La derivación debe permitir reconstruir por qué esperamos cada resultado.
+:::
+
+## Argumento, hipótesis y expectativa
+
+| Elemento | Función | Ejemplo |
+|:--|:--|:--|
+| Argumento | Explica un proceso | La competencia induce rendición de cuentas |
+| Hipótesis | Expresa una relación esperada | Más competencia reduce el desvío de recursos |
+| Expectativa observable | Indica qué buscar | La reducción aparece donde la alternancia resulta creíble |
+
+::: {.fuente}
+Geddes (2003), cap. 2; King, Keohane y Verba (1994), cap. 3.
+:::
+
+## Una hipótesis deriva del mecanismo
+
+Supongamos este argumento:
+
+::: {.proceso}
+**Competencia electoral** $\longrightarrow$ riesgo de perder el cargo $\longrightarrow$ mayor vigilancia del gasto $\longrightarrow$ **menos desvío de recursos**
+:::
+
+Una hipótesis posible:
+
+> Los municipios con elecciones más competidas mostrarán menor desvío de recursos públicos.
+
+La dirección de la relación proviene del mecanismo propuesto.
+
+## Una correlación esperada no basta
+
+La hipótesis anterior coincide con varias historias:
+
+- la competencia mejora la vigilancia política;
+- los municipios con mayor capacidad tienen mejores elecciones y mejor gasto;
+- los escándalos de corrupción provocan mayor competencia;
+- la fiscalización externa produce ambos resultados.
+
+::: {.curso-callout}
+Una predicción útil también debe ayudarnos a distinguir explicaciones.
+:::
+
+## Expectativas sobre el proceso
+
+Si opera el mecanismo de vigilancia, esperaríamos encontrar:
+
+1. candidatos que denuncian el uso de recursos;
+2. votantes que reciben y utilizan esa información;
+3. autoridades que anticipan un costo electoral;
+4. cambios en el gasto antes de la elección.
+
+Estas observaciones no sustituyen la comparación causal. Evalúan si ocurrió el proceso propuesto.
+
+## Más de una implicación observable
+
+Una teoría puede producir expectativas sobre:
+
+| Dimensión | Pregunta |
+|:--|:--|
+| Unidades | ¿Dónde debería aparecer el efecto? |
+| Magnitud | ¿Cuándo debería ser mayor o menor? |
+| Secuencia | ¿Qué debe ocurrir primero? |
+| Mecanismo | ¿Qué rastros dejaría el proceso? |
+| Ausencia | ¿Dónde no debería observarse? |
+
+::: {.fuente}
+King, Keohane y Verba (1994), cap. 3.
+:::
+
+## La variación es parte de la teoría
+
+“X causa Y” suele ser demasiado amplio.
+
+Una hipótesis más informativa especifica:
+
+- **quiénes** están expuestos al proceso;
+- **cuándo** puede operar;
+- **bajo qué condiciones** se fortalece o se bloquea;
+- **qué comparación** revela la diferencia esperada.
+
+::: {.curso-callout}
+Las condiciones de alcance delimitan la afirmación antes de observar los resultados.
+:::
+
+## Hipótesis rivales
+
+Para una misma observación, construyan explicaciones incompatibles.
+
+> Los municipios más competitivos desvían menos recursos.
+
+::: {.columns}
+::: {.column width="47%"}
+### H1: vigilancia electoral
+
+La posibilidad de derrota disciplina a las autoridades.
+:::
+
+::: {.column width="47%"}
+### H2: capacidad estatal
+
+Administraciones más capaces producen competencia y mejor control del gasto.
+:::
+:::
+
+## La observación que discrimina
+
+Las dos hipótesis predicen una asociación general similar. Difieren en otros resultados.
+
+| Si H1 es correcta | Si H2 es correcta |
+|:--|:--|
+| El efecto aumenta cerca de elecciones competidas | El efecto persiste fuera del ciclo electoral |
+| Las autoridades reaccionan a información visible | Los controles administrativos explican el cambio |
+| No esperamos disciplina sin riesgo de derrota | Esperamos buen gasto aun sin alternancia creíble |
+
+::: {.curso-callout}
+La mejor prueba busca observaciones donde las explicaciones rivales divergen.
+:::
+
+## Pruebas fuertes y pruebas débiles
+
+::: {.columns}
+::: {.column width="47%"}
+### Prueba débil
+
+Confirma una observación compatible con muchas explicaciones.
+
+“X y Y aparecen juntas”.
+:::
+
+::: {.column width="47%"}
+### Prueba fuerte
+
+Busca un resultado difícil de explicar para una alternativa relevante.
+
+“H1 y H2 predicen resultados distintos aquí”.
+:::
+:::
+
+::: {.fuente}
+Van Evera (1997), cap. 1.
+:::
+
+## Cuatro preguntas sobre una prueba
+
+Antes de recoger evidencia, pregunten:
+
+1. ¿Qué resultado espera mi explicación?
+2. ¿Qué resultado espera la explicación rival?
+3. ¿Qué observaría si ninguna fuera correcta?
+4. ¿Qué conclusión permitiría cada resultado posible?
+
+::: {.curso-callout}
+Una prueba informa cuando distintos resultados pueden cambiar lo que creemos.
+:::
+
+## El escape ad hoc
+
+Una hipótesis ad hoc aparece cuando modificamos la explicación después de conocer un resultado para protegerla del fracaso.
+
+> “La competencia reduce la corrupción, excepto cuando aumenta, porque entonces las redes corruptas compiten más”.
+
+El ajuste puede ser razonable, pero exige:
+
+- un mecanismo independiente;
+- condiciones de alcance explícitas;
+- nuevas implicaciones observables.
+
+## Revisión legítima o rescate
+
+::: {.columns}
+::: {.column width="47%"}
+### Revisión legítima
+
+Explica la anomalía, produce predicciones nuevas y se expone a otra prueba.
+:::
+
+::: {.column width="47%"}
+### Rescate ad hoc
+
+Solo acomoda el resultado observado y no crea ningún riesgo empírico adicional.
+:::
+:::
+
+::: {.curso-callout}
+Cambiar una teoría forma parte de investigar. Inmunizarla contra cualquier resultado destruye la prueba.
+:::
+
+## Taller: del mecanismo a las expectativas
+
+Trabajen con su propio proyecto.
+
+1. Escriban el mecanismo en una cadena de tres o cuatro pasos.
+2. Formulen una hipótesis sobre X y Y.
+3. Deriven una expectativa sobre la secuencia o el proceso.
+4. Identifiquen una condición donde el efecto debería debilitarse.
+5. Escriban una observación que les haría revisar el argumento.
+
+## Prueba de rivalidad en parejas
+
+Intercambien sus hipótesis.
+
+La persona que escucha debe proponer:
+
+- una explicación rival para el mismo resultado;
+- una observación compatible con ambas explicaciones;
+- una observación en la que produzcan predicciones diferentes.
+
+Después, reformulen la prueba para aumentar su capacidad de discriminación.
+
+## Auditoría rápida de una hipótesis
+
+Una hipótesis está lista para entrar al diseño si podemos responder:
+
+1. ¿De qué argumento y mecanismo se deriva?
+2. ¿Qué unidades, periodo y condiciones cubre?
+3. ¿Qué variación esperamos observar?
+4. ¿Qué explicación rival importa más?
+5. ¿Qué evidencia distinguiría ambas historias?
+6. ¿Qué resultado nos obligaría a revisar el argumento?
+
+## Síntesis de la sesión
+
+::: {.proceso}
+**Explicar** $\longrightarrow$ **derivar** $\longrightarrow$ **comparar predicciones** $\longrightarrow$ **aprender de la evidencia**
+:::
+
+- Una hipótesis traduce un mecanismo en una relación esperada.
+- Las expectativas observables especifican dónde buscar evidencia.
+- Las pruebas fuertes separan explicaciones rivales.
+- Una revisión teórica debe generar riesgos empíricos nuevos.
+
+## Antes de salir
+
+Entreguen cuatro oraciones:
+
+1. Mi argumento propone que...
+2. Por eso espero que...
+3. Una explicación rival sostiene que...
+4. Puedo distinguirlas observando...
+
+\vspace{0.25cm}
+
+::: {.curso-callout}
+Para la próxima sesión: traigan una hipótesis, dos expectativas observables y la definición de sus conceptos centrales.
+:::
