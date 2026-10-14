@@ -1,0 +1,411 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 7 · Conceptos, medición y menú de diseños"
+author: "Sergio Béjar López"
+date: 2026-10-14
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## ¿Qué significa medir la democracia?
+
+Dos países celebran elecciones. En uno, la oposición puede ganar. En el otro, el gobierno controla los medios y encarcela adversarios.
+
+::: {.center}
+\Large
+¿Ambos son democracias?
+:::
+
+¿Qué información necesitaríamos para decidirlo?
+
+::: {.curso-callout}
+Medir exige decidir qué significa el concepto antes de asignar valores a los casos.
+:::
+
+## De la hipótesis a la medición
+
+La sesión pasada formulamos una secuencia:
+
+::: {.proceso}
+**Argumento** $\longrightarrow$ **mecanismo** $\longrightarrow$ **hipótesis** $\longrightarrow$ **expectativas observables**
+:::
+
+Hoy añadimos dos preguntas:
+
+- ¿qué significan X y Y?
+- ¿cómo reconoceremos sus valores en la evidencia?
+
+::: {.curso-callout}
+Una hipótesis comprobable todavía puede fracasar si sus conceptos o medidas son defectuosos.
+:::
+
+## Ruta de la sesión
+
+Al terminar podremos:
+
+- distinguir un concepto de su medición;
+- reconocer problemas de formación conceptual;
+- evaluar la validez de una medida;
+- comparar familias de diseño por su lógica inferencial;
+- diagnosticar la alineación entre pregunta, conceptos, datos y respuesta.
+
+::: {.fuente}
+Conceptos y medición: 95 minutos · Pausa: 10 minutos · Menú de diseños y cierre: 45 minutos.
+:::
+
+## El concepto precede a la medida
+
+Un concepto identifica una propiedad que atribuimos a casos.
+
+::: {.columns}
+::: {.column width="47%"}
+### Concepto
+
+¿Qué entendemos por democracia, corrupción o polarización?
+:::
+
+::: {.column width="47%"}
+### Medida
+
+¿Qué observaciones usamos para asignar valores a los casos?
+:::
+:::
+
+::: {.curso-callout}
+Una base de datos no resuelve una ambigüedad conceptual. La convierte en números.
+:::
+
+## Concepto de fondo y concepto sistematizado
+
+::: {.columns}
+::: {.column width="47%"}
+### Concepto de fondo
+
+El conjunto amplio de significados asociados con una idea.
+
+Democracia puede evocar elecciones, igualdad, participación o deliberación.
+:::
+
+::: {.column width="47%"}
+### Concepto sistematizado
+
+La definición específica que una investigación adopta y organiza.
+
+Por ejemplo: competencia electoral con sufragio amplio.
+:::
+:::
+
+::: {.fuente}
+Adcock y Collier (2001).
+:::
+
+## Intensión y extensión
+
+::: {.columns}
+::: {.column width="47%"}
+### Intensión
+
+Los atributos que forman el concepto.
+
+Una definición exigente incluye más atributos.
+:::
+
+::: {.column width="47%"}
+### Extensión
+
+Los casos a los que aplicamos el concepto.
+
+Una definición exigente suele incluir menos casos.
+:::
+:::
+
+::: {.curso-callout}
+Agregar atributos aumenta la precisión, pero reduce el número de casos que cumplen la definición.
+:::
+
+::: {.fuente}
+Sartori (1970).
+:::
+
+## La escala de abstracción
+
+::: {.proceso}
+**Régimen político** $\longrightarrow$ **democracia** $\longrightarrow$ **democracia liberal**
+:::
+
+Al bajar en la escala:
+
+- añadimos atributos;
+- ganamos precisión;
+- reducimos la extensión.
+
+Al subir, hacemos lo contrario.
+
+::: {.curso-callout}
+La comparación requiere un nivel de abstracción que conserve significado sin excluir los casos relevantes.
+:::
+
+## Estiramiento conceptual
+
+Ocurre cuando ampliamos un concepto a casos nuevos sin revisar si conserva sus atributos centrales.
+
+> Si cualquier régimen con elecciones cuenta como democracia, el concepto ya no distingue elecciones competitivas de elecciones controladas.
+
+Tres respuestas posibles:
+
+- cambiar el nivel de abstracción;
+- redefinir los atributos necesarios;
+- crear subtipos que conserven la diferencia.
+
+::: {.fuente}
+Sartori (1970).
+:::
+
+## Los cuatro niveles de medición
+
+::: {.proceso}
+**Concepto de fondo** $\longrightarrow$ **concepto sistematizado** $\longrightarrow$ **indicadores** $\longrightarrow$ **puntajes**
+:::
+
+| Nivel | Pregunta |
+|:--|:--|
+| Concepto de fondo | ¿Qué significados circulan? |
+| Concepto sistematizado | ¿Qué definición adopta el estudio? |
+| Indicadores | ¿Qué observaciones representan el concepto? |
+| Puntajes | ¿Qué valor recibe cada caso? |
+
+::: {.fuente}
+Adcock y Collier (2001).
+:::
+
+## Indicador y puntaje
+
+Un indicador especifica qué evidencia cuenta.
+
+> Existencia de elecciones competitivas para el ejecutivo.
+
+Un puntaje aplica una regla a un caso.
+
+> País A, año 2025: elecciones competitivas = 1.
+
+::: {.curso-callout}
+Podemos cuestionar tanto la elección del indicador como la regla que produce el puntaje.
+:::
+
+## Validez y confiabilidad
+
+::: {.columns}
+::: {.column width="47%"}
+### Validez
+
+La medida representa adecuadamente el concepto sistematizado.
+:::
+
+::: {.column width="47%"}
+### Confiabilidad
+
+La regla produce resultados consistentes cuando se aplica de la misma manera.
+:::
+:::
+
+Una medida puede ser confiable y no ser válida.
+
+> Contar menciones de corrupción en la prensa puede ser consistente, pero también reflejar libertad de prensa.
+
+## Evidencia sobre la validez
+
+La validez se sostiene con argumentos y evidencia.
+
+1. **Contenido:** los indicadores cubren los atributos definidos.
+2. **Convergencia:** otras medidas del mismo concepto producen patrones compatibles.
+3. **Discriminación:** la medida no captura principalmente otro concepto.
+4. **Casos conocidos:** los puntajes resultan plausibles en casos bien comprendidos.
+
+::: {.curso-callout}
+Ninguna prueba aislada establece validez para todos los usos y poblaciones.
+:::
+
+## Dos medidas de democracia
+
+::: {.columns}
+::: {.column width="47%"}
+### Medida dicotómica
+
+Clasifica cada país como democracia o no democracia.
+
+Facilita comparaciones claras, pero pierde diferencias internas.
+:::
+
+::: {.column width="47%"}
+### Índice continuo
+
+Combina varios atributos y grados.
+
+Captura matices, pero exige justificar dimensiones, pesos y agregación.
+:::
+:::
+
+::: {.curso-callout}
+La mejor medida depende de la definición y de la inferencia que queremos realizar.
+:::
+
+## Medir también distribuye visibilidad
+
+Las decisiones de medición pueden:
+
+- excluir experiencias que el indicador no reconoce;
+- comparar como equivalentes situaciones distintas;
+- convertir una convención normativa en un dato aparentemente neutral;
+- asignar recursos o sanciones mediante clasificaciones discutibles.
+
+::: {.curso-callout}
+Debemos explicar quién queda mal representado y qué consecuencias puede tener el error.
+:::
+
+## Taller: auditoría de un concepto
+
+Trabajen con X o Y de su proyecto.
+
+1. Escriban el concepto de fondo en una frase.
+2. Propongan una definición sistematizada.
+3. Identifiquen sus atributos centrales.
+4. Elijan un indicador y una regla de puntuación.
+5. Describan un caso que la medida clasificaría mal.
+6. Propongan evidencia para evaluar la validez.
+
+::: {.fuente}
+Trabajo individual: 8 minutos · Discusión en parejas: 7 minutos · Puesta en común: 5 minutos.
+:::
+
+## Pausa
+
+::: {.center}
+\Huge
+10 minutos
+:::
+
+## La pregunta de diseño
+
+Un diseño conecta una pregunta con una respuesta defendible.
+
+Antes de elegir una técnica, necesitamos precisar:
+
+- qué queremos aprender;
+- sobre qué población o casos;
+- qué comparación o evidencia permite aprenderlo;
+- qué supuestos sostienen la inferencia.
+
+::: {.curso-callout}
+El nombre del método dice menos que la lógica que conecta evidencia y conclusión.
+:::
+
+## MIDA como diagnóstico
+
+| Elemento | Pregunta central |
+|:--|:--|
+| **M — Model** | ¿Cómo funciona el mundo según el argumento? |
+| **I — Inquiry** | ¿Qué queremos aprender? |
+| **D — Data strategy** | ¿Qué datos observaremos y cómo se generan? |
+| **A — Answer strategy** | ¿Cómo convertiremos los datos en una respuesta? |
+
+::: {.curso-callout}
+Un diseño falla cuando estos elementos no están alineados.
+:::
+
+::: {.fuente}
+Blair, Coppock y Humphreys (2023), caps. 2–3.
+:::
+
+## Experimentos y diseños cuasi-experimentales
+
+::: {.columns}
+::: {.column width="47%"}
+### Experimento
+
+El investigador asigna el tratamiento mediante una regla aleatoria.
+
+La comparación busca grupos equivalentes antes del tratamiento.
+:::
+
+::: {.column width="47%"}
+### Cuasi-experimento
+
+Una regla o evento externo genera variación comparable.
+
+La credibilidad depende de supuestos específicos sobre esa variación.
+:::
+:::
+
+Límite común: la comparación puede identificar un efecto en un contexto estrecho.
+
+## Diseños observacionales
+
+El investigador observa tratamientos y resultados producidos por procesos sociales.
+
+La estrategia puede usar:
+
+- controles y ajuste estadístico;
+- cambios en el tiempo;
+- comparaciones entre unidades;
+- reglas institucionales que generan variación.
+
+::: {.curso-callout}
+La amenaza central consiste en que el proceso que asigna X también afecte Y.
+:::
+
+## Estudios de caso y comparación cualitativa
+
+Estos diseños permiten examinar:
+
+- secuencias y mecanismos;
+- decisiones de actores;
+- condiciones que activan o bloquean un proceso;
+- explicaciones rivales dentro de contextos concretos.
+
+La selección de casos determina qué inferencias podemos sostener.
+
+::: {.curso-callout}
+La profundidad no elimina la necesidad de comparación, incluso dentro de un solo caso.
+:::
+
+## Diseños mixtos y principales intercambios
+
+Combinar estrategias sirve cuando cada fuente de evidencia responde una parte distinta de la pregunta.
+
+| Prioridad | Posible fortaleza | Riesgo |
+|:--|:--|:--|
+| Control | atribución causal | contexto estrecho |
+| Cobertura | generalización | medidas menos profundas |
+| Profundidad | mecanismos y significado | menor alcance |
+
+::: {.curso-callout}
+Un diseño mixto necesita una lógica de integración, no solo métodos diferentes.
+:::
+
+::: {.fuente}
+Mahoney y Goertz (2006); Blair, Coppock y Humphreys (2023).
+:::
+
+## Diagnóstico integrador
+
+Para el resumen de investigación que reciban, expliquen:
+
+1. ¿Cómo define sus conceptos centrales?
+2. ¿Los indicadores representan esas definiciones?
+3. ¿Qué comparación o evidencia sostiene la respuesta?
+4. ¿Cuál es el supuesto más vulnerable?
+5. ¿Qué cambio concreto mejoraría el diseño?
+
+::: {.curso-callout}
+Ticket de salida: escriban una decisión conceptual o de medición que deben revisar en su propio proyecto.
+:::
