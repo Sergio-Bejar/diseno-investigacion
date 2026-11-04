@@ -1,0 +1,455 @@
+---
+title: "DISEÑO DE INVESTIGACIÓN I"
+subtitle: "Sesión 9 · Selección de casos I"
+author: "Sergio Béjar López"
+date: 2026-11-04
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    slide-level: 2
+    keep-tex: true
+    include-in-header: tema-curso.tex
+    toc: false
+execute:
+  echo: false
+---
+
+## ¿Qué nos enseñan tres casos exitosos?
+
+Tres municipios redujeron la violencia. En los tres hubo coordinación entre policías y fiscalías.
+
+> ¿La coordinación explica la reducción de la violencia?
+
+- ¿Qué ocurre donde hubo coordinación, pero la violencia no bajó?
+- ¿Y donde bajó sin coordinación?
+
+::: {.curso-callout}
+La selección decide qué explicaciones pueden ponerse a prueba.
+:::
+
+::: {.fuente}
+Ejemplo hipotético para discusión; no describe municipios reales.
+:::
+
+## Ruta de la sesión
+
+Al terminar podremos:
+
+- delimitar un universo de casos;
+- detectar qué comparación elimina una regla de selección;
+- elegir casos según el propósito de la inferencia;
+- defender una selección y reconocer sus límites.
+
+::: {.fuente}
+Lógica y sesgos: 60 min · Pausa: 10 min · Estrategias: 45 min · Taller y cierre: 35 min.
+
+Lecturas: Geddes (2003), cap. 3; Gerring (2004); Seawright y Gerring (2008).
+:::
+
+## De los conceptos al universo de casos
+
+La sesión 7 preguntó cómo reconocer X y Y. Hoy preguntamos dónde observarlos.
+
+::: {.proceso}
+**Pregunta** $\longrightarrow$ **universo** $\longrightarrow$ **casos** $\longrightarrow$ **evidencia**
+:::
+
+Antes de elegir nombres, definamos:
+
+- la unidad y el periodo de análisis;
+- las condiciones bajo las que aplica el argumento;
+- las reglas de inclusión y exclusión.
+
+::: {.curso-callout}
+Una frontera teórica debe justificarse antes de conocer qué casos favorecen la hipótesis.
+:::
+
+## ¿Un caso de qué?
+
+En la definición de Gerring, un estudio de caso examina intensivamente una unidad para comprender una clase más amplia de unidades.
+
+::: {.columns}
+::: {.column width="47%"}
+### Unidad delimitada
+
+Un municipio durante una administración.
+
+Debe precisarse qué episodio se estudia.
+:::
+::: {.column width="47%"}
+### Observaciones internas
+
+Decisiones, entrevistas, documentos y cambios en el tiempo.
+
+Muchas entrevistas no equivalen a muchos municipios.
+:::
+:::
+
+::: {.fuente}
+Gerring (2004), pp. 341–343. Ejemplo municipal de elaboración propia.
+:::
+
+## La selección depende de la pregunta
+
+| Si queremos aprender... | Necesitamos observar... |
+|:--|:--|
+| qué tan frecuente es Y | casos que permitan describir su distribución |
+| si X cambia Y | una comparación creíble entre valores de X |
+| cómo se produjo Y | huellas del proceso y de explicaciones rivales |
+| dónde falla una teoría | casos que contradigan sus expectativas |
+
+::: {.curso-callout}
+El mismo caso puede servir para descubrir un mecanismo y ser insuficiente para estimar un efecto promedio.
+:::
+
+## Seleccionar únicamente donde Y ocurrió
+
+Supongamos que estudiamos los ocho municipios donde bajó la violencia:
+
+| Casos seleccionados | Número |
+|:--|--:|
+| Con coordinación | 6 |
+| Sin coordinación | 2 |
+
+El 75% de los éxitos tuvo coordinación.
+
+> ¿Eso significa que coordinarse aumenta la probabilidad de éxito?
+
+::: {.fuente}
+Datos simulados. Discusión del problema de selección: Geddes (2003), cap. 3.
+:::
+
+## El universo cambia la conclusión
+
+Ahora observamos los dieciséis municipios del universo hipotético:
+
+| | Bajó la violencia | No bajó | Total |
+|:--|--:|--:|--:|
+| Con coordinación | 6 | 6 | 12 |
+| Sin coordinación | 2 | 2 | 4 |
+
+- Con coordinación: éxito en 6 de 12 = **50%**.
+- Sin coordinación: éxito en 2 de 4 = **50%**.
+
+::: {.curso-callout}
+Que X sea común entre los éxitos no demuestra que los éxitos sean más frecuentes con X.
+:::
+
+::: {.fuente}
+Datos simulados: ejercicio lógico, no estimación causal. La tabla completa tampoco elimina confusión.
+:::
+
+## Necesidad y suficiencia exigen pruebas distintas
+
+::: {.columns}
+::: {.column width="47%"}
+### X es necesaria para Y
+
+Todo Y requiere X.
+
+Un caso con **Y sin X** contradice la afirmación determinista.
+
+En la tabla hay dos.
+:::
+::: {.column width="47%"}
+### X es suficiente para Y
+
+Siempre que hay X ocurre Y.
+
+Un caso con **X sin Y** contradice la afirmación determinista.
+
+En la tabla hay seis.
+:::
+:::
+
+::: {.curso-callout}
+Una hipótesis probabilística admite excepciones: requiere evaluar probabilidades, incertidumbre y alternativas.
+:::
+
+## Elegir por Y puede ser útil
+
+Estudiar casos con el resultado permite:
+
+- reconstruir cómo ocurrió un episodio;
+- buscar mecanismos y formular hipótesis;
+- examinar una condición presuntamente necesaria.
+
+El problema aparece al inferir un efecto de X sin una comparación adecuada.
+
+::: {.curso-callout}
+Preguntemos qué inferencia permite la selección, en lugar de prohibir toda selección por el resultado.
+:::
+
+::: {.fuente}
+Geddes (2003), cap. 3; Collier y Mahoney (1996), lectura recomendada.
+:::
+
+## La disponibilidad también selecciona
+
+Los casos accesibles pueden diferir sistemáticamente de los inaccesibles:
+
+- gobiernos transparentes dejan más archivos;
+- organizaciones supervivientes conservan registros;
+- actores con recursos aceptan más entrevistas;
+- episodios visibles reciben mayor cobertura de prensa.
+
+::: {.proceso}
+**Universo teórico** $\longrightarrow$ **casos accesibles** $\longrightarrow$ **casos observados**
+:::
+
+¿La misma condición que facilita el acceso también afecta X o Y?
+
+::: {.fuente}
+Ejemplos hipotéticos para auditar el proceso de generación de evidencia.
+:::
+
+## Ejercicio: reparar la selección
+
+Un equipo estudia cuatro reformas anticorrupción exitosas. En todas hubo presión empresarial y concluye que esa presión produce el éxito.
+
+1. ¿Cuál es el universo pertinente?
+2. ¿Qué comparaciones faltan?
+3. ¿Qué caso añadirían primero y por qué?
+4. ¿Qué podría afirmarse si solo hubiera acceso a los éxitos?
+
+::: {.curso-callout}
+Propongan una revisión de la selección y una conclusión más acotada.
+:::
+
+::: {.fuente}
+Caso hipotético. Parejas: 6 min · Discusión: 4 min, dentro del primer bloque.
+:::
+
+## Pausa
+
+::: {.center}
+\Huge
+10 minutos
+:::
+
+## El menú de selección
+
+| Estrategia | Criterio principal |
+|:--|:--|
+| Típico | se ajusta a una relación esperada |
+| Diversos | cubren configuraciones relevantes |
+| Extremo | valor inusual de una variable |
+| Desviado | se aparta de una predicción |
+| Influyente | altera mucho un resultado al excluirlo |
+| Más similares | semejanza de contexto, variación focal |
+| Más diferentes | contraste de contextos, rasgos compartidos |
+
+::: {.fuente}
+Síntesis de Seawright y Gerring (2008), tabla 1. Cada estrategia responde un propósito distinto.
+:::
+
+## Típico, extremo y desviado
+
+::: {.columns}
+::: {.column width="47%"}
+### La distinción
+
+**Típico:** cercano al patrón.
+
+**Extremo:** lejos del centro de X o Y.
+
+**Desviado:** lejos de lo esperado dado X.
+:::
+::: {.column width="47%"}
+### Ejemplo hipotético
+
+Un municipio con violencia muy alta puede ser extremo y, al mismo tiempo, ajustarse a la predicción de una teoría.
+
+No es desviado solo porque su violencia sea excepcional.
+:::
+:::
+
+::: {.curso-callout}
+Para llamar desviado a un caso hay que especificar la expectativa que incumple.
+:::
+
+::: {.fuente}
+Distinciones: Seawright y Gerring (2008). Ejemplo de elaboración propia.
+:::
+
+## Casos más similares
+
+Comparamos contextos parecidos con distinta X y distinta Y.
+
+| Municipio | Contexto relevante | Coordinación X | Reducción Y |
+|:--|:--|:--:|:--:|
+| A | semejante | Sí | Sí |
+| B | semejante | No | No |
+
+**Pregunta:** ¿qué hace creíble que la coordinación explique la diferencia?
+
+**Riesgos:** capacidad estatal no observada, causalidad inversa o cambios simultáneos.
+
+::: {.fuente}
+Lógica comparativa: Seawright y Gerring (2008). Diseño hipotético: la semejanza no equivale a asignación aleatoria.
+:::
+
+## Casos más diferentes
+
+Buscamos una explicación compartida en contextos contrastantes.
+
+| Municipio | Contexto | Coordinación X | Reducción Y |
+|:--|:--|:--:|:--:|
+| C | urbano, recursos altos | Sí | Sí |
+| D | rural, recursos bajos | Sí | Sí |
+
+**Pregunta:** ¿opera el mismo proceso en ambos contextos?
+
+**Límite:** compartir X y Y no prueba que X sea suficiente ni descarta otras causas compartidas.
+
+::: {.fuente}
+Lógica comparativa: Seawright y Gerring (2008). Ejemplo hipotético.
+:::
+
+## Casos cruciales: una prueba exigente
+
+La fuerza de la prueba depende de una predicción previa.
+
+::: {.columns}
+::: {.column width="47%"}
+### Caso más probable
+
+La teoría tiene condiciones muy favorables.
+
+Si falla aquí, surge una dificultad seria para el argumento.
+:::
+::: {.column width="47%"}
+### Caso menos probable
+
+La teoría enfrenta condiciones adversas.
+
+Si funciona aquí, merece examinarse su alcance.
+:::
+:::
+
+::: {.curso-callout}
+Expliquen por qué el caso es exigente y qué resultado esperaría una teoría rival. Ningún rótulo vuelve decisiva una prueba.
+:::
+
+::: {.fuente}
+Discusión de pruebas y alcance: Gerring (2004). No confundir caso crucial con caso políticamente importante.
+:::
+
+## ¿Por qué no escoger al azar?
+
+Con muy pocos casos, una muestra aleatoria puede dejar fuera la variación que necesitamos estudiar.
+
+La selección deliberada exige documentar:
+
+1. qué información previa se usó;
+2. qué dimensión guio la elección;
+3. qué casos alternativos se consideraron;
+4. qué inferencias quedan fuera de alcance.
+
+::: {.curso-callout}
+Elegir deliberadamente tampoco convierte a los casos en representativos de toda la población.
+:::
+
+::: {.fuente}
+Seawright y Gerring (2008), pp. 295–296.
+:::
+
+## Qué aporta un estudio de caso
+
+Puede precisar conceptos, descubrir procesos y examinar explicaciones rivales con evidencia intensiva.
+
+No entrega por sí solo la distribución de un fenómeno ni su efecto promedio en una población.
+
+::: {.proceso}
+**Conocimiento del caso** $\longleftrightarrow$ **comparación entre casos**
+:::
+
+La generalización exige explicar a qué otros contextos se extiende el argumento y bajo qué condiciones.
+
+::: {.fuente}
+Gerring (2004): fortalezas, límites y complementariedad de estrategias.
+:::
+
+## Del caso a las huellas del mecanismo
+
+La selección indica dónde mirar; el análisis debe especificar qué buscar.
+
+::: {.proceso}
+**Coordinación** $\longrightarrow$ **intercambio de información** $\longrightarrow$ **acciones conjuntas** $\longrightarrow$ **resultado**
+:::
+
+- ¿Hay registros fechados de información compartida y utilizada?
+- ¿Las acciones ocurrieron antes del cambio en la violencia?
+- ¿Una explicación rival produciría las mismas huellas?
+
+::: {.curso-callout}
+Una secuencia compatible orienta la prueba, pero no basta para atribuir causalidad.
+:::
+
+::: {.fuente}
+Ejemplo hipotético. Puente a la sesión 10: Bennett y Elman (2006); Collier (2011).
+:::
+
+## Taller: delimiten su universo
+
+Trabajen con su pregunta de investigación.
+
+1. Definan unidad, periodo y condiciones de alcance.
+2. Escriban una regla de inclusión y otra de exclusión.
+3. Enumeren al menos seis casos candidatos.
+4. Indiquen qué saben y qué ignoran sobre X, Y y el acceso.
+5. Identifiquen qué casos desaparecerían por falta de información.
+
+::: {.fuente}
+Trabajo individual: 8 min · Comparación en parejas: 5 min.
+
+Si todavía no pueden nombrar seis casos, expliquen qué información necesitan para construir el universo.
+:::
+
+## Taller: defiendan dos casos
+
+Seleccionen dos casos candidatos y completen:
+
+| Decisión | Justificación |
+|:--|:--|
+| Propósito | ¿descubrir, contrastar o examinar un proceso? |
+| Estrategia | ¿qué criterio de selección sigue cada caso? |
+| Comparación | ¿qué varía y qué debe mantenerse comparable? |
+| Riesgo | ¿qué alternativa sigue siendo plausible? |
+| Revisión | ¿qué evidencia los haría cambiar la selección? |
+
+::: {.fuente}
+Parejas: 10 min · Puesta en común: 7 min. El compañero propone un caso alternativo y explica qué permitiría aprender.
+:::
+
+## Tres lecturas, tres preguntas de control
+
+| Lectura | Pregunta para su diseño |
+|:--|:--|
+| Geddes (2003), cap. 3 | ¿Qué comparación desaparece al elegir mis casos? |
+| Gerring (2004) | ¿De qué clase de unidades es un caso mi unidad? |
+| Seawright y Gerring (2008) | ¿Qué propósito cumple mi criterio de selección? |
+
+::: {.curso-callout}
+La selección debe poder defenderse aun cuando los casos contradigan el argumento.
+:::
+
+## Antes de salir
+
+Escriban en cuatro frases:
+
+- mi universo es...;
+- elijo estos casos porque permiten aprender...;
+- el principal riesgo de selección es...;
+- cambiaría mi selección si observara...
+
+**Próxima sesión · 11 de noviembre**
+
+Estudios de caso y *process tracing*: Bennett y Elman (2006), pp. 455–476; Collier (2011), pp. 823–830.
+
+::: {.fuente}
+Ticket de salida: 5 min. Conserven el ejercicio como insumo para su memo de diseño.
+:::
